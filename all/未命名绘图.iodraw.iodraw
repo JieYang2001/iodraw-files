@@ -257,7 +257,7 @@
         <mxCell id="qShOt1ov1FfD4mLS4IuU-38" value="model_input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="-340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qShOt1ov1FfD4mLS4IuU-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qShOt1ov1FfD4mLS4IuU-39" value="image_processor()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
