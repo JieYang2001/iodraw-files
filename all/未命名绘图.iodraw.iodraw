@@ -46,7 +46,7 @@
         <mxCell id="sPOjhc_nmHIK_-S4q5B2-16" value="model_inputs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sPOjhc_nmHIK_-S4q5B2-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sPOjhc_nmHIK_-S4q5B2-17" value="text_embedding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="-220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
