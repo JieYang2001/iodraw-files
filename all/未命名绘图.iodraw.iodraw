@@ -212,16 +212,6 @@
         <mxCell id="qShOt1ov1FfD4mLS4IuU-29" value="text_embedding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="210" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qShOt1ov1FfD4mLS4IuU-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="213.5" y="399.9999999999998" as="sourcePoint" />
-            <mxPoint x="214" y="70" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="213.5" y="60" />
-              <mxPoint x="392.5" y="60" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qShOt1ov1FfD4mLS4IuU-34" value="is_prifill&lt;br&gt;&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;Qwen2_5_VLForConditionalGeneration.forward()&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-190" y="-302" width="310" height="70" as="geometry" />
         </mxCell>
@@ -242,7 +232,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qShOt1ov1FfD4mLS4IuU-38" value="model_input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="-340" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="-160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qShOt1ov1FfD4mLS4IuU-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qShOt1ov1FfD4mLS4IuU-39" target="qShOt1ov1FfD4mLS4IuU-43">
           <mxGeometry relative="1" as="geometry" />
