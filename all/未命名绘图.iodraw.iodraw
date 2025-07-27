@@ -174,7 +174,7 @@
         <mxCell id="qShOt1ov1FfD4mLS4IuU-5" value="输入 message" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qShOt1ov1FfD4mLS4IuU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qShOt1ov1FfD4mLS4IuU-7">
+        <mxCell id="qShOt1ov1FfD4mLS4IuU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qShOt1ov1FfD4mLS4IuU-7" target="qShOt1ov1FfD4mLS4IuU-39">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="235" y="530" as="targetPoint" />
           </mxGeometry>
@@ -257,8 +257,8 @@
         <mxCell id="qShOt1ov1FfD4mLS4IuU-38" value="model_input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="-340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qShOt1ov1FfD4mLS4IuU-39" value="image_processor()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="175" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="qShOt1ov1FfD4mLS4IuU-39" value="&lt;div&gt;顺序执行&lt;/div&gt;image_processor()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
