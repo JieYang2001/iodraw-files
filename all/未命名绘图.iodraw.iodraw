@@ -221,7 +221,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qShOt1ov1FfD4mLS4IuU-29" value="text_embedding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qShOt1ov1FfD4mLS4IuU-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qShOt1ov1FfD4mLS4IuU-31" target="qShOt1ov1FfD4mLS4IuU-33">
           <mxGeometry relative="1" as="geometry" />
@@ -233,7 +233,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qShOt1ov1FfD4mLS4IuU-33" value="VIT encoding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="175" y="-140" width="120" height="60" as="geometry" />
+          <mxGeometry x="175" y="-130" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qShOt1ov1FfD4mLS4IuU-34" value="is_prifill&lt;br&gt;&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;Qwen2_5_VLForConditionalGeneration.forward()&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-190" y="-302" width="310" height="70" as="geometry" />
