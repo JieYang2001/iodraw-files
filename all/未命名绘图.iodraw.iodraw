@@ -49,7 +49,7 @@
         <mxCell id="sPOjhc_nmHIK_-S4q5B2-17" value="text_embedding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="445" y="-260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sPOjhc_nmHIK_-S4q5B2-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sPOjhc_nmHIK_-S4q5B2-18" value="patched_embedding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="-280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
