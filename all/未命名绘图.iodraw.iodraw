@@ -43,7 +43,7 @@
         <mxCell id="sPOjhc_nmHIK_-S4q5B2-14" value="使用&amp;lt;place_holder&amp;gt;占位符" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="415" y="450" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sPOjhc_nmHIK_-S4q5B2-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sPOjhc_nmHIK_-S4q5B2-15" value="tokenize( text )" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
