@@ -140,11 +140,14 @@
         <mxCell id="bS-dXMgoQpgwmhXcEv1W-29" value="Prefetch Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bS-dXMgoQpgwmhXcEv1W-1">
           <mxGeometry x="773" y="177" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KqZ5j5PSKGZTuvCGyMa8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="bS-dXMgoQpgwmhXcEv1W-1" source="KqZ5j5PSKGZTuvCGyMa8-0" target="KqZ5j5PSKGZTuvCGyMa8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KqZ5j5PSKGZTuvCGyMa8-0" value="inputs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bS-dXMgoQpgwmhXcEv1W-1">
           <mxGeometry x="-78" y="936" width="154" height="26" as="geometry" />
         </mxCell>
         <mxCell id="KqZ5j5PSKGZTuvCGyMa8-2" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bS-dXMgoQpgwmhXcEv1W-1">
-          <mxGeometry x="-61" y="822" width="120" height="60" as="geometry" />
+          <mxGeometry x="-60" y="823" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
