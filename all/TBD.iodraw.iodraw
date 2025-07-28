@@ -143,8 +143,11 @@
         <mxCell id="KqZ5j5PSKGZTuvCGyMa8-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bS-dXMgoQpgwmhXcEv1W-1">
           <mxGeometry x="-73" y="737" width="299" height="206" as="geometry" />
         </mxCell>
-        <mxCell id="KqZ5j5PSKGZTuvCGyMa8-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bS-dXMgoQpgwmhXcEv1W-1">
+        <mxCell id="KqZ5j5PSKGZTuvCGyMa8-15" value="self-attention" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bS-dXMgoQpgwmhXcEv1W-1">
           <mxGeometry y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KqZ5j5PSKGZTuvCGyMa8-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bS-dXMgoQpgwmhXcEv1W-1">
+          <mxGeometry y="768" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
