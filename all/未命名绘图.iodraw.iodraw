@@ -34,8 +34,8 @@
         <mxCell id="aupQUzue--yuyMIHu5-Q-10" value="KV cache" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aupQUzue--yuyMIHu5-Q-8">
           <mxGeometry y="83" width="110" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="aupQUzue--yuyMIHu5-Q-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aupQUzue--yuyMIHu5-Q-8">
-          <mxGeometry x="10" y="44" width="120" height="60" as="geometry" />
+        <mxCell id="aupQUzue--yuyMIHu5-Q-11" value="others" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aupQUzue--yuyMIHu5-Q-8">
+          <mxGeometry x="107" y="35" width="53" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
