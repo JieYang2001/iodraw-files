@@ -11,7 +11,7 @@
           <mxGeometry x="110" y="591" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aupQUzue--yuyMIHu5-Q-7" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="54" y="368" width="250" height="170" as="geometry" />
+          <mxGeometry x="54" y="368" width="264" height="170" as="geometry" />
         </mxCell>
         <mxCell id="aupQUzue--yuyMIHu5-Q-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="aupQUzue--yuyMIHu5-Q-7" vertex="1">
           <mxGeometry y="30" width="250" height="140" as="geometry" />
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="aupQUzue--yuyMIHu5-Q-3" value="KV cache pool" style="rounded=0;whiteSpace=wrap;html=1;" parent="aupQUzue--yuyMIHu5-Q-7" vertex="1">
           <mxGeometry x="8" y="61" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RqQJO2G8NfS1bnn85WKy-1" value="Pinned Mem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aupQUzue--yuyMIHu5-Q-7">
+          <mxGeometry x="128" y="61" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aupQUzue--yuyMIHu5-Q-8" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="403" y="347" width="160" height="125" as="geometry" />
