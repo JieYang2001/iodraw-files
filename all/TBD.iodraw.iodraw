@@ -49,8 +49,11 @@
         <mxCell id="RqQJO2G8NfS1bnn85WKy-2" value="system tokens" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-15" y="1179" width="156" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="RqQJO2G8NfS1bnn85WKy-3" value="system tokens" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RqQJO2G8NfS1bnn85WKy-3" value="image tokens" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="141" y="1179" width="156" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="RqQJO2G8NfS1bnn85WKy-4" value="image tokens" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="151" y="1189" width="156" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
