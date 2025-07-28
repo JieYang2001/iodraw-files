@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aupQUzue--yuyMIHu5-Q-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-7" y="320" width="693" height="366" as="geometry" />
+        </mxCell>
         <mxCell id="aupQUzue--yuyMIHu5-Q-4" value="Pool Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="600" width="120" height="60" as="geometry" />
         </mxCell>
@@ -37,8 +40,8 @@
         <mxCell id="aupQUzue--yuyMIHu5-Q-11" value="others" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aupQUzue--yuyMIHu5-Q-8">
           <mxGeometry x="110" y="35" width="50" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="aupQUzue--yuyMIHu5-Q-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-7" y="320" width="693" height="366" as="geometry" />
+        <mxCell id="aupQUzue--yuyMIHu5-Q-13" value="System" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="320" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
