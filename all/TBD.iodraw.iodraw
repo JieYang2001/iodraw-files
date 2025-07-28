@@ -277,8 +277,11 @@
         <mxCell id="W_CZJQp136RNf5v9KQyQ-1" value="P1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="270" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="W_CZJQp136RNf5v9KQyQ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W_CZJQp136RNf5v9KQyQ-2" value="P2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="270" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W_CZJQp136RNf5v9KQyQ-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="270" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
