@@ -153,13 +153,13 @@
           <mxGeometry x="45.75" y="884" width="147.5" height="31" as="geometry" />
         </mxCell>
         <mxCell id="c6FLvK84DfqM0rakq__z-6" value="" style="group" vertex="1" connectable="0" parent="bS-dXMgoQpgwmhXcEv1W-1">
-          <mxGeometry x="17" y="1000" width="210" height="23" as="geometry" />
+          <mxGeometry x="17" y="993" width="203" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c6FLvK84DfqM0rakq__z-1" value="image tokens" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c6FLvK84DfqM0rakq__z-6">
-          <mxGeometry width="102" height="23" as="geometry" />
+          <mxGeometry width="98.6" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c6FLvK84DfqM0rakq__z-2" value="text tokens" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c6FLvK84DfqM0rakq__z-6">
-          <mxGeometry x="102" width="108" height="23" as="geometry" />
+          <mxGeometry x="98.6" width="104.4" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
