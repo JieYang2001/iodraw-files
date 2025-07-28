@@ -4,20 +4,26 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aupQUzue--yuyMIHu5-Q-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="390" width="250" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="aupQUzue--yuyMIHu5-Q-2" value="CPU Mem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="360" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aupQUzue--yuyMIHu5-Q-3" value="KV cache pool" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="aupQUzue--yuyMIHu5-Q-4" value="Pool Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aupQUzue--yuyMIHu5-Q-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="390" width="150" height="140" as="geometry" />
+          <mxGeometry x="450" y="415" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aupQUzue--yuyMIHu5-Q-6" value="GPU Mem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aupQUzue--yuyMIHu5-Q-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="360" width="250" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="aupQUzue--yuyMIHu5-Q-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aupQUzue--yuyMIHu5-Q-7">
+          <mxGeometry y="30" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="aupQUzue--yuyMIHu5-Q-2" value="CPU Mem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="aupQUzue--yuyMIHu5-Q-7">
+          <mxGeometry x="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aupQUzue--yuyMIHu5-Q-3" value="KV cache pool" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aupQUzue--yuyMIHu5-Q-7">
+          <mxGeometry x="65" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
