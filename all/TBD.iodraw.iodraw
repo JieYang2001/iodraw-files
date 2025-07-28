@@ -157,7 +157,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="c6FLvK84DfqM0rakq__z-21" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c6FLvK84DfqM0rakq__z-17">
+        <mxCell id="c6FLvK84DfqM0rakq__z-21" value="所有的 image KV" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c6FLvK84DfqM0rakq__z-17">
           <mxGeometry x="-0.0286" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -172,6 +172,11 @@
               <mxPoint x="208" y="611" />
               <mxPoint x="2" y="611" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c6FLvK84DfqM0rakq__z-22" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c6FLvK84DfqM0rakq__z-19">
+          <mxGeometry x="-0.0306" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KqZ5j5PSKGZTuvCGyMa8-17" value="projection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bS-dXMgoQpgwmhXcEv1W-1">
