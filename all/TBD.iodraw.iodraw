@@ -23,10 +23,10 @@
           <mxGeometry x="2" y="61" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RqQJO2G8NfS1bnn85WKy-1" value="Pinned Mem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aupQUzue--yuyMIHu5-Q-7">
-          <mxGeometry x="126" y="61" width="120" height="60" as="geometry" />
+          <mxGeometry x="128" y="61" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aupQUzue--yuyMIHu5-Q-8" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="403" y="347" width="160" height="125" as="geometry" />
+          <mxGeometry x="399" y="360" width="160" height="125" as="geometry" />
         </mxCell>
         <mxCell id="aupQUzue--yuyMIHu5-Q-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="aupQUzue--yuyMIHu5-Q-8" vertex="1">
           <mxGeometry y="35" width="160" height="90" as="geometry" />
