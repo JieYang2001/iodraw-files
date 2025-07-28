@@ -245,6 +245,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="c6FLvK84DfqM0rakq__z-32" value="预取 index" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c6FLvK84DfqM0rakq__z-31">
+          <mxGeometry x="-0.1942" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="c6FLvK84DfqM0rakq__z-30" value="计算预取 index" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="bS-dXMgoQpgwmhXcEv1W-1">
           <mxGeometry x="387.5" y="902" width="125" height="30" as="geometry" />
         </mxCell>
