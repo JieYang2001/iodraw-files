@@ -295,16 +295,16 @@
         <mxCell id="W_CZJQp136RNf5v9KQyQ-7" value="D4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="400" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="W_CZJQp136RNf5v9KQyQ-9" value="En2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W_CZJQp136RNf5v9KQyQ-9" value="En1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="320" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="W_CZJQp136RNf5v9KQyQ-10" value="En0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="320" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="W_CZJQp136RNf5v9KQyQ-11" value="En2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W_CZJQp136RNf5v9KQyQ-11" value="En31" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="320" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="W_CZJQp136RNf5v9KQyQ-12" value="En1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W_CZJQp136RNf5v9KQyQ-12" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="320" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
