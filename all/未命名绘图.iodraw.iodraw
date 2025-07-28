@@ -10,8 +10,8 @@
         <mxCell id="aupQUzue--yuyMIHu5-Q-2" value="CPU Mem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aupQUzue--yuyMIHu5-Q-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="630" width="120" height="60" as="geometry" />
+        <mxCell id="aupQUzue--yuyMIHu5-Q-3" value="KV cache pool" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
