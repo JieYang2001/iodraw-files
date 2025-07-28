@@ -141,16 +141,16 @@
           <mxGeometry x="773" y="177" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KqZ5j5PSKGZTuvCGyMa8-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bS-dXMgoQpgwmhXcEv1W-1">
-          <mxGeometry x="-73" y="737" width="299" height="206" as="geometry" />
+          <mxGeometry x="-30" y="743" width="299" height="206" as="geometry" />
         </mxCell>
         <mxCell id="KqZ5j5PSKGZTuvCGyMa8-15" value="self-attention" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bS-dXMgoQpgwmhXcEv1W-1">
-          <mxGeometry x="-9.5" y="827" width="147" height="35" as="geometry" />
+          <mxGeometry x="45.75" y="832" width="147" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KqZ5j5PSKGZTuvCGyMa8-16" value="Feed-forward" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bS-dXMgoQpgwmhXcEv1W-1">
-          <mxGeometry x="-9.5" y="772" width="146.5" height="34" as="geometry" />
+          <mxGeometry x="45.75" y="777" width="146.5" height="34" as="geometry" />
         </mxCell>
         <mxCell id="KqZ5j5PSKGZTuvCGyMa8-17" value="projection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bS-dXMgoQpgwmhXcEv1W-1">
-          <mxGeometry x="-9.5" y="879" width="147.5" height="31" as="geometry" />
+          <mxGeometry x="45.75" y="884" width="147.5" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
