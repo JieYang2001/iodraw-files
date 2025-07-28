@@ -58,6 +58,9 @@
         <mxCell id="RqQJO2G8NfS1bnn85WKy-5" value="LLM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="296" y="1036" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RqQJO2G8NfS1bnn85WKy-6" value="VIT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
