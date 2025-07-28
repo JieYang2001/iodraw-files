@@ -144,10 +144,10 @@
           <mxGeometry x="-73" y="737" width="299" height="206" as="geometry" />
         </mxCell>
         <mxCell id="KqZ5j5PSKGZTuvCGyMa8-15" value="self-attention" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bS-dXMgoQpgwmhXcEv1W-1">
-          <mxGeometry x="-3" y="823" width="120" height="45" as="geometry" />
+          <mxGeometry x="-9.5" y="818" width="147" height="44" as="geometry" />
         </mxCell>
         <mxCell id="KqZ5j5PSKGZTuvCGyMa8-16" value="Feed-forward" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bS-dXMgoQpgwmhXcEv1W-1">
-          <mxGeometry y="768" width="120" height="33" as="geometry" />
+          <mxGeometry y="768" width="135" height="46" as="geometry" />
         </mxCell>
         <mxCell id="KqZ5j5PSKGZTuvCGyMa8-17" value="projection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bS-dXMgoQpgwmhXcEv1W-1">
           <mxGeometry x="4" y="890" width="120" height="33" as="geometry" />
