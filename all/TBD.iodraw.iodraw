@@ -81,7 +81,7 @@
         <mxCell id="RqQJO2G8NfS1bnn85WKy-7" value="images" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340.5" y="1328" width="52" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="RqQJO2G8NfS1bnn85WKy-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RqQJO2G8NfS1bnn85WKy-13" target="RqQJO2G8NfS1bnn85WKy-5">
+        <mxCell id="RqQJO2G8NfS1bnn85WKy-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="RqQJO2G8NfS1bnn85WKy-13" target="RqQJO2G8NfS1bnn85WKy-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RqQJO2G8NfS1bnn85WKy-13" value="generation token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
