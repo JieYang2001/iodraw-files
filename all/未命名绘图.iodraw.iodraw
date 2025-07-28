@@ -29,7 +29,10 @@
           <mxGeometry x="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aupQUzue--yuyMIHu5-Q-9" value="Model Weight" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aupQUzue--yuyMIHu5-Q-8">
-          <mxGeometry y="35" width="120" height="60" as="geometry" />
+          <mxGeometry y="35" width="85" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="aupQUzue--yuyMIHu5-Q-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="628" y="574" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
