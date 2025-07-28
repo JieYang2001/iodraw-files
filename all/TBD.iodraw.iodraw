@@ -81,17 +81,14 @@
         <mxCell id="RqQJO2G8NfS1bnn85WKy-7" value="images" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340.5" y="1328" width="52" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="RqQJO2G8NfS1bnn85WKy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="RqQJO2G8NfS1bnn85WKy-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="525" y="1151" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="617" y="1148" />
-              <mxPoint x="503" y="1148" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RqQJO2G8NfS1bnn85WKy-13" value="generation token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="569" y="1188" width="95" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="RqQJO2G8NfS1bnn85WKy-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="632" y="1099" as="sourcePoint" />
+            <mxPoint x="682" y="1049" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
