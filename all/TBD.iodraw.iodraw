@@ -376,12 +376,6 @@
         <mxCell id="W_CZJQp136RNf5v9KQyQ-37" value="D2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="410" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="W_CZJQp136RNf5v9KQyQ-38" value="D3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="410" width="40" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="W_CZJQp136RNf5v9KQyQ-39" value="D4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="410" width="40" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="W_CZJQp136RNf5v9KQyQ-40" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="410" width="40" height="60" as="geometry" />
         </mxCell>
