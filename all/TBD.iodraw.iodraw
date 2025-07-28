@@ -140,9 +140,6 @@
         <mxCell id="bS-dXMgoQpgwmhXcEv1W-14" value="others" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bS-dXMgoQpgwmhXcEv1W-9">
           <mxGeometry x="110" y="35" width="50" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="bS-dXMgoQpgwmhXcEv1W-15" value="System" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bS-dXMgoQpgwmhXcEv1W-1">
-          <mxGeometry x="286.5" y="298" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="bS-dXMgoQpgwmhXcEv1W-29" value="Prefetch Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bS-dXMgoQpgwmhXcEv1W-1">
           <mxGeometry x="419" y="591" width="120" height="60" as="geometry" />
         </mxCell>
