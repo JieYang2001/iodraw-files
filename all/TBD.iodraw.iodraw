@@ -1,0 +1,49 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="JwPc9sg9-6EbpPr97bTB">
+    <mxGraphModel dx="1613" dy="768" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aupQUzue--yuyMIHu5-Q-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-7" y="320" width="693" height="366" as="geometry" />
+        </mxCell>
+        <mxCell id="aupQUzue--yuyMIHu5-Q-4" value="Pool Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="591" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aupQUzue--yuyMIHu5-Q-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="45" y="355" width="250" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="aupQUzue--yuyMIHu5-Q-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aupQUzue--yuyMIHu5-Q-7">
+          <mxGeometry y="30" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="aupQUzue--yuyMIHu5-Q-2" value="CPU Mem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="aupQUzue--yuyMIHu5-Q-7">
+          <mxGeometry x="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aupQUzue--yuyMIHu5-Q-3" value="KV cache pool" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aupQUzue--yuyMIHu5-Q-7">
+          <mxGeometry x="65" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aupQUzue--yuyMIHu5-Q-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="403" y="347" width="160" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="aupQUzue--yuyMIHu5-Q-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aupQUzue--yuyMIHu5-Q-8">
+          <mxGeometry y="35" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aupQUzue--yuyMIHu5-Q-6" value="GPU Mem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="aupQUzue--yuyMIHu5-Q-8">
+          <mxGeometry x="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aupQUzue--yuyMIHu5-Q-9" value="Model Weight" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aupQUzue--yuyMIHu5-Q-8">
+          <mxGeometry y="35" width="110" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="aupQUzue--yuyMIHu5-Q-10" value="KV cache" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aupQUzue--yuyMIHu5-Q-8">
+          <mxGeometry y="83" width="110" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="aupQUzue--yuyMIHu5-Q-11" value="others" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aupQUzue--yuyMIHu5-Q-8">
+          <mxGeometry x="110" y="35" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aupQUzue--yuyMIHu5-Q-13" value="System" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="309.5" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
