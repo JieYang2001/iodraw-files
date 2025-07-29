@@ -575,7 +575,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="CPU-GPU" id="8eONKJd5uS6-jQIXUrDI">
-    <mxGraphModel dx="1093" dy="439" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1237" dy="530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ArRIloRFpHVoyrLP8FO0-0" />
         <mxCell id="ArRIloRFpHVoyrLP8FO0-1" parent="ArRIloRFpHVoyrLP8FO0-0" />
@@ -637,8 +637,8 @@
         </mxCell>
         <mxCell id="u03oMQ-sqzspXMcx9j9w-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="ArRIloRFpHVoyrLP8FO0-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="383" y="621" as="sourcePoint" />
-            <mxPoint x="228" y="621" as="targetPoint" />
+            <mxPoint x="513" y="635" as="sourcePoint" />
+            <mxPoint x="147" y="635" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u03oMQ-sqzspXMcx9j9w-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="ArRIloRFpHVoyrLP8FO0-1">
