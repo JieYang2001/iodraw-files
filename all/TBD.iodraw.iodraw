@@ -271,7 +271,7 @@
         </mxCell>
         <mxCell id="l9QsVtKBrlS6SyHX9ZID-5" value="DMA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l9QsVtKBrlS6SyHX9ZID-4">
           <mxGeometry x="-0.0587" y="5" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="6" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
