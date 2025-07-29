@@ -302,8 +302,8 @@
             <mxPoint x="211" y="481" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l9QsVtKBrlS6SyHX9ZID-20" value="GPU budget 充满，进行淘汰" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bS-dXMgoQpgwmhXcEv1W-1">
-          <mxGeometry x="208" y="450" width="102" height="19" as="geometry" />
+        <mxCell id="l9QsVtKBrlS6SyHX9ZID-20" value="GPU budget 充满，淘汰 KV 到CPU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bS-dXMgoQpgwmhXcEv1W-1">
+          <mxGeometry x="208" y="450" width="117" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
