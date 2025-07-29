@@ -630,10 +630,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ArRIloRFpHVoyrLP8FO0-51" value="GPU budget 充满，淘汰 KV 到CPU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ArRIloRFpHVoyrLP8FO0-1">
-          <mxGeometry x="233" y="870" width="176.39" height="75.1" as="geometry" />
+          <mxGeometry x="193.81" y="541" width="176.39" height="75.1" as="geometry" />
         </mxCell>
         <mxCell id="ArRIloRFpHVoyrLP8FO0-11" value="GPU Mem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ArRIloRFpHVoyrLP8FO0-1">
           <mxGeometry x="529.73" y="538" width="93.54" height="34.97" as="geometry" />
+        </mxCell>
+        <mxCell id="u03oMQ-sqzspXMcx9j9w-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="ArRIloRFpHVoyrLP8FO0-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184" y="980" as="sourcePoint" />
+            <mxPoint x="234" y="930" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
