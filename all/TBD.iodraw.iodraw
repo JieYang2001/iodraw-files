@@ -265,11 +265,6 @@
         <mxCell id="_SshT5_8ZUFTGrPq3fj--0" value="scheduler" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="bS-dXMgoQpgwmhXcEv1W-1" vertex="1">
           <mxGeometry x="-838" y="758" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l9QsVtKBrlS6SyHX9ZID-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="bS-dXMgoQpgwmhXcEv1W-1" source="l9QsVtKBrlS6SyHX9ZID-0">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300.0588235294117" y="505.8039335363053" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="l9QsVtKBrlS6SyHX9ZID-0" value="manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bS-dXMgoQpgwmhXcEv1W-1">
           <mxGeometry x="240" y="563" width="120" height="60" as="geometry" />
         </mxCell>
