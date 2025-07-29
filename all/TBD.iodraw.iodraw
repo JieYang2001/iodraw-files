@@ -206,9 +206,9 @@
             <mxPoint x="131" y="874" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c6FLvK84DfqM0rakq__z-40" value="new KV" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="c6FLvK84DfqM0rakq__z-39" vertex="1" connectable="0">
+        <mxCell id="c6FLvK84DfqM0rakq__z-40" value="&amp;nbsp;new KV&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="c6FLvK84DfqM0rakq__z-39" vertex="1" connectable="0">
           <mxGeometry x="-0.6564" y="1" relative="1" as="geometry">
-            <mxPoint x="-91" y="-4" as="offset" />
+            <mxPoint x="-88" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c6FLvK84DfqM0rakq__z-10" value="projection" style="rounded=0;whiteSpace=wrap;html=1;" parent="bS-dXMgoQpgwmhXcEv1W-1" vertex="1">
@@ -248,9 +248,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="l9QsVtKBrlS6SyHX9ZID-6" value="预取 index" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l9QsVtKBrlS6SyHX9ZID-1">
+        <mxCell id="l9QsVtKBrlS6SyHX9ZID-6" value="预取 index" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="l9QsVtKBrlS6SyHX9ZID-1">
           <mxGeometry x="0.6733" y="-5" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-5" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c6FLvK84DfqM0rakq__z-30" value="计算预取 index" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="bS-dXMgoQpgwmhXcEv1W-1" vertex="1">
