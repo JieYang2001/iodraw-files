@@ -114,7 +114,10 @@
           <mxGeometry x="2" y="61" width="84" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bS-dXMgoQpgwmhXcEv1W-8" value="Pinned Mem" style="rounded=0;whiteSpace=wrap;html=1;" parent="bS-dXMgoQpgwmhXcEv1W-4" vertex="1">
-          <mxGeometry x="154" y="61" width="94" height="60" as="geometry" />
+          <mxGeometry x="154" y="58" width="94" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l9QsVtKBrlS6SyHX9ZID-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.014;entryY=0.539;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="bS-dXMgoQpgwmhXcEv1W-4" source="bS-dXMgoQpgwmhXcEv1W-7" target="bS-dXMgoQpgwmhXcEv1W-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bS-dXMgoQpgwmhXcEv1W-9" value="" style="group" parent="bS-dXMgoQpgwmhXcEv1W-1" vertex="1" connectable="0">
           <mxGeometry x="385" y="388" width="160" height="125" as="geometry" />
