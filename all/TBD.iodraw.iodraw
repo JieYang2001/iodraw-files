@@ -655,11 +655,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Fq6OJGZW_r-BejoQh2uU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fq6OJGZW_r-BejoQh2uU-1" target="Fq6OJGZW_r-BejoQh2uU-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Fq6OJGZW_r-BejoQh2uU-1" value="image embeddings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="105" y="460" width="120" height="50" as="geometry" />
+          <mxGeometry x="285" y="230" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Fq6OJGZW_r-BejoQh2uU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fq6OJGZW_r-BejoQh2uU-2" target="Fq6OJGZW_r-BejoQh2uU-3">
           <mxGeometry relative="1" as="geometry" />
@@ -668,7 +665,7 @@
           <mxGeometry x="105" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fq6OJGZW_r-BejoQh2uU-3" value="VIT slicer" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry x="270" y="400" width="110" height="80" as="geometry" />
+          <mxGeometry x="290" y="350" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Fq6OJGZW_r-BejoQh2uU-4" value="VIT blks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="345" width="80" height="60" as="geometry" />
