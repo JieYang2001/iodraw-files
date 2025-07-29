@@ -274,8 +274,8 @@
             <mxPoint x="6" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l9QsVtKBrlS6SyHX9ZID-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bS-dXMgoQpgwmhXcEv1W-1">
-          <mxGeometry x="85" y="623" width="60" height="30" as="geometry" />
+        <mxCell id="l9QsVtKBrlS6SyHX9ZID-12" value="query-aware" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bS-dXMgoQpgwmhXcEv1W-1">
+          <mxGeometry x="85" y="623" width="181" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
