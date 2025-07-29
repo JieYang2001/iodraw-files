@@ -111,10 +111,10 @@
           <mxGeometry x="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bS-dXMgoQpgwmhXcEv1W-7" value="KV cache pool" style="rounded=0;whiteSpace=wrap;html=1;" parent="bS-dXMgoQpgwmhXcEv1W-4" vertex="1">
-          <mxGeometry x="2" y="61" width="120" height="60" as="geometry" />
+          <mxGeometry x="2" y="61" width="84" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bS-dXMgoQpgwmhXcEv1W-8" value="Pinned Mem" style="rounded=0;whiteSpace=wrap;html=1;" parent="bS-dXMgoQpgwmhXcEv1W-4" vertex="1">
-          <mxGeometry x="128" y="61" width="120" height="60" as="geometry" />
+          <mxGeometry x="154" y="61" width="94" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bS-dXMgoQpgwmhXcEv1W-9" value="" style="group" parent="bS-dXMgoQpgwmhXcEv1W-1" vertex="1" connectable="0">
           <mxGeometry x="385" y="388" width="160" height="125" as="geometry" />
@@ -154,18 +154,6 @@
         <mxCell id="c6FLvK84DfqM0rakq__z-21" value="所有的 image KV" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="c6FLvK84DfqM0rakq__z-17" vertex="1" connectable="0">
           <mxGeometry x="-0.0286" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="c6FLvK84DfqM0rakq__z-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="bS-dXMgoQpgwmhXcEv1W-1" source="KqZ5j5PSKGZTuvCGyMa8-17" target="bS-dXMgoQpgwmhXcEv1W-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="128" y="894" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="c6FLvK84DfqM0rakq__z-23" value="hot text KV" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="c6FLvK84DfqM0rakq__z-18" vertex="1" connectable="0">
-          <mxGeometry x="0.7217" y="1" relative="1" as="geometry">
-            <mxPoint x="-3" y="45" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KqZ5j5PSKGZTuvCGyMa8-17" value="projection" style="rounded=0;whiteSpace=wrap;html=1;" parent="bS-dXMgoQpgwmhXcEv1W-1" vertex="1">
