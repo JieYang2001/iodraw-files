@@ -120,7 +120,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l9QsVtKBrlS6SyHX9ZID-12" value="query-aware: cold→hot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bS-dXMgoQpgwmhXcEv1W-4">
-          <mxGeometry x="48.00181818181819" y="93" width="173.8068181818182" height="30" as="geometry" />
+          <mxGeometry x="48.00181818181819" y="99" width="173.8068181818182" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bS-dXMgoQpgwmhXcEv1W-9" value="" style="group" parent="bS-dXMgoQpgwmhXcEv1W-1" vertex="1" connectable="0">
           <mxGeometry x="386" y="385" width="160" height="125" as="geometry" />
