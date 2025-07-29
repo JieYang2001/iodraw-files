@@ -610,10 +610,10 @@
           <mxGeometry y="5" width="163" height="103" as="geometry" />
         </mxCell>
         <mxCell id="ArRIloRFpHVoyrLP8FO0-13" value="KV cache" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ArRIloRFpHVoyrLP8FO0-9">
-          <mxGeometry x="111.35245901639345" y="210.88235294117646" width="85.65573770491804" height="28.11764705882353" as="geometry" />
+          <mxGeometry y="108" width="163" height="115" as="geometry" />
         </mxCell>
         <mxCell id="ArRIloRFpHVoyrLP8FO0-14" value="others" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ArRIloRFpHVoyrLP8FO0-9">
-          <mxGeometry x="201.09489051094891" y="133.90187702265374" width="34.67153284671533" height="69.6116504854369" as="geometry" />
+          <mxGeometry x="159" y="65" width="76.77" height="138.51" as="geometry" />
         </mxCell>
         <mxCell id="ArRIloRFpHVoyrLP8FO0-47" value="manager" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="ArRIloRFpHVoyrLP8FO0-1">
           <mxGeometry x="208" y="261" width="148" height="88" as="geometry" />
