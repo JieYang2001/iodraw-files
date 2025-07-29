@@ -601,7 +601,7 @@
           <mxGeometry x="56.09355324675325" y="157.54098360655738" width="203.10568181818184" height="50.81967213114754" as="geometry" />
         </mxCell>
         <mxCell id="ArRIloRFpHVoyrLP8FO0-9" value="" style="group" vertex="1" connectable="0" parent="ArRIloRFpHVoyrLP8FO0-1">
-          <mxGeometry x="487" y="451" width="411" height="309" as="geometry" />
+          <mxGeometry x="349" y="448" width="411" height="309" as="geometry" />
         </mxCell>
         <mxCell id="ArRIloRFpHVoyrLP8FO0-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ArRIloRFpHVoyrLP8FO0-9">
           <mxGeometry x="160.58196721311475" y="157.52941176470588" width="250.41803278688525" height="151.4705882352941" as="geometry" />
@@ -615,8 +615,8 @@
         <mxCell id="ArRIloRFpHVoyrLP8FO0-13" value="KV cache" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ArRIloRFpHVoyrLP8FO0-9">
           <mxGeometry x="160.58196721311475" y="272.6470588235294" width="123.52459016393442" height="36.35294117647059" as="geometry" />
         </mxCell>
-        <mxCell id="ArRIloRFpHVoyrLP8FO0-51" value="GPU budget 充满，淘汰 KV 到CPU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ArRIloRFpHVoyrLP8FO0-9">
-          <mxGeometry x="-48.995901639344254" y="106.0014285714285" width="131.38524590163934" height="16.445378151260503" as="geometry" />
+        <mxCell id="ArRIloRFpHVoyrLP8FO0-14" value="others" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ArRIloRFpHVoyrLP8FO0-9">
+          <mxGeometry x="290" y="173.12" width="50" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ArRIloRFpHVoyrLP8FO0-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ArRIloRFpHVoyrLP8FO0-1" source="ArRIloRFpHVoyrLP8FO0-47" target="ArRIloRFpHVoyrLP8FO0-4">
           <mxGeometry relative="1" as="geometry">
@@ -648,8 +648,8 @@
             <mxPoint x="6" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ArRIloRFpHVoyrLP8FO0-14" value="others" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ArRIloRFpHVoyrLP8FO0-1">
-          <mxGeometry x="679" y="655" width="50" height="90" as="geometry" />
+        <mxCell id="ArRIloRFpHVoyrLP8FO0-51" value="GPU budget 充满，淘汰 KV 到CPU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ArRIloRFpHVoyrLP8FO0-1">
+          <mxGeometry x="863.0040983606557" y="654.6514285714285" width="131.38524590163934" height="16.445378151260503" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
