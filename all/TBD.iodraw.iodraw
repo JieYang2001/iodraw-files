@@ -568,8 +568,8 @@
         <mxCell id="W_CZJQp136RNf5v9KQyQ-107" value="E31" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="750" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vexLMd8yfELf9DGoGoVV-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="530" width="120" height="60" as="geometry" />
+        <mxCell id="vexLMd8yfELf9DGoGoVV-1" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=default;gradientDirection=west;" vertex="1" parent="1">
+          <mxGeometry x="670" y="530" width="53" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
