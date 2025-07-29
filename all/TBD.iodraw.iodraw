@@ -102,10 +102,10 @@
         <mxCell id="bS-dXMgoQpgwmhXcEv1W-0" />
         <mxCell id="bS-dXMgoQpgwmhXcEv1W-1" parent="bS-dXMgoQpgwmhXcEv1W-0" />
         <mxCell id="bS-dXMgoQpgwmhXcEv1W-4" value="" style="group" parent="bS-dXMgoQpgwmhXcEv1W-1" vertex="1" connectable="0">
-          <mxGeometry x="-142" y="404" width="345" height="170" as="geometry" />
+          <mxGeometry x="-142" y="404" width="345" height="176" as="geometry" />
         </mxCell>
         <mxCell id="bS-dXMgoQpgwmhXcEv1W-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="bS-dXMgoQpgwmhXcEv1W-4" vertex="1">
-          <mxGeometry x="-47" y="30" width="373.7" height="140" as="geometry" />
+          <mxGeometry x="-47" y="30" width="384" height="146" as="geometry" />
         </mxCell>
         <mxCell id="bS-dXMgoQpgwmhXcEv1W-6" value="CPU Mem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bS-dXMgoQpgwmhXcEv1W-4" vertex="1">
           <mxGeometry x="117.61363636363637" width="78.4090909090909" height="30" as="geometry" />
@@ -114,13 +114,13 @@
           <mxGeometry x="-39.99636363636363" y="63" width="109.77272727272728" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bS-dXMgoQpgwmhXcEv1W-8" value="Pinned Mem" style="rounded=0;whiteSpace=wrap;html=1;" parent="bS-dXMgoQpgwmhXcEv1W-4" vertex="1">
-          <mxGeometry x="201.25" y="58" width="122.8409090909091" height="60" as="geometry" />
+          <mxGeometry x="201.25" y="61" width="122.8409090909091" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l9QsVtKBrlS6SyHX9ZID-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.014;entryY=0.539;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="bS-dXMgoQpgwmhXcEv1W-4" source="bS-dXMgoQpgwmhXcEv1W-7" target="bS-dXMgoQpgwmhXcEv1W-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l9QsVtKBrlS6SyHX9ZID-12" value="query-aware: cold→hot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bS-dXMgoQpgwmhXcEv1W-4">
-          <mxGeometry x="73.18181818181819" y="130" width="173.8068181818182" height="30" as="geometry" />
+          <mxGeometry x="48.00181818181819" y="93" width="173.8068181818182" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bS-dXMgoQpgwmhXcEv1W-9" value="" style="group" parent="bS-dXMgoQpgwmhXcEv1W-1" vertex="1" connectable="0">
           <mxGeometry x="385" y="388" width="160" height="125" as="geometry" />
