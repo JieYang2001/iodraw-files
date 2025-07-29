@@ -97,7 +97,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="workflow" id="5syUSQEctaeL-7L8O5bV">
-    <mxGraphModel dx="2413" dy="768" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1604" dy="256" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="bS-dXMgoQpgwmhXcEv1W-0" />
         <mxCell id="bS-dXMgoQpgwmhXcEv1W-1" parent="bS-dXMgoQpgwmhXcEv1W-0" />
@@ -201,8 +201,8 @@
         <mxCell id="l9QsVtKBrlS6SyHX9ZID-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="bS-dXMgoQpgwmhXcEv1W-1" source="c6FLvK84DfqM0rakq__z-10" target="bS-dXMgoQpgwmhXcEv1W-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="494" y="875" />
-              <mxPoint x="494" y="652" />
+              <mxPoint x="565" y="875" />
+              <mxPoint x="565" y="652" />
               <mxPoint x="391" y="652" />
             </Array>
           </mxGeometry>
