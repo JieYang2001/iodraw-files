@@ -97,7 +97,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="workflow" id="5syUSQEctaeL-7L8O5bV">
-    <mxGraphModel dx="2227" dy="904" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2627" dy="904" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="bS-dXMgoQpgwmhXcEv1W-0" />
         <mxCell id="bS-dXMgoQpgwmhXcEv1W-1" parent="bS-dXMgoQpgwmhXcEv1W-0" />
@@ -264,7 +264,7 @@
           <mxGeometry x="425" y="1089" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_SshT5_8ZUFTGrPq3fj--0" value="scheduler" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="bS-dXMgoQpgwmhXcEv1W-1" vertex="1">
-          <mxGeometry x="-567" y="1089" width="120" height="60" as="geometry" />
+          <mxGeometry x="-838" y="758" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
