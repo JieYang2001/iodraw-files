@@ -649,7 +649,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ArRIloRFpHVoyrLP8FO0-51" value="GPU budget 充满，淘汰 KV 到CPU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ArRIloRFpHVoyrLP8FO0-1">
-          <mxGeometry x="863.0040983606557" y="654.6514285714285" width="131.38524590163934" height="16.445378151260503" as="geometry" />
+          <mxGeometry x="818" y="596" width="176.39" height="75.1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
