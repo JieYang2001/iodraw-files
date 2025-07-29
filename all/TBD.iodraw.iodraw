@@ -606,11 +606,8 @@
         <mxCell id="ArRIloRFpHVoyrLP8FO0-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ArRIloRFpHVoyrLP8FO0-9">
           <mxGeometry y="5" width="293" height="218" as="geometry" />
         </mxCell>
-        <mxCell id="ArRIloRFpHVoyrLP8FO0-11" value="GPU Mem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ArRIloRFpHVoyrLP8FO0-9">
-          <mxGeometry x="141.45951298312792" y="20.88693997987545" width="46.72131147540984" height="20.084033613445378" as="geometry" />
-        </mxCell>
         <mxCell id="ArRIloRFpHVoyrLP8FO0-12" value="Model Weight" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ArRIloRFpHVoyrLP8FO0-9">
-          <mxGeometry x="111.35245901639345" y="178.7478991596639" width="85.65573770491804" height="32.134453781512605" as="geometry" />
+          <mxGeometry y="5" width="163" height="103" as="geometry" />
         </mxCell>
         <mxCell id="ArRIloRFpHVoyrLP8FO0-13" value="KV cache" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ArRIloRFpHVoyrLP8FO0-9">
           <mxGeometry x="111.35245901639345" y="210.88235294117646" width="85.65573770491804" height="28.11764705882353" as="geometry" />
@@ -634,6 +631,9 @@
         </mxCell>
         <mxCell id="ArRIloRFpHVoyrLP8FO0-51" value="GPU budget 充满，淘汰 KV 到CPU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ArRIloRFpHVoyrLP8FO0-1">
           <mxGeometry x="233" y="870" width="176.39" height="75.1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArRIloRFpHVoyrLP8FO0-11" value="GPU Mem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ArRIloRFpHVoyrLP8FO0-1">
+          <mxGeometry x="571.73" y="477.03" width="93.54" height="34.97" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
