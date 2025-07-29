@@ -664,6 +664,9 @@
         <mxCell id="Fq6OJGZW_r-BejoQh2uU-3" value="VIT slicer" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="280" y="400" width="110" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Fq6OJGZW_r-BejoQh2uU-4" value="VIT slice" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="410" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
