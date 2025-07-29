@@ -240,6 +240,9 @@
         <mxCell id="c6FLvK84DfqM0rakq__z-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="bS-dXMgoQpgwmhXcEv1W-1" source="c6FLvK84DfqM0rakq__z-30" target="c6FLvK84DfqM0rakq__z-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="l9QsVtKBrlS6SyHX9ZID-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bS-dXMgoQpgwmhXcEv1W-1" source="c6FLvK84DfqM0rakq__z-30" target="l9QsVtKBrlS6SyHX9ZID-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="c6FLvK84DfqM0rakq__z-30" value="计算预取 index" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="bS-dXMgoQpgwmhXcEv1W-1" vertex="1">
           <mxGeometry x="337.5" y="903.1" width="125" height="30" as="geometry" />
         </mxCell>
@@ -253,7 +256,7 @@
           <mxGeometry x="-838" y="758" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l9QsVtKBrlS6SyHX9ZID-0" value="manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bS-dXMgoQpgwmhXcEv1W-1">
-          <mxGeometry x="340" y="576" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="563" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
