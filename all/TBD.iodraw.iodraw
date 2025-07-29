@@ -575,7 +575,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="CPU-GPU" id="8eONKJd5uS6-jQIXUrDI">
-    <mxGraphModel dx="1237" dy="530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="964" dy="357" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ArRIloRFpHVoyrLP8FO0-0" />
         <mxCell id="ArRIloRFpHVoyrLP8FO0-1" parent="ArRIloRFpHVoyrLP8FO0-0" />
@@ -630,7 +630,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ArRIloRFpHVoyrLP8FO0-51" value="① prefill 阶段产生的 KV (长度为 seq_len)&lt;div&gt;② decoding 阶段产生的 KV (长度为 batch_size)&lt;/div&gt;&lt;div&gt;③ GPU budget 充满，淘汰 KV 到CPU (长度小于 batch_size)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ArRIloRFpHVoyrLP8FO0-1">
-          <mxGeometry x="147" y="430" width="333" height="75.1" as="geometry" />
+          <mxGeometry x="166" y="560" width="333" height="75.1" as="geometry" />
         </mxCell>
         <mxCell id="ArRIloRFpHVoyrLP8FO0-11" value="GPU Mem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ArRIloRFpHVoyrLP8FO0-1">
           <mxGeometry x="631.73" y="538" width="93.54" height="34.97" as="geometry" />
