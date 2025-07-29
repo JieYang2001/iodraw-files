@@ -97,7 +97,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="workflow" id="5syUSQEctaeL-7L8O5bV">
-    <mxGraphModel dx="2933" dy="1097" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2627" dy="904" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="bS-dXMgoQpgwmhXcEv1W-0" />
         <mxCell id="bS-dXMgoQpgwmhXcEv1W-1" parent="bS-dXMgoQpgwmhXcEv1W-0" />
@@ -183,16 +183,6 @@
         </mxCell>
         <mxCell id="c6FLvK84DfqM0rakq__z-9" value="Feed-forward" style="rounded=0;whiteSpace=wrap;html=1;" parent="bS-dXMgoQpgwmhXcEv1W-1" vertex="1">
           <mxGeometry x="326.25" y="755.1" width="146.5" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="c6FLvK84DfqM0rakq__z-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="bS-dXMgoQpgwmhXcEv1W-1" source="c6FLvK84DfqM0rakq__z-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="131" y="874" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="c6FLvK84DfqM0rakq__z-40" value="&amp;nbsp;new KV&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="c6FLvK84DfqM0rakq__z-39" vertex="1" connectable="0">
-          <mxGeometry x="-0.6564" y="1" relative="1" as="geometry">
-            <mxPoint x="-88" y="-1" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="c6FLvK84DfqM0rakq__z-10" value="projection" style="rounded=0;whiteSpace=wrap;html=1;" parent="bS-dXMgoQpgwmhXcEv1W-1" vertex="1">
           <mxGeometry x="326.25" y="859.1" width="147.5" height="31" as="geometry" />
