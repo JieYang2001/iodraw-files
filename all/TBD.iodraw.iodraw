@@ -303,7 +303,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l9QsVtKBrlS6SyHX9ZID-20" value="GPU budget 充满，进行淘汰" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bS-dXMgoQpgwmhXcEv1W-1">
-          <mxGeometry x="238" y="447" width="60" height="30" as="geometry" />
+          <mxGeometry x="189" y="455" width="159" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
