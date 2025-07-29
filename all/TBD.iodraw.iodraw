@@ -575,7 +575,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="CPU-GPU" id="8eONKJd5uS6-jQIXUrDI">
-    <mxGraphModel dx="2133" dy="1097" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1093" dy="439" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ArRIloRFpHVoyrLP8FO0-0" />
         <mxCell id="ArRIloRFpHVoyrLP8FO0-1" parent="ArRIloRFpHVoyrLP8FO0-0" />
@@ -601,7 +601,7 @@
           <mxGeometry x="56.09355324675325" y="157.54098360655738" width="203.10568181818184" height="50.81967213114754" as="geometry" />
         </mxCell>
         <mxCell id="ArRIloRFpHVoyrLP8FO0-9" value="" style="group" vertex="1" connectable="0" parent="ArRIloRFpHVoyrLP8FO0-1">
-          <mxGeometry x="423" y="572.97" width="293" height="239" as="geometry" />
+          <mxGeometry x="525" y="572.97" width="293" height="239" as="geometry" />
         </mxCell>
         <mxCell id="ArRIloRFpHVoyrLP8FO0-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ArRIloRFpHVoyrLP8FO0-9">
           <mxGeometry y="5" width="293" height="218" as="geometry" />
@@ -633,7 +633,7 @@
           <mxGeometry x="147" y="430" width="333" height="75.1" as="geometry" />
         </mxCell>
         <mxCell id="ArRIloRFpHVoyrLP8FO0-11" value="GPU Mem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ArRIloRFpHVoyrLP8FO0-1">
-          <mxGeometry x="529.73" y="538" width="93.54" height="34.97" as="geometry" />
+          <mxGeometry x="631.73" y="538" width="93.54" height="34.97" as="geometry" />
         </mxCell>
         <mxCell id="u03oMQ-sqzspXMcx9j9w-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="ArRIloRFpHVoyrLP8FO0-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
