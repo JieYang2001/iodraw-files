@@ -662,9 +662,9 @@
           <mxGeometry x="105" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fq6OJGZW_r-BejoQh2uU-3" value="VIT slicer" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry x="280" y="400" width="110" height="80" as="geometry" />
+          <mxGeometry x="270" y="400" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Fq6OJGZW_r-BejoQh2uU-4" value="VIT slice" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Fq6OJGZW_r-BejoQh2uU-4" value="VIT blks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="410" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
