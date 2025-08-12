@@ -711,6 +711,9 @@
         <mxCell id="KkAx_719ZuKWTtVdpIIf-6" value="pagable" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="365" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KkAx_719ZuKWTtVdpIIf-7" value="gpu mem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
