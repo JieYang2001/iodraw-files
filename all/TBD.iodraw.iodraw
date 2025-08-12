@@ -705,8 +705,11 @@
         <mxCell id="KkAx_719ZuKWTtVdpIIf-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="395" width="220" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="KkAx_719ZuKWTtVdpIIf-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KkAx_719ZuKWTtVdpIIf-5" value="pinned" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KkAx_719ZuKWTtVdpIIf-6" value="pinned" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="580" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
