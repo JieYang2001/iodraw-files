@@ -754,7 +754,7 @@
         <mxCell id="mNPoeP41qoYQ-HYWQ2x--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.019;entryY=0.086;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mNPoeP41qoYQ-HYWQ2x--1" target="mNPoeP41qoYQ-HYWQ2x--2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mNPoeP41qoYQ-HYWQ2x--7" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mNPoeP41qoYQ-HYWQ2x--4">
+        <mxCell id="mNPoeP41qoYQ-HYWQ2x--7" value="&amp;nbsp;tokens ids&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mNPoeP41qoYQ-HYWQ2x--4">
           <mxGeometry x="0.0771" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
