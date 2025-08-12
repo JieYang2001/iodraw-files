@@ -706,10 +706,10 @@
           <mxGeometry x="430" y="395" width="220" height="130" as="geometry" />
         </mxCell>
         <mxCell id="KkAx_719ZuKWTtVdpIIf-5" value="pinned" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="560" width="60" height="30" as="geometry" />
+          <mxGeometry x="274" y="365" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KkAx_719ZuKWTtVdpIIf-6" value="pagable" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="270" width="60" height="30" as="geometry" />
+          <mxGeometry x="510" y="365" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
