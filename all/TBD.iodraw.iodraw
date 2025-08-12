@@ -721,7 +721,10 @@
           <mxGeometry x="320" y="700" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KkAx_719ZuKWTtVdpIIf-10" value="recent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="710" width="50" height="40" as="geometry" />
+          <mxGeometry x="370" y="700" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KkAx_719ZuKWTtVdpIIf-11" value="recent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="700" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
