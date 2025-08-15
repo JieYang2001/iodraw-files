@@ -451,7 +451,7 @@
           <mxGeometry x="85" y="490" width="160" height="35" as="geometry" />
         </mxCell>
         <mxCell id="dAue1647RwGAIU4Gdnyf-3" value="layer 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="85" y="455" width="117" height="35" as="geometry" />
+          <mxGeometry x="85" y="455" width="160" height="35" as="geometry" />
         </mxCell>
         <mxCell id="dAue1647RwGAIU4Gdnyf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;" edge="1" parent="1" source="dAue1647RwGAIU4Gdnyf-4" target="dAue1647RwGAIU4Gdnyf-12">
           <mxGeometry relative="1" as="geometry" />
@@ -463,7 +463,7 @@
           <mxGeometry x="85" y="385" width="160" height="35" as="geometry" />
         </mxCell>
         <mxCell id="dAue1647RwGAIU4Gdnyf-6" value="layer 25" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="85" y="350" width="160" height="35" as="geometry" />
+          <mxGeometry x="85" y="350" width="94" height="35" as="geometry" />
         </mxCell>
         <mxCell id="dAue1647RwGAIU4Gdnyf-7" value="layer 26" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="85" y="315" width="160" height="35" as="geometry" />
