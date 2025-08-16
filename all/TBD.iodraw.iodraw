@@ -586,7 +586,7 @@
         <mxCell id="pcepq5IW1tmIAP-ukyY5-28" value="kv cache" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="52.5" y="254" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pcepq5IW1tmIAP-ukyY5-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pcepq5IW1tmIAP-ukyY5-29" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="238" y="269" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
