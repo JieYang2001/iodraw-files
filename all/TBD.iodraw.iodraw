@@ -626,7 +626,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pcepq5IW1tmIAP-ukyY5-53" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="408" y="254" width="166" height="40" as="geometry" />
+          <mxGeometry x="408" y="248" width="166" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pcepq5IW1tmIAP-ukyY5-54" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;" vertex="1" parent="pcepq5IW1tmIAP-ukyY5-53">
           <mxGeometry width="166" height="40" as="geometry" />
@@ -659,7 +659,10 @@
           <mxGeometry x="145" y="15" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="pcepq5IW1tmIAP-ukyY5-62" value="kv cache" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="348" y="259" width="60" height="30" as="geometry" />
+          <mxGeometry x="348" y="253" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pcepq5IW1tmIAP-ukyY5-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="191" width="120" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
