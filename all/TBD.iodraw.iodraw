@@ -652,11 +652,14 @@
         <mxCell id="pcepq5IW1tmIAP-ukyY5-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pcepq5IW1tmIAP-ukyY5-55">
           <mxGeometry x="100" width="10" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="pcepq5IW1tmIAP-ukyY5-63" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="pcepq5IW1tmIAP-ukyY5-53">
+          <mxGeometry x="139" y="20" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pcepq5IW1tmIAP-ukyY5-71" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pcepq5IW1tmIAP-ukyY5-53">
+          <mxGeometry x="122" y="10" width="10" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="pcepq5IW1tmIAP-ukyY5-62" value="kv cache" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="351" y="257" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pcepq5IW1tmIAP-ukyY5-63" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="536.5" y="272" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
