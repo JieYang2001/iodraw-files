@@ -510,7 +510,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AjPltT8izwdNvadF3tIY" name="第 8 页">
-    <mxGraphModel dx="397" dy="256" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="476" dy="307" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -583,8 +583,8 @@
         <mxCell id="pcepq5IW1tmIAP-ukyY5-27" value="inputs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="52.5" y="395" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pcepq5IW1tmIAP-ukyY5-28" value="inputs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="62.5" y="405" width="60" height="30" as="geometry" />
+        <mxCell id="pcepq5IW1tmIAP-ukyY5-28" value="kv cache" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="254" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
