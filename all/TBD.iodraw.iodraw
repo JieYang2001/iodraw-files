@@ -861,7 +861,7 @@
           <mxGeometry x="245" y="-4" width="359" height="464" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-9" value="projction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="314" y="272" width="221" height="37" as="geometry" />
+          <mxGeometry x="314" y="264" width="221" height="37" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-10" value="position embeding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314" y="207" width="221" height="37" as="geometry" />
