@@ -878,7 +878,7 @@
         <mxCell id="CO8sXmiMMMBDKso04Mxd-14" value="outliers select" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-167" y="317" width="220" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="CO8sXmiMMMBDKso04Mxd-15" value="image importance classifier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CO8sXmiMMMBDKso04Mxd-15" value="Modality-aware importance classifier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-169" y="119" width="220" height="35" as="geometry" />
         </mxCell>
       </root>
