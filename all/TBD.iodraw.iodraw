@@ -721,10 +721,10 @@
           <mxGeometry x="445" y="500" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-16" value="Partial Key cache" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="291.5" y="269.6" width="117" height="60" as="geometry" />
+          <mxGeometry x="290" y="269.6" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-17" value="Other model weights" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="350" width="116" height="60" as="geometry" />
+          <mxGeometry x="290" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
