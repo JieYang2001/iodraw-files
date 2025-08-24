@@ -863,7 +863,7 @@
         <mxCell id="CO8sXmiMMMBDKso04Mxd-9" value="projction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314" y="231" width="220" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="CO8sXmiMMMBDKso04Mxd-12" value="softmax" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+        <mxCell id="CO8sXmiMMMBDKso04Mxd-12" value="softmax" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314" y="118" width="220" height="37" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-13" value="FFN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -881,13 +881,13 @@
         <mxCell id="CO8sXmiMMMBDKso04Mxd-17" value="next-layer query projection" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314" y="398" width="220" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="CO8sXmiMMMBDKso04Mxd-18" value="select attention" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CO8sXmiMMMBDKso04Mxd-18" value="select attention" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="314" y="341" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CO8sXmiMMMBDKso04Mxd-19" value="asynchronous transmission" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CO8sXmiMMMBDKso04Mxd-19" value="asynchronous transmission" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="314" y="285" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yehfcM1-fpczFu6O64tC-1" value="sparse attention" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yehfcM1-fpczFu6O64tC-1" value="sparse attention" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="314" y="173" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yehfcM1-fpczFu6O64tC-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
