@@ -846,16 +846,16 @@
           <mxGeometry x="-238" y="-4" width="359" height="464" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-3" value="projction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-167" y="379" width="221" height="37" as="geometry" />
+          <mxGeometry x="-167" y="379" width="220" height="37" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-5" value="multi-head attention" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-167" y="257" width="221" height="37" as="geometry" />
+          <mxGeometry x="-167" y="257" width="220" height="37" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-6" value="softmax" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-169" y="190" width="221" height="37" as="geometry" />
+          <mxGeometry x="-169" y="190" width="220" height="37" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-7" value="FFN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-167.5" y="11" width="221" height="37" as="geometry" />
+          <mxGeometry x="-167.5" y="11" width="220" height="37" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="-4" width="359" height="464" as="geometry" />
@@ -876,7 +876,7 @@
           <mxGeometry x="-169" y="119" width="220" height="35" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-16" value="kv cache manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="65" width="221" height="37" as="geometry" />
+          <mxGeometry x="-170" y="65" width="220" height="37" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-17" value="next-layer query projection" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314" y="398" width="217" height="39" as="geometry" />
