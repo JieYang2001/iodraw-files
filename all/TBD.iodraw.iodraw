@@ -838,7 +838,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-5qhBAyuYRZrrBuxfmyO" name="prefill+decode">
-    <mxGraphModel dx="964" dy="757" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="728" dy="608" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -853,6 +853,9 @@
         </mxCell>
         <mxCell id="yehfcM1-fpczFu6O64tC-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-161.5" y="490" width="209" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yehfcM1-fpczFu6O64tC-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CO8sXmiMMMBDKso04Mxd-3" target="CO8sXmiMMMBDKso04Mxd-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-3" value="projction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-167" y="379" width="220" height="37" as="geometry" />
@@ -877,6 +880,9 @@
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-13" value="FFN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314" y="6" width="220" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="yehfcM1-fpczFu6O64tC-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CO8sXmiMMMBDKso04Mxd-14" target="CO8sXmiMMMBDKso04Mxd-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-14" value="outliers select (by prefetcher)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="-167" y="317" width="220" height="39" as="geometry" />
