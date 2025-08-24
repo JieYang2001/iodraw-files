@@ -820,16 +820,16 @@
           <mxGeometry x="554" y="369.79999999999995" width="45" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="670" width="175" height="60" as="geometry" />
+          <mxGeometry x="265" y="644" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="434" y="670" width="121" height="60" as="geometry" />
+          <mxGeometry x="464" y="644" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-51" value="sparse atten" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="439.5" y="673" width="110" height="20" as="geometry" />
+          <mxGeometry x="469.5" y="647" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-52" value="asynchronous transmission" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="245" y="670" width="150" height="20" as="geometry" />
+          <mxGeometry x="275" y="644" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-54" value="classifier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="315.8" width="120" height="60" as="geometry" />
