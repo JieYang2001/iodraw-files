@@ -720,8 +720,8 @@
         <mxCell id="H2xj9wmtmev46Fut_VKg-15" value="warm kv cache" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="445" y="500" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H2xj9wmtmev46Fut_VKg-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="112" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="H2xj9wmtmev46Fut_VKg-16" value="Partial Key cache" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="360" width="102" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
