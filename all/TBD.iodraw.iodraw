@@ -881,7 +881,7 @@
         <mxCell id="CO8sXmiMMMBDKso04Mxd-15" value="Modality-aware importance classifier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-169" y="119" width="220" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="CO8sXmiMMMBDKso04Mxd-16" value="kv cache manage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CO8sXmiMMMBDKso04Mxd-16" value="kv cache manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-170" y="65" width="221" height="37" as="geometry" />
         </mxCell>
       </root>
