@@ -887,8 +887,8 @@
         <mxCell id="CO8sXmiMMMBDKso04Mxd-19" value="asynchronous transmission" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="316.5" y="285" width="212" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yehfcM1-fpczFu6O64tC-1" value="asynchronous transmission" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="311" y="123" width="212" height="40" as="geometry" />
+        <mxCell id="yehfcM1-fpczFu6O64tC-1" value="sparse attention" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="311" y="123" width="222" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
