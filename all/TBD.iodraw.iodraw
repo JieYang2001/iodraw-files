@@ -857,8 +857,26 @@
         <mxCell id="CO8sXmiMMMBDKso04Mxd-6" value="softmax" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-167" y="190" width="221" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="CO8sXmiMMMBDKso04Mxd-7" value="softmax" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CO8sXmiMMMBDKso04Mxd-7" value="FFN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-167" y="126" width="221" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="CO8sXmiMMMBDKso04Mxd-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-228" y="6" width="359" height="464" as="geometry" />
+        </mxCell>
+        <mxCell id="CO8sXmiMMMBDKso04Mxd-9" value="projction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-157" y="389" width="221" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="CO8sXmiMMMBDKso04Mxd-10" value="position embeding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-157" y="324" width="221" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="CO8sXmiMMMBDKso04Mxd-11" value="multi-head attention" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-157" y="264" width="221" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="CO8sXmiMMMBDKso04Mxd-12" value="softmax" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-157" y="200" width="221" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="CO8sXmiMMMBDKso04Mxd-13" value="FFN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-157" y="136" width="221" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
