@@ -677,7 +677,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zpxTgepQeghG2A-Q2eAv" name="overview">
-    <mxGraphModel dx="191" dy="121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="398" dy="252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -814,10 +814,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-46" value="partial attn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="199" y="1070" width="71" height="20" as="geometry" />
+          <mxGeometry x="236" y="951" width="71" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-48" value="top-k" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="1070" width="45" height="20" as="geometry" />
+          <mxGeometry x="321" y="951" width="45" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
