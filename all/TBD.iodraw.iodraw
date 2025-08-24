@@ -860,8 +860,14 @@
         <mxCell id="CO8sXmiMMMBDKso04Mxd-3" value="projction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-167" y="379" width="220" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="yehfcM1-fpczFu6O64tC-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CO8sXmiMMMBDKso04Mxd-5" target="CO8sXmiMMMBDKso04Mxd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-5" value="multi-head attention" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-167" y="256" width="220" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="yehfcM1-fpczFu6O64tC-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CO8sXmiMMMBDKso04Mxd-6" target="CO8sXmiMMMBDKso04Mxd-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-6" value="softmax" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-167" y="195" width="220" height="37" as="geometry" />
@@ -886,6 +892,9 @@
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-14" value="outliers select (by prefetcher)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="-167" y="317" width="220" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="yehfcM1-fpczFu6O64tC-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CO8sXmiMMMBDKso04Mxd-15" target="CO8sXmiMMMBDKso04Mxd-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-15" value="Modality-aware importance classifier" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="-167" y="135" width="220" height="35" as="geometry" />
