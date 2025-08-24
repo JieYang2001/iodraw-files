@@ -1060,7 +1060,10 @@
           <mxGeometry x="-49" y="-49" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yehfcM1-fpczFu6O64tC-78" value="output" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-39" y="-39" width="60" height="30" as="geometry" />
+          <mxGeometry x="435" y="-56" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yehfcM1-fpczFu6O64tC-79" value="prefetch indices" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="544" y="-86" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
