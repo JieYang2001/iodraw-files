@@ -921,16 +921,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-17" value="next-layer query projection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="314" y="405" width="220" height="39" as="geometry" />
+          <mxGeometry x="314" y="408" width="220" height="39" as="geometry" />
         </mxCell>
         <mxCell id="yehfcM1-fpczFu6O64tC-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CO8sXmiMMMBDKso04Mxd-18" target="CO8sXmiMMMBDKso04Mxd-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-18" value="select attention" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="314" y="347" width="220" height="40" as="geometry" />
+          <mxGeometry x="314" y="353" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-19" value="asynchronous transmission" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="314" y="291" width="220" height="40" as="geometry" />
+          <mxGeometry x="314" y="294" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yehfcM1-fpczFu6O64tC-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yehfcM1-fpczFu6O64tC-1" target="CO8sXmiMMMBDKso04Mxd-12">
           <mxGeometry relative="1" as="geometry" />
@@ -1037,8 +1037,8 @@
         <mxCell id="yehfcM1-fpczFu6O64tC-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yehfcM1-fpczFu6O64tC-47" target="CO8sXmiMMMBDKso04Mxd-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="424" y="474" />
-              <mxPoint x="563" y="474" />
+              <mxPoint x="424" y="480" />
+              <mxPoint x="563" y="480" />
               <mxPoint x="563" y="279" />
               <mxPoint x="424" y="279" />
             </Array>
