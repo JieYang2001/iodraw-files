@@ -1079,8 +1079,11 @@
         <mxCell id="yehfcM1-fpczFu6O64tC-79" value="prefetch indices" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="544" y="-86" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d1IO8roVgt7gqpGjDxXG-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="d1IO8roVgt7gqpGjDxXG-1" value="×N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-385" y="126" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d1IO8roVgt7gqpGjDxXG-2" value="×N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-375" y="136" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
