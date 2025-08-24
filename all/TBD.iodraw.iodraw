@@ -1022,10 +1022,14 @@
         <mxCell id="yehfcM1-fpczFu6O64tC-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-65" y="-42" width="16" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="yehfcM1-fpczFu6O64tC-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="yehfcM1-fpczFu6O64tC-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yehfcM1-fpczFu6O64tC-47" target="CO8sXmiMMMBDKso04Mxd-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="474.78" y="496" as="sourcePoint" />
-            <mxPoint x="474.78" y="268" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="424" y="474" />
+              <mxPoint x="563" y="474" />
+              <mxPoint x="563" y="279" />
+              <mxPoint x="424" y="279" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
