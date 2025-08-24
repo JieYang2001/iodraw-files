@@ -861,13 +861,13 @@
           <mxGeometry x="245" y="-4" width="359" height="464" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-9" value="projction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="314" y="210" width="221" height="37" as="geometry" />
+          <mxGeometry x="314" y="210" width="220" height="37" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-12" value="softmax" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="99" width="221" height="37" as="geometry" />
+          <mxGeometry x="315" y="99" width="220" height="37" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-13" value="FFN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="314" y="6" width="221" height="37" as="geometry" />
+          <mxGeometry x="314" y="6" width="220" height="37" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-14" value="outliers select (by prefetcher)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-167" y="317" width="220" height="39" as="geometry" />
@@ -879,16 +879,16 @@
           <mxGeometry x="-167" y="72" width="220" height="37" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-17" value="next-layer query projection" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="314" y="398" width="217" height="39" as="geometry" />
+          <mxGeometry x="314" y="398" width="220" height="39" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-18" value="select attention" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="314" y="342" width="217" height="40" as="geometry" />
+          <mxGeometry x="314" y="342" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-19" value="asynchronous transmission" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="316.5" y="285" width="212" height="40" as="geometry" />
+          <mxGeometry x="316.5" y="285" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yehfcM1-fpczFu6O64tC-1" value="sparse attention" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="314.5" y="154" width="222" height="40" as="geometry" />
+          <mxGeometry x="314.5" y="154" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yehfcM1-fpczFu6O64tC-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-144" y="505" width="16" height="16" as="geometry" />
@@ -954,7 +954,7 @@
           <mxGeometry x="489" y="505" width="16" height="16" as="geometry" />
         </mxCell>
         <mxCell id="yehfcM1-fpczFu6O64tC-45" value="evict" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="314" y="56" width="221" height="36" as="geometry" />
+          <mxGeometry x="314" y="56" width="220" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
