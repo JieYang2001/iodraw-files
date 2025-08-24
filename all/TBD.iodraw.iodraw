@@ -863,9 +863,6 @@
         <mxCell id="CO8sXmiMMMBDKso04Mxd-9" value="projction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314" y="210" width="221" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="CO8sXmiMMMBDKso04Mxd-11" value="multi-head attention" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="314" y="107" width="221" height="37" as="geometry" />
-        </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-12" value="softmax" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314" y="56" width="221" height="37" as="geometry" />
         </mxCell>
@@ -889,6 +886,9 @@
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-19" value="asynchronous transmission" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="316.5" y="285" width="212" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yehfcM1-fpczFu6O64tC-1" value="asynchronous transmission" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="311" y="123" width="212" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
