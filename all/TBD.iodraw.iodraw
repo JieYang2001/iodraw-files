@@ -687,8 +687,8 @@
         <mxCell id="H2xj9wmtmev46Fut_VKg-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="230" width="250" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="H2xj9wmtmev46Fut_VKg-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="230" width="60" height="30" as="geometry" />
+        <mxCell id="H2xj9wmtmev46Fut_VKg-5" value="system overview" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="230" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
