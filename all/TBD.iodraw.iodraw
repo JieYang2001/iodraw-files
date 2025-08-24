@@ -810,8 +810,8 @@
         <mxCell id="H2xj9wmtmev46Fut_VKg-45" value="Select attention" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="255" y="930" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="H2xj9wmtmev46Fut_VKg-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="229" y="1030" width="120" height="30" as="geometry" />
+        <mxCell id="H2xj9wmtmev46Fut_VKg-46" value="partial attn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="229" y="1040" width="51" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
