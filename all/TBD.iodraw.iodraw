@@ -735,10 +735,10 @@
             <mxPoint x="620" y="247" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H2xj9wmtmev46Fut_VKg-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;endSize=3;startSize=4;" edge="1" parent="1">
+        <mxCell id="H2xj9wmtmev46Fut_VKg-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;endSize=4;startSize=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="460" as="sourcePoint" />
-            <mxPoint x="370" y="430" as="targetPoint" />
+            <mxPoint x="370" y="466" as="sourcePoint" />
+            <mxPoint x="370" y="432" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-22" value="DMA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
