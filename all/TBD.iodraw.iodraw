@@ -852,7 +852,7 @@
           <mxGeometry x="-167" y="257" width="221" height="37" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-6" value="softmax" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-167" y="130" width="221" height="37" as="geometry" />
+          <mxGeometry x="-169" y="190" width="221" height="37" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-7" value="FFN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-167.5" y="11" width="221" height="37" as="geometry" />
@@ -877,6 +877,9 @@
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-14" value="outliers select" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-167" y="317" width="220" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="CO8sXmiMMMBDKso04Mxd-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-169" y="119" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
