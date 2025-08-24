@@ -677,7 +677,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zpxTgepQeghG2A-Q2eAv" name="overview">
-    <mxGraphModel dx="476" dy="301" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="191" dy="121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -809,6 +809,9 @@
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-45" value="Select attention" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="255" y="930" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H2xj9wmtmev46Fut_VKg-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H2xj9wmtmev46Fut_VKg-46" target="H2xj9wmtmev46Fut_VKg-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-46" value="partial attn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="199" y="1070" width="71" height="20" as="geometry" />
