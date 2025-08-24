@@ -912,13 +912,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-15" value="Modality-aware importance classifier" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="-167" y="135" width="220" height="35" as="geometry" />
+          <mxGeometry x="-167" y="143" width="220" height="35" as="geometry" />
         </mxCell>
         <mxCell id="yehfcM1-fpczFu6O64tC-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CO8sXmiMMMBDKso04Mxd-16" target="CO8sXmiMMMBDKso04Mxd-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-16" value="kv cache manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="-167" y="72" width="220" height="37" as="geometry" />
+          <mxGeometry x="-167" y="93" width="220" height="37" as="geometry" />
         </mxCell>
         <mxCell id="yehfcM1-fpczFu6O64tC-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CO8sXmiMMMBDKso04Mxd-17" target="CO8sXmiMMMBDKso04Mxd-18">
           <mxGeometry relative="1" as="geometry" />
