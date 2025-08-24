@@ -888,7 +888,7 @@
           <mxGeometry x="316.5" y="285" width="212" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yehfcM1-fpczFu6O64tC-1" value="sparse attention" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="311" y="123" width="222" height="40" as="geometry" />
+          <mxGeometry x="314" y="150" width="222" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yehfcM1-fpczFu6O64tC-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-144" y="505" width="16" height="16" as="geometry" />
