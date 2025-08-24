@@ -965,6 +965,9 @@
         <mxCell id="yehfcM1-fpczFu6O64tC-48" value="inputs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-184" y="498" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="yehfcM1-fpczFu6O64tC-49" value="hidden states" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="175" y="505" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
