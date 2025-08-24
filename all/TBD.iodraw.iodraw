@@ -838,7 +838,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-5qhBAyuYRZrrBuxfmyO" name="prefill+decode">
-    <mxGraphModel dx="1158" dy="880" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1299" dy="969" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1049,6 +1049,9 @@
         </mxCell>
         <mxCell id="yehfcM1-fpczFu6O64tC-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="416" y="-49" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="yehfcM1-fpczFu6O64tC-75" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="421" y="544" width="120" height="13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
