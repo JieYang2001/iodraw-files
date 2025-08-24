@@ -968,6 +968,9 @@
         <mxCell id="yehfcM1-fpczFu6O64tC-49" value="hidden states" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="277" y="499" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="yehfcM1-fpczFu6O64tC-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="87" y="579" width="120" height="13" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
