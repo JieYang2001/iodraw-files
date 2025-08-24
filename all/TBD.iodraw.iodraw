@@ -838,7 +838,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-5qhBAyuYRZrrBuxfmyO" name="prefill+decode">
-    <mxGraphModel dx="939" dy="741" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="849" dy="684" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -884,6 +884,9 @@
         <mxCell id="CO8sXmiMMMBDKso04Mxd-7" value="FFN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-167" y="11" width="220" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="yehfcM1-fpczFu6O64tC-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CO8sXmiMMMBDKso04Mxd-9" target="yehfcM1-fpczFu6O64tC-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-9" value="projction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314" y="231" width="220" height="37" as="geometry" />
         </mxCell>
@@ -925,6 +928,9 @@
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-19" value="asynchronous transmission" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="314" y="285" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yehfcM1-fpczFu6O64tC-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yehfcM1-fpczFu6O64tC-1" target="CO8sXmiMMMBDKso04Mxd-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yehfcM1-fpczFu6O64tC-1" value="sparse attention" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="314" y="173" width="220" height="40" as="geometry" />
