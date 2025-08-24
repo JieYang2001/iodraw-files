@@ -838,7 +838,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-5qhBAyuYRZrrBuxfmyO" name="prefill+decode">
-    <mxGraphModel dx="1093" dy="839" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="679" dy="577" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -894,7 +894,19 @@
           <mxGeometry x="-215" y="504" width="228" height="115" as="geometry" />
         </mxCell>
         <mxCell id="yehfcM1-fpczFu6O64tC-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="78" y="532" width="120" height="60" as="geometry" />
+          <mxGeometry x="78" y="532" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="yehfcM1-fpczFu6O64tC-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="88" y="542" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="yehfcM1-fpczFu6O64tC-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="98" y="552" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="yehfcM1-fpczFu6O64tC-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="108" y="562" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="yehfcM1-fpczFu6O64tC-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="118" y="572" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
