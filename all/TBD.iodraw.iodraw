@@ -751,7 +751,7 @@
           <mxGeometry x="650" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="890" width="215" height="60" as="geometry" />
+          <mxGeometry x="230" y="890" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-25" value="S&lt;span style=&quot;background-color: initial;&quot;&gt;cheduler&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="590" width="120" height="60" as="geometry" />
@@ -805,7 +805,7 @@
           <mxGeometry x="376.5" y="935" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-44" value="Outliers select" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="297" y="860" width="103" height="30" as="geometry" />
+          <mxGeometry x="263.5" y="890" width="103" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
