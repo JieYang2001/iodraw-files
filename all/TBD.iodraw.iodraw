@@ -1091,7 +1091,10 @@
           <mxGeometry x="287.75" y="425" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="avnX_MaM9_gYBFYMj9H--2" value="KV cache manager" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="287.75" y="53" width="108.25" height="30" as="geometry" />
+          <mxGeometry x="287.75" y="165" width="108.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avnX_MaM9_gYBFYMj9H--3" value="KV cache manager" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-191.62" y="169" width="108.25" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
