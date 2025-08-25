@@ -1276,7 +1276,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cft6lce_6hVk1xTiKz4t-56" value="…" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="415" y="402" width="30" height="10" as="geometry" />
+          <mxGeometry x="405" y="292" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Cft6lce_6hVk1xTiKz4t-57" value="…" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="415" y="302" width="30" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
