@@ -1239,7 +1239,7 @@
             <mxPoint x="479.9" y="340" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cft6lce_6hVk1xTiKz4t-49" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Cft6lce_6hVk1xTiKz4t-49" value="…" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="340" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
