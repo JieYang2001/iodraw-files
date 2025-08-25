@@ -1087,6 +1087,9 @@
         <mxCell id="d1IO8roVgt7gqpGjDxXG-2" value="×N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="88" y="-6" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="avnX_MaM9_gYBFYMj9H--1" value="prefetcher" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="579" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
