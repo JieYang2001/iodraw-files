@@ -1090,8 +1090,8 @@
         <mxCell id="avnX_MaM9_gYBFYMj9H--1" value="prefetcher" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="287.75" y="425" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="avnX_MaM9_gYBFYMj9H--2" value="prefetcher" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="287.75" y="53" width="60" height="30" as="geometry" />
+        <mxCell id="avnX_MaM9_gYBFYMj9H--2" value="KV cache manager" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="287.75" y="53" width="108.25" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
