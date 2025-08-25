@@ -921,13 +921,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-15" value="Modality-aware importance classifier" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
-          <mxGeometry x="-167" y="143" width="220" height="35" as="geometry" />
+          <mxGeometry x="-167" y="140" width="220" height="35" as="geometry" />
         </mxCell>
         <mxCell id="yehfcM1-fpczFu6O64tC-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="CO8sXmiMMMBDKso04Mxd-16" target="CO8sXmiMMMBDKso04Mxd-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CO8sXmiMMMBDKso04Mxd-16" value="kv cache manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
-          <mxGeometry x="-167" y="93" width="220" height="37" as="geometry" />
+          <mxGeometry x="-167" y="91" width="220" height="37" as="geometry" />
         </mxCell>
         <mxCell id="yehfcM1-fpczFu6O64tC-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="CO8sXmiMMMBDKso04Mxd-17" target="CO8sXmiMMMBDKso04Mxd-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -944,7 +944,7 @@
         <mxCell id="yehfcM1-fpczFu6O64tC-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="CO8sXmiMMMBDKso04Mxd-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="278" y="466" />
+              <mxPoint x="278" y="455" />
               <mxPoint x="278" y="-60" />
             </Array>
             <mxPoint x="314" y="475" as="sourcePoint" />
@@ -1088,7 +1088,7 @@
           <mxGeometry x="88" y="-6" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="avnX_MaM9_gYBFYMj9H--1" value="prefetcher" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="203" y="612" width="60" height="30" as="geometry" />
+          <mxGeometry x="287.75" y="574" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="avnX_MaM9_gYBFYMj9H--2" value="KV cache manager" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="287.75" y="165" width="108.25" height="30" as="geometry" />
