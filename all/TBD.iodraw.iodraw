@@ -1124,7 +1124,7 @@
         <mxCell id="Cft6lce_6hVk1xTiKz4t-3" value="layer i" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="168" y="380" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Cft6lce_6hVk1xTiKz4t-4" value="layer n" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="Cft6lce_6hVk1xTiKz4t-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="168" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cft6lce_6hVk1xTiKz4t-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cft6lce_6hVk1xTiKz4t-6" target="Cft6lce_6hVk1xTiKz4t-7">
@@ -1250,6 +1250,9 @@
         </mxCell>
         <mxCell id="Cft6lce_6hVk1xTiKz4t-59" value="layer i" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="108" y="385" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cft6lce_6hVk1xTiKz4t-60" value="layer n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="108" y="282" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
