@@ -1192,13 +1192,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cft6lce_6hVk1xTiKz4t-58" value="layer i-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="445" width="60" height="30" as="geometry" />
+          <mxGeometry x="110" y="445" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Cft6lce_6hVk1xTiKz4t-59" value="layer&amp;nbsp; i" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="385" width="40" height="30" as="geometry" />
+          <mxGeometry x="110" y="385" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Cft6lce_6hVk1xTiKz4t-60" value="layer n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="322" width="60" height="30" as="geometry" />
+          <mxGeometry x="120" y="322" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
