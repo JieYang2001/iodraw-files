@@ -832,7 +832,10 @@
           <mxGeometry x="275" y="644" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qDmx-MNn7gEgnsa9ntGT-1" value="KV cache manager" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="649" y="389.8" width="121" height="15" as="geometry" />
+          <mxGeometry x="650" y="389.8" width="107" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="qDmx-MNn7gEgnsa9ntGT-2" value="classifier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="743" y="443" width="74" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
