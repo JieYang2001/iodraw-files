@@ -1240,7 +1240,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cft6lce_6hVk1xTiKz4t-49" value="…" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="340" width="60" height="30" as="geometry" />
+          <mxGeometry x="185" y="340" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Cft6lce_6hVk1xTiKz4t-50" value="…" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="340" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Cft6lce_6hVk1xTiKz4t-51" value="…" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="350" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
