@@ -1115,7 +1115,7 @@
         <mxCell id="Cft6lce_6hVk1xTiKz4t-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="250" y="440" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Cft6lce_6hVk1xTiKz4t-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="Cft6lce_6hVk1xTiKz4t-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="250" y="380" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cft6lce_6hVk1xTiKz4t-10" value="decoding j" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
