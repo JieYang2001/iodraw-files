@@ -677,7 +677,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zpxTgepQeghG2A-Q2eAv" name="overview">
-    <mxGraphModel dx="485" dy="307" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1213" dy="768" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -831,11 +831,11 @@
         <mxCell id="H2xj9wmtmev46Fut_VKg-52" value="asynchronous transmission" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="275" y="644" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qDmx-MNn7gEgnsa9ntGT-1" value="KV cache manager" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qDmx-MNn7gEgnsa9ntGT-1" value="KV cache manager" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="650" y="389.8" width="107" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="qDmx-MNn7gEgnsa9ntGT-2" value="classifier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="657" y="404.8" width="74" height="23.2" as="geometry" />
+        <mxCell id="qDmx-MNn7gEgnsa9ntGT-2" value="classifier" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="656" y="408.2" width="74" height="23.2" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
