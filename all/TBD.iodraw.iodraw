@@ -983,13 +983,13 @@
           <mxGeometry x="215" y="605" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OP5ma2fQUzuiKQEa3vus-9" value="model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="RNrWkq1Y6bacWV4Nk0sw-1">
-          <mxGeometry x="236" y="631.63" width="93" height="63.75" as="geometry" />
+          <mxGeometry x="236" y="631.63" width="92" height="63.75" as="geometry" />
         </mxCell>
         <mxCell id="OP5ma2fQUzuiKQEa3vus-10" value="Partial&lt;div&gt;key cache&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="RNrWkq1Y6bacWV4Nk0sw-1">
           <mxGeometry x="337.5" y="631.63" width="60.5" height="64.37" as="geometry" />
         </mxCell>
         <mxCell id="OP5ma2fQUzuiKQEa3vus-11" value="hot&amp;nbsp;&lt;div&gt;kv cache&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="RNrWkq1Y6bacWV4Nk0sw-1">
-          <mxGeometry x="411" y="631.63" width="60" height="65.37" as="geometry" />
+          <mxGeometry x="411" y="630.01" width="60" height="65.37" as="geometry" />
         </mxCell>
         <mxCell id="jyFCpphbgP352NPXPLVz-7" value="partial&lt;div&gt;key&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RNrWkq1Y6bacWV4Nk0sw-1">
           <mxGeometry x="526" y="699" width="60" height="30" as="geometry" />
