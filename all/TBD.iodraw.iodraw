@@ -952,28 +952,6 @@
         <mxCell id="RNrWkq1Y6bacWV4Nk0sw-46" value="KV cache manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="RNrWkq1Y6bacWV4Nk0sw-1">
           <mxGeometry x="572" y="343.42" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RNrWkq1Y6bacWV4Nk0sw-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="RNrWkq1Y6bacWV4Nk0sw-1" source="RNrWkq1Y6bacWV4Nk0sw-8" target="RNrWkq1Y6bacWV4Nk0sw-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="368" y="456" as="sourcePoint" />
-            <mxPoint x="366" y="385" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RNrWkq1Y6bacWV4Nk0sw-49" value="⑤" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RNrWkq1Y6bacWV4Nk0sw-48">
-          <mxGeometry x="0.0458" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RNrWkq1Y6bacWV4Nk0sw-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="RNrWkq1Y6bacWV4Nk0sw-1" source="RNrWkq1Y6bacWV4Nk0sw-3" target="RNrWkq1Y6bacWV4Nk0sw-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="337" y="391" as="sourcePoint" />
-            <mxPoint x="337" y="452" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RNrWkq1Y6bacWV4Nk0sw-51" value="③" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RNrWkq1Y6bacWV4Nk0sw-50">
-          <mxGeometry x="-0.2272" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RNrWkq1Y6bacWV4Nk0sw-52" value="queue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RNrWkq1Y6bacWV4Nk0sw-1">
           <mxGeometry x="185" y="250" width="79" height="17" as="geometry" />
         </mxCell>
@@ -1006,10 +984,10 @@
           <mxGeometry x="215" y="605" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OP5ma2fQUzuiKQEa3vus-9" value="model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="RNrWkq1Y6bacWV4Nk0sw-1">
-          <mxGeometry x="221" y="625" width="61" height="40" as="geometry" />
+          <mxGeometry x="243.5" y="643.5" width="61" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OP5ma2fQUzuiKQEa3vus-10" value="Partial key cache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="RNrWkq1Y6bacWV4Nk0sw-1">
-          <mxGeometry x="289.5" y="625" width="96" height="40" as="geometry" />
+          <mxGeometry x="312" y="643.5" width="96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OP5ma2fQUzuiKQEa3vus-11" value="hot kv cache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="RNrWkq1Y6bacWV4Nk0sw-1">
           <mxGeometry x="417" y="643.5" width="73" height="40" as="geometry" />
