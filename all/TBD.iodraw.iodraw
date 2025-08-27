@@ -900,7 +900,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="overview 的副本" id="zlrJFRZMFbU1EK0ioZTh">
-    <mxGraphModel dx="1239" dy="149" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1239" dy="149" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="RNrWkq1Y6bacWV4Nk0sw-0" />
         <mxCell id="RNrWkq1Y6bacWV4Nk0sw-1" parent="RNrWkq1Y6bacWV4Nk0sw-0" />
