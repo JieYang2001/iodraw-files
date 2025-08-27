@@ -696,7 +696,7 @@
         <mxCell id="H2xj9wmtmev46Fut_VKg-16" value="Partial key cache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="MRjOyO3_LUsH06iz2huf-31" vertex="1">
           <mxGeometry x="38" y="18.704128440366972" width="120" height="53.97477064220183" as="geometry" />
         </mxCell>
-        <mxCell id="H2xj9wmtmev46Fut_VKg-17" value="Model weights" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="MRjOyO3_LUsH06iz2huf-31" vertex="1">
+        <mxCell id="H2xj9wmtmev46Fut_VKg-17" value="Model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="MRjOyO3_LUsH06iz2huf-31" vertex="1">
           <mxGeometry x="38" y="89.77981651376146" width="120" height="53.440366972477065" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-18" value="hot kv cache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="MRjOyO3_LUsH06iz2huf-31" vertex="1">
