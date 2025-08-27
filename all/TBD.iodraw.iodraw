@@ -754,7 +754,7 @@
           <mxGeometry x="446" y="255.79999999999995" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-25" value="S&lt;span style=&quot;background-color: initial;&quot;&gt;cheduler&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="647" y="293.8" width="120" height="60" as="geometry" />
+          <mxGeometry x="647" y="322.8" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="446" y="335.79999999999995" width="160" height="60" as="geometry" />
@@ -832,7 +832,7 @@
           <mxGeometry x="653" y="414.2" width="74" height="23.2" as="geometry" />
         </mxCell>
         <mxCell id="tqVhgYQCff-89aeSjNE9-1" value="Importance Classifer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="647" y="534" width="120" height="60" as="geometry" />
+          <mxGeometry x="647" y="255.60000000000002" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
