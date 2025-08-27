@@ -838,10 +838,10 @@
           <mxGeometry x="-147" y="385" width="215" height="32" as="geometry" />
         </mxCell>
         <mxCell id="tqVhgYQCff-89aeSjNE9-10" value="allocator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-12" y="276" width="136" height="37" as="geometry" />
+          <mxGeometry x="-12" y="279.8" width="136" height="37" as="geometry" />
         </mxCell>
         <mxCell id="tqVhgYQCff-89aeSjNE9-11" value="preemption" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-12" y="327" width="136" height="30" as="geometry" />
+          <mxGeometry x="-12" y="329" width="136" height="37.8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
