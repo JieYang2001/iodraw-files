@@ -828,6 +828,12 @@
         <mxCell id="tqVhgYQCff-89aeSjNE9-4" value="queue" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-64" y="368" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="tqVhgYQCff-89aeSjNE9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tqVhgYQCff-89aeSjNE9-5" target="H2xj9wmtmev46Fut_VKg-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tqVhgYQCff-89aeSjNE9-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-187" y="283" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
