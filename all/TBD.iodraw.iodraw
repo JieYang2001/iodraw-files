@@ -723,6 +723,9 @@
         <mxCell id="H2xj9wmtmev46Fut_VKg-17" value="Model weights" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry x="296" y="268.8" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="MRjOyO3_LUsH06iz2huf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H2xj9wmtmev46Fut_VKg-18" target="H2xj9wmtmev46Fut_VKg-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-18" value="hot kv cache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry x="296" y="326" width="120" height="40" as="geometry" />
         </mxCell>
@@ -822,7 +825,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="567" y="458" />
-              <mxPoint x="567" y="316" />
+              <mxPoint x="567" y="342" />
+              <mxPoint x="416" y="342" />
             </Array>
           </mxGeometry>
         </mxCell>
