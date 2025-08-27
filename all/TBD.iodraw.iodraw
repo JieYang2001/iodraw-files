@@ -691,43 +691,43 @@
           <mxGeometry x="270" y="230" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="280" y="255.6" width="140" height="174.4" as="geometry" />
+          <mxGeometry x="278" y="255.6" width="140" height="174.4" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-7" value="GPU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="280" y="255.6" width="30" height="14" as="geometry" />
+          <mxGeometry x="278" y="255.6" width="30" height="14" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="278" y="473" width="320" height="110" as="geometry" />
+          <mxGeometry x="277" y="474" width="320" height="110" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-9" value="CPU mem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="278" y="473" width="60" height="20" as="geometry" />
+          <mxGeometry x="277" y="474" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="288" y="503" width="120" height="60" as="geometry" />
+          <mxGeometry x="287" y="504" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-11" value="Pageable" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="288" y="503" width="55" height="20" as="geometry" />
+          <mxGeometry x="287" y="504" width="55" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="428" y="503" width="120" height="60" as="geometry" />
+          <mxGeometry x="427" y="504" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-13" value="Pinned" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="428" y="503" width="40" height="20" as="geometry" />
+          <mxGeometry x="427" y="504" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-14" value="cold kv cache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
-          <mxGeometry x="303" y="523" width="90" height="30" as="geometry" />
+          <mxGeometry x="302" y="524" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-15" value="warm kv cache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
-          <mxGeometry x="443" y="523" width="90" height="30" as="geometry" />
+          <mxGeometry x="442" y="524" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-16" value="Partial key cache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
-          <mxGeometry x="290" y="269.6" width="120" height="40.4" as="geometry" />
+          <mxGeometry x="288" y="269.6" width="120" height="40.4" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-17" value="Other model weights" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
-          <mxGeometry x="290" y="322.8" width="120" height="40" as="geometry" />
+          <mxGeometry x="288" y="322.8" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-18" value="hot kv cache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
-          <mxGeometry x="290" y="380" width="120" height="40" as="geometry" />
+          <mxGeometry x="288" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-19" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -737,12 +737,12 @@
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;endSize=4;startSize=4;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="466" as="sourcePoint" />
-            <mxPoint x="370" y="432" as="targetPoint" />
+            <mxPoint x="368" y="466" as="sourcePoint" />
+            <mxPoint x="368" y="432" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-22" value="DMA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="370" y="440" width="35" height="20" as="geometry" />
+          <mxGeometry x="368" y="440" width="35" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-23" value="Advanced Prefecher" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="647" y="344" width="120" height="60" as="geometry" />
