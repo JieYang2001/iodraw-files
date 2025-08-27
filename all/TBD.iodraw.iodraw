@@ -712,7 +712,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="401" y="487" width="130" height="60" as="geometry" />
+          <mxGeometry x="401" y="481.5" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-11" value="Pageable" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="401" y="487" width="55" height="20" as="geometry" />
