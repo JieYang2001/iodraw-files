@@ -875,7 +875,17 @@
           <mxGeometry x="71" y="299" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MRjOyO3_LUsH06iz2huf-23" value="queue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-24" y="492" width="120" height="17" as="geometry" />
+          <mxGeometry x="186" y="355" width="79" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="MRjOyO3_LUsH06iz2huf-25" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-93" y="584" as="sourcePoint" />
+            <mxPoint x="-89" y="534" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-43" y="584" />
+              <mxPoint x="-93" y="534" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
