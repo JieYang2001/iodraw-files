@@ -972,7 +972,7 @@
         <mxCell id="OP5ma2fQUzuiKQEa3vus-9" value="model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f2b56e;strokeColor=#6c8ebf;" vertex="1" parent="RNrWkq1Y6bacWV4Nk0sw-1">
           <mxGeometry x="255" y="631.63" width="92" height="63.75" as="geometry" />
         </mxCell>
-        <mxCell id="OP5ma2fQUzuiKQEa3vus-10" value="Partial&lt;div&gt;key cache&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="RNrWkq1Y6bacWV4Nk0sw-1">
+        <mxCell id="OP5ma2fQUzuiKQEa3vus-10" value="Partial&lt;div&gt;key cache&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2B56E;strokeColor=#6c8ebf;" vertex="1" parent="RNrWkq1Y6bacWV4Nk0sw-1">
           <mxGeometry x="356.5" y="631.005" width="59" height="65" as="geometry" />
         </mxCell>
         <mxCell id="OP5ma2fQUzuiKQEa3vus-11" value="hot&amp;nbsp;&lt;div&gt;kv cache&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="RNrWkq1Y6bacWV4Nk0sw-1">
