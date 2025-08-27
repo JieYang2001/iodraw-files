@@ -826,7 +826,7 @@
           <mxGeometry x="647" y="428" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tqVhgYQCff-89aeSjNE9-4" value="scheduler" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-58" y="254.8" width="60" height="30" as="geometry" />
+          <mxGeometry x="-52" y="256.8" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tqVhgYQCff-89aeSjNE9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tqVhgYQCff-89aeSjNE9-5" target="H2xj9wmtmev46Fut_VKg-25">
           <mxGeometry relative="1" as="geometry" />
@@ -838,7 +838,7 @@
           <mxGeometry x="-147" y="385" width="215" height="32" as="geometry" />
         </mxCell>
         <mxCell id="tqVhgYQCff-89aeSjNE9-10" value="allocator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-12" y="276" width="136" height="30" as="geometry" />
+          <mxGeometry x="-12" y="276" width="136" height="37" as="geometry" />
         </mxCell>
         <mxCell id="tqVhgYQCff-89aeSjNE9-11" value="preemption" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-12" y="327" width="136" height="30" as="geometry" />
