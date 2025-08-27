@@ -828,20 +828,11 @@
         <mxCell id="H2xj9wmtmev46Fut_VKg-24" value="KV cache manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="647" y="428" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tqVhgYQCff-89aeSjNE9-4" value="scheduler" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-36" y="286.40000000000003" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="tqVhgYQCff-89aeSjNE9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tqVhgYQCff-89aeSjNE9-5" target="H2xj9wmtmev46Fut_VKg-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tqVhgYQCff-89aeSjNE9-5" value="request" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-140" y="331" width="48" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tqVhgYQCff-89aeSjNE9-10" value="allocator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4" y="309.40000000000003" width="136" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="tqVhgYQCff-89aeSjNE9-11" value="preemption" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4" y="358.59999999999997" width="136" height="37.8" as="geometry" />
         </mxCell>
         <mxCell id="MRjOyO3_LUsH06iz2huf-1" value="tip:partial Q论文中提一下" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="68" y="141.6" width="157" height="30" as="geometry" />
