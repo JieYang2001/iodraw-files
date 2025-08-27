@@ -798,7 +798,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-24" value="KV cache manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="664" y="316" width="120" height="60" as="geometry" />
+          <mxGeometry x="667" y="343.92" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tqVhgYQCff-89aeSjNE9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tqVhgYQCff-89aeSjNE9-5" target="H2xj9wmtmev46Fut_VKg-25">
           <mxGeometry relative="1" as="geometry" />
@@ -851,7 +851,7 @@
           <mxGeometry x="488" y="251" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MRjOyO3_LUsH06iz2huf-31" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="267" y="149" width="196" height="233" as="geometry" />
+          <mxGeometry x="277" y="181" width="196" height="233" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="MRjOyO3_LUsH06iz2huf-31" vertex="1">
           <mxGeometry width="196" height="233" as="geometry" />
