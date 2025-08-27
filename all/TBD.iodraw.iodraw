@@ -705,6 +705,11 @@
         <mxCell id="MRjOyO3_LUsH06iz2huf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="H2xj9wmtmev46Fut_VKg-12" target="H2xj9wmtmev46Fut_VKg-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MRjOyO3_LUsH06iz2huf-6" value="critical tokens" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MRjOyO3_LUsH06iz2huf-2">
+          <mxGeometry x="-0.0178" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="296" y="507" width="120" height="60" as="geometry" />
         </mxCell>
