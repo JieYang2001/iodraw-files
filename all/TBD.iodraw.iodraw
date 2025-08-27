@@ -889,6 +889,9 @@
         <mxCell id="RNrWkq1Y6bacWV4Nk0sw-7" value="hot kv cache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="RNrWkq1Y6bacWV4Nk0sw-2">
           <mxGeometry x="38" y="166.19954128440364" width="120" height="53.440366972477065" as="geometry" />
         </mxCell>
+        <mxCell id="OP5ma2fQUzuiKQEa3vus-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="RNrWkq1Y6bacWV4Nk0sw-1" source="RNrWkq1Y6bacWV4Nk0sw-8" target="OP5ma2fQUzuiKQEa3vus-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RNrWkq1Y6bacWV4Nk0sw-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="RNrWkq1Y6bacWV4Nk0sw-1">
           <mxGeometry x="215" y="454" width="320" height="110" as="geometry" />
         </mxCell>
