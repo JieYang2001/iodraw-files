@@ -708,16 +708,16 @@
         <mxCell id="H2xj9wmtmev46Fut_VKg-11" value="Pageable" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="290" y="500" width="55" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="H2xj9wmtmev46Fut_VKg-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="H2xj9wmtmev46Fut_VKg-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="430" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-13" value="Pinned" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="430" y="500" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="H2xj9wmtmev46Fut_VKg-14" value="cold kv cache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+        <mxCell id="H2xj9wmtmev46Fut_VKg-14" value="cold kv cache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="305" y="520" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H2xj9wmtmev46Fut_VKg-15" value="warm kv cache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+        <mxCell id="H2xj9wmtmev46Fut_VKg-15" value="warm kv cache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="445" y="520" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-16" value="Partial key cache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
