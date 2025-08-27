@@ -724,7 +724,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-25" value="scheduler" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="53" y="213" width="99" height="51" as="geometry" />
+          <mxGeometry x="73" y="213" width="99" height="51" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="469.5" y="-147.00000000000006" width="160" height="60" as="geometry" />
@@ -821,15 +821,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MRjOyO3_LUsH06iz2huf-23" value="queue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="159" y="277" width="79" height="17" as="geometry" />
+          <mxGeometry x="185" y="250" width="79" height="17" as="geometry" />
         </mxCell>
         <mxCell id="MRjOyO3_LUsH06iz2huf-26" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="159" y="221.6" as="sourcePoint" />
-            <mxPoint x="209" y="171.6" as="targetPoint" />
+            <mxPoint x="199.5" y="227" as="sourcePoint" />
+            <mxPoint x="249.5" y="177" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="209" y="221.6" />
-              <mxPoint x="159" y="171.6" />
+              <mxPoint x="249.5" y="227" />
+              <mxPoint x="199.5" y="177" />
             </Array>
           </mxGeometry>
         </mxCell>
