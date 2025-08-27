@@ -681,9 +681,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MRjOyO3_LUsH06iz2huf-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="61" y="169" width="644" height="405" as="geometry" />
-        </mxCell>
         <mxCell id="MRjOyO3_LUsH06iz2huf-31" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="277" y="181" width="196" height="233" as="geometry" />
         </mxCell>
