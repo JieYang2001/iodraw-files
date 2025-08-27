@@ -877,7 +877,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MRjOyO3_LUsH06iz2huf-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MRjOyO3_LUsH06iz2huf-1" value="tip:partial Q" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-75" y="494" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
