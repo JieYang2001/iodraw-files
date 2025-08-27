@@ -851,22 +851,22 @@
           <mxGeometry x="488" y="251" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MRjOyO3_LUsH06iz2huf-31" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="292.5" y="201.60000000000002" width="140" height="174.4" as="geometry" />
+          <mxGeometry x="292.5" y="143" width="196" height="233" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="MRjOyO3_LUsH06iz2huf-31" vertex="1">
-          <mxGeometry y="-71" width="140" height="245.4" as="geometry" />
+          <mxGeometry width="196" height="233" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-7" value="GPU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MRjOyO3_LUsH06iz2huf-31" vertex="1">
-          <mxGeometry width="30" height="14" as="geometry" />
+          <mxGeometry width="30" height="18.704128440366972" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-16" value="Partial key cache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="MRjOyO3_LUsH06iz2huf-31" vertex="1">
-          <mxGeometry x="10" y="14" width="120" height="40.4" as="geometry" />
+          <mxGeometry x="10" y="18.704128440366972" width="120" height="53.97477064220183" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-17" value="Model weights" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="MRjOyO3_LUsH06iz2huf-31" vertex="1">
-          <mxGeometry x="10" y="67.19999999999999" width="120" height="40" as="geometry" />
+          <mxGeometry x="10" y="89.77981651376146" width="120" height="53.440366972477065" as="geometry" />
         </mxCell>
         <mxCell id="H2xj9wmtmev46Fut_VKg-18" value="hot kv cache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="MRjOyO3_LUsH06iz2huf-31" vertex="1">
-          <mxGeometry x="10" y="124.39999999999998" width="120" height="40" as="geometry" />
+          <mxGeometry x="10" y="166.19954128440364" width="120" height="53.440366972477065" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
