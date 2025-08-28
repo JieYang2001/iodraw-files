@@ -1254,7 +1254,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-30" value="scheduler" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
-          <mxGeometry x="75" y="549.5" width="99" height="51" as="geometry" />
+          <mxGeometry x="75" y="549.5" width="99" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-31" value="queue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
           <mxGeometry x="180" y="578.5" width="50" height="15" as="geometry" />
