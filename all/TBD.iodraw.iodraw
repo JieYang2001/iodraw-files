@@ -899,7 +899,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="overview 的副本" id="zlrJFRZMFbU1EK0ioZTh">
+  <diagram name="overview_2" id="zlrJFRZMFbU1EK0ioZTh">
     <mxGraphModel dx="1411" dy="240" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="RNrWkq1Y6bacWV4Nk0sw-0" />
@@ -1091,7 +1091,7 @@
         <mxCell id="JevypX1gqt25Zvi9dH-K-19" value="KV cache manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="JevypX1gqt25Zvi9dH-K-1">
           <mxGeometry x="243" y="545" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JevypX1gqt25Zvi9dH-K-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="JevypX1gqt25Zvi9dH-K-1">
+        <mxCell id="JevypX1gqt25Zvi9dH-K-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JevypX1gqt25Zvi9dH-K-1">
           <mxGeometry x="388" y="598.5" width="320" height="117" as="geometry" />
         </mxCell>
         <mxCell id="JevypX1gqt25Zvi9dH-K-21" value="GPU mem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JevypX1gqt25Zvi9dH-K-1">
