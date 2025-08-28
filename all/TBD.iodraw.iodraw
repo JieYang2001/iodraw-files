@@ -1211,9 +1211,9 @@
         <mxCell id="sDJJzvo-AySjqFhsCinT-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_k3K9cz0viDZv6V4BYcZ-1" source="_k3K9cz0viDZv6V4BYcZ-19" target="_k3K9cz0viDZv6V4BYcZ-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="377" y="566" />
-              <mxPoint x="377" y="616" />
-              <mxPoint x="378" y="616" />
+              <mxPoint x="379" y="566" />
+              <mxPoint x="379" y="617" />
+              <mxPoint x="378" y="617" />
               <mxPoint x="378" y="660" />
             </Array>
           </mxGeometry>
