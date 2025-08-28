@@ -1225,10 +1225,10 @@
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-22" value="model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
           <mxGeometry x="428" y="625.13" width="92" height="63.75" as="geometry" />
         </mxCell>
-        <mxCell id="_k3K9cz0viDZv6V4BYcZ-23" value="Partial&lt;div&gt;key cache&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
+        <mxCell id="_k3K9cz0viDZv6V4BYcZ-23" value="Partial&lt;div&gt;key cache&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
           <mxGeometry x="529.5" y="624.505" width="59" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="_k3K9cz0viDZv6V4BYcZ-24" value="hot&amp;nbsp;&lt;div&gt;kv cache&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
+        <mxCell id="_k3K9cz0viDZv6V4BYcZ-24" value="hot&amp;nbsp;&lt;div&gt;kv cache&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
           <mxGeometry x="603" y="624.505" width="59" height="65" as="geometry" />
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-25" value="indices" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
