@@ -1273,16 +1273,16 @@
           <mxGeometry x="130" y="474.5" width="76" height="34" as="geometry" />
         </mxCell>
         <mxCell id="56VtVPZgFFhB0FNms1Bt-0" value="text-only&lt;div&gt;Req 4&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
-          <mxGeometry x="-226" y="658.88" width="59" height="30" as="geometry" />
+          <mxGeometry x="-167" y="659.51" width="59" height="30" as="geometry" />
         </mxCell>
         <mxCell id="56VtVPZgFFhB0FNms1Bt-1" value="image-text&lt;div&gt;Req 3&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
-          <mxGeometry x="-167" y="658.88" width="59" height="30" as="geometry" />
+          <mxGeometry x="-108" y="659.51" width="59" height="30" as="geometry" />
         </mxCell>
         <mxCell id="56VtVPZgFFhB0FNms1Bt-2" value="text-only&lt;div&gt;Req 2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
-          <mxGeometry x="-108" y="658.88" width="59" height="30" as="geometry" />
+          <mxGeometry x="-49" y="659.51" width="59" height="30" as="geometry" />
         </mxCell>
         <mxCell id="56VtVPZgFFhB0FNms1Bt-3" value="image-text&lt;div&gt;Req 1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
-          <mxGeometry x="-49" y="658.88" width="59" height="30" as="geometry" />
+          <mxGeometry x="10" y="659.51" width="59" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
