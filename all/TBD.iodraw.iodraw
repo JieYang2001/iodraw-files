@@ -1151,7 +1151,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="overview_4" id="qvfsBkxjy2R7WQTsuxRw">
-    <mxGraphModel dx="539" dy="-59" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="449" dy="-116" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-0" />
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-1" parent="_k3K9cz0viDZv6V4BYcZ-0" />
@@ -1229,10 +1229,10 @@
           <mxGeometry x="402" y="443.14" width="92" height="77.87" as="geometry" />
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-23" value="Partial&lt;div&gt;key cache&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
-          <mxGeometry x="509.5" y="442.82" width="65.5" height="78.5" as="geometry" />
+          <mxGeometry x="513" y="442.82" width="65.5" height="78.5" as="geometry" />
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-24" value="hot&amp;nbsp;&lt;div&gt;kv cache&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
-          <mxGeometry x="590" y="442.51" width="64" height="77.5" as="geometry" />
+          <mxGeometry x="596" y="442.82" width="64" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-25" value="indices" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
           <mxGeometry x="303" y="619" width="41" height="20" as="geometry" />
