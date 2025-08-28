@@ -1162,7 +1162,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
-          <mxGeometry x="391" y="605.01" width="288" height="110" as="geometry" />
+          <mxGeometry x="391" y="605.01" width="283" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-5" value="CPU mem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
           <mxGeometry x="391" y="605.01" width="60" height="20" as="geometry" />
@@ -1171,10 +1171,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
-          <mxGeometry x="553" y="632.51" width="120" height="70" as="geometry" />
+          <mxGeometry x="544" y="632.51" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-8" value="Pageable" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
-          <mxGeometry x="619" y="685.01" width="55" height="20" as="geometry" />
+          <mxGeometry x="610" y="685.01" width="55" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
           <mxGeometry x="402" y="632.51" width="120.5" height="70" as="geometry" />
@@ -1183,7 +1183,7 @@
           <mxGeometry x="481.5" y="686.01" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-11" value="all kv cache" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
-          <mxGeometry x="563" y="647.51" width="100" height="40" as="geometry" />
+          <mxGeometry x="554" y="647.51" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-12" value="warm kv cache" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
           <mxGeometry x="412.25" y="647.51" width="100" height="40" as="geometry" />
@@ -1220,7 +1220,7 @@
           <mxGeometry x="243" y="536" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
-          <mxGeometry x="391" y="416.5" width="275" height="117" as="geometry" />
+          <mxGeometry x="391" y="416.51" width="275" height="117" as="geometry" />
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-21" value="GPU mem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
           <mxGeometry x="391" y="416.5" width="60" height="20" as="geometry" />
