@@ -1162,7 +1162,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
-          <mxGeometry x="391" y="605.01" width="283" height="110" as="geometry" />
+          <mxGeometry x="391" y="605.01" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-5" value="CPU mem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
           <mxGeometry x="391" y="605.01" width="60" height="20" as="geometry" />
@@ -1220,7 +1220,7 @@
           <mxGeometry x="243" y="536" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
-          <mxGeometry x="391" y="416.51" width="275" height="117" as="geometry" />
+          <mxGeometry x="391" y="416.51" width="280" height="117" as="geometry" />
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-21" value="GPU mem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
           <mxGeometry x="391" y="416.5" width="60" height="20" as="geometry" />
