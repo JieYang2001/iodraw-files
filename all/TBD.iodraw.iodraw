@@ -1281,6 +1281,9 @@
         <mxCell id="56VtVPZgFFhB0FNms1Bt-2" value="text-only&lt;div&gt;Req 2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
           <mxGeometry x="-49" y="659.51" width="59" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="56VtVPZgFFhB0FNms1Bt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="_k3K9cz0viDZv6V4BYcZ-1" source="56VtVPZgFFhB0FNms1Bt-3" target="_k3K9cz0viDZv6V4BYcZ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="56VtVPZgFFhB0FNms1Bt-3" value="image-text&lt;div&gt;Req 1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
           <mxGeometry x="10" y="659.51" width="59" height="30" as="geometry" />
         </mxCell>
