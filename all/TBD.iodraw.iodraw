@@ -1216,7 +1216,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_k3K9cz0viDZv6V4BYcZ-19" value="KV cache manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#87BAA7;strokeColor=#000000;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
+        <mxCell id="_k3K9cz0viDZv6V4BYcZ-19" value="KV cache manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#87BAA7;strokeColor=#000000;fontColor=#ffffff;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
           <mxGeometry x="243" y="545" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
@@ -1248,7 +1248,7 @@
             <mxPoint x="236" y="575.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_k3K9cz0viDZv6V4BYcZ-30" value="Request scheduler" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#87BAA7;strokeColor=#d6b656;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
+        <mxCell id="_k3K9cz0viDZv6V4BYcZ-30" value="Request scheduler" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#87BAA7;strokeColor=#000000;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
           <mxGeometry x="52" y="545" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-31" value="queue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
