@@ -1151,7 +1151,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="overview_4" id="qvfsBkxjy2R7WQTsuxRw">
-    <mxGraphModel dx="391" dy="-152" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="190" dy="-280" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-0" />
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-1" parent="_k3K9cz0viDZv6V4BYcZ-0" />
@@ -1208,15 +1208,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sDJJzvo-AySjqFhsCinT-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_k3K9cz0viDZv6V4BYcZ-1" source="_k3K9cz0viDZv6V4BYcZ-19" target="_k3K9cz0viDZv6V4BYcZ-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="379" y="566" />
-              <mxPoint x="379" y="617" />
-              <mxPoint x="378" y="617" />
-              <mxPoint x="378" y="660" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="sDJJzvo-AySjqFhsCinT-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_k3K9cz0viDZv6V4BYcZ-1" source="_k3K9cz0viDZv6V4BYcZ-19" target="_k3K9cz0viDZv6V4BYcZ-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-19" value="KV cache manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9DFD1;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="_k3K9cz0viDZv6V4BYcZ-1">
           <mxGeometry x="243" y="536" width="120" height="60" as="geometry" />
