@@ -1023,7 +1023,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="overview 的副本 的副本" id="wQhO7AHr3WdW8esyxbYS">
-    <mxGraphModel dx="693" dy="39" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="837" dy="130" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="JevypX1gqt25Zvi9dH-K-0" />
         <mxCell id="JevypX1gqt25Zvi9dH-K-1" parent="JevypX1gqt25Zvi9dH-K-0" />
@@ -1113,7 +1113,7 @@
           <mxGeometry x="303" y="513.5" width="49" height="25" as="geometry" />
         </mxCell>
         <mxCell id="JevypX1gqt25Zvi9dH-K-27" value="PCIe" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JevypX1gqt25Zvi9dH-K-1">
-          <mxGeometry x="550.5" y="563.5" width="38" height="30" as="geometry" />
+          <mxGeometry x="550.5" y="563.5" width="38" height="14.5" as="geometry" />
         </mxCell>
         <mxCell id="JevypX1gqt25Zvi9dH-K-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="JevypX1gqt25Zvi9dH-K-1" source="JevypX1gqt25Zvi9dH-K-30">
           <mxGeometry relative="1" as="geometry">
