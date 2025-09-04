@@ -1151,7 +1151,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="overview_4" id="qvfsBkxjy2R7WQTsuxRw">
-    <mxGraphModel dx="1213" dy="368" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="837" dy="130" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-0" />
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-1" parent="_k3K9cz0viDZv6V4BYcZ-0" />
@@ -1225,7 +1225,7 @@
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-21" value="GPU mem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
           <mxGeometry x="391" y="416.5" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_k3K9cz0viDZv6V4BYcZ-22" value="model" style="rounded=0;whiteSpace=wrap;html=1;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
+        <mxCell id="_k3K9cz0viDZv6V4BYcZ-22" value="Model" style="rounded=0;whiteSpace=wrap;html=1;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
           <mxGeometry x="402" y="443.14" width="92" height="77.87" as="geometry" />
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-23" value="Partial&lt;div&gt;key cache&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
