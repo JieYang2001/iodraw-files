@@ -1731,16 +1731,13 @@
         <mxCell id="5lbKsQMoRNzZk4baSXUS-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bf9000;strokeColor=#504c3f;strokeWidth=0.5;" vertex="1" parent="1">
           <mxGeometry x="457" y="240" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="5lbKsQMoRNzZk4baSXUS-38" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;strokeColor=#504c3f;fillColor=#ffd966;" vertex="1" parent="1">
-          <mxGeometry x="467" y="306" width="10" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="5lbKsQMoRNzZk4baSXUS-39" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;strokeColor=#504c3f;fillColor=#FFF2CC;" vertex="1" parent="1">
-          <mxGeometry x="457" y="260" width="10" height="10" as="geometry" />
+          <mxGeometry x="457" y="250" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="5lbKsQMoRNzZk4baSXUS-40" value="" style="endArrow=none;html=1;rounded=0;endFill=0;startSize=1;endSize=1;curved=1;startArrow=async;startFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="472" y="230" as="sourcePoint" />
-            <mxPoint x="472" y="270" as="targetPoint" />
+            <mxPoint x="472" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
