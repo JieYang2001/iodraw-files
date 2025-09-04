@@ -1629,7 +1629,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5lbKsQMoRNzZk4baSXUS-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bf9000;strokeColor=#D6B656;strokeWidth=0.5;" vertex="1" parent="1">
+        <mxCell id="5lbKsQMoRNzZk4baSXUS-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7E6000;strokeColor=#D6B656;strokeWidth=0.5;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5lbKsQMoRNzZk4baSXUS-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#D6B656;strokeWidth=0.5;" vertex="1" parent="1">
