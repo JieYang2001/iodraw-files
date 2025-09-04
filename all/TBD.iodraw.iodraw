@@ -1741,7 +1741,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5lbKsQMoRNzZk4baSXUS-41" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;(outliers)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="348" y="247" width="28" height="6" as="geometry" />
+          <mxGeometry x="347" y="243" width="29" height="10" as="geometry" />
         </mxCell>
         <mxCell id="5lbKsQMoRNzZk4baSXUS-42" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;(head)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="349" y="301" width="26" height="11" as="geometry" />
