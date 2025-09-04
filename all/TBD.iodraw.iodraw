@@ -1740,10 +1740,10 @@
             <mxPoint x="472" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5lbKsQMoRNzZk4baSXUS-41" value="(outliers)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5lbKsQMoRNzZk4baSXUS-41" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;(outliers)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="352" y="243" width="28" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="5lbKsQMoRNzZk4baSXUS-42" value="(head)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5lbKsQMoRNzZk4baSXUS-42" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;(head)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="325" y="311" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
