@@ -1767,8 +1767,8 @@
         <mxCell id="5lbKsQMoRNzZk4baSXUS-50" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=0.5;strokeColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="418" y="198" width="14" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="5lbKsQMoRNzZk4baSXUS-51" value="importance" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="455" y="256" width="30" height="60" as="geometry" />
+        <mxCell id="5lbKsQMoRNzZk4baSXUS-51" value="importance" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=west;flipV=0;flipH=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="440" y="271" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
