@@ -1161,7 +1161,7 @@
             <mxPoint x="551" y="612" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_k3K9cz0viDZv6V4BYcZ-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
+        <mxCell id="_k3K9cz0viDZv6V4BYcZ-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#68a5df;strokeColor=#23445d;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
           <mxGeometry x="391" y="596" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;CPU mem&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
