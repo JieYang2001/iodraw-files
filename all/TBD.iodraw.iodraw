@@ -1197,7 +1197,7 @@
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="_k3K9cz0viDZv6V4BYcZ-1" source="_k3K9cz0viDZv6V4BYcZ-16" target="_k3K9cz0viDZv6V4BYcZ-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_k3K9cz0viDZv6V4BYcZ-16" value="Importance Classifer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b9dfd1;strokeColor=#000000;fontColor=#000000;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
+        <mxCell id="_k3K9cz0viDZv6V4BYcZ-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;Importance Classifer&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b9dfd1;strokeColor=#000000;fontColor=#000000;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
           <mxGeometry x="243" y="416.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sDJJzvo-AySjqFhsCinT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="_k3K9cz0viDZv6V4BYcZ-1" source="_k3K9cz0viDZv6V4BYcZ-19" target="_k3K9cz0viDZv6V4BYcZ-20" edge="1">
@@ -1216,7 +1216,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_k3K9cz0viDZv6V4BYcZ-19" value="KV Cache Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9DFD1;strokeColor=#000000;fontColor=#000000;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
+        <mxCell id="_k3K9cz0viDZv6V4BYcZ-19" value="&lt;font face=&quot;Times New Roman&quot;&gt;KV Cache Manager&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9DFD1;strokeColor=#000000;fontColor=#000000;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
           <mxGeometry x="243" y="536" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
@@ -1248,7 +1248,7 @@
             <mxPoint x="236" y="575.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_k3K9cz0viDZv6V4BYcZ-30" value="Request Scheduler" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9DFD1;strokeColor=#000000;fontColor=#000000;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
+        <mxCell id="_k3K9cz0viDZv6V4BYcZ-30" value="&lt;font face=&quot;Times New Roman&quot;&gt;Request Scheduler&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9DFD1;strokeColor=#000000;fontColor=#000000;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
           <mxGeometry x="65" y="536" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-31" value="Queue" style="rounded=0;whiteSpace=wrap;html=1;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
