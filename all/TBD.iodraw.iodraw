@@ -1151,7 +1151,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="overview_4" id="qvfsBkxjy2R7WQTsuxRw">
-    <mxGraphModel dx="967" dy="202" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2804" dy="1346" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-0" />
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-1" parent="_k3K9cz0viDZv6V4BYcZ-0" />
@@ -1219,7 +1219,7 @@
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-19" value="&lt;font face=&quot;Times New Roman&quot;&gt;KV Cache Manager&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9DFD1;strokeColor=#000000;fontColor=#000000;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
           <mxGeometry x="243" y="536" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_k3K9cz0viDZv6V4BYcZ-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFEB85;strokeColor=#56517e;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
+        <mxCell id="_k3K9cz0viDZv6V4BYcZ-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
           <mxGeometry x="391" y="416.51" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-21" value="&lt;font face=&quot;Times New Roman&quot;&gt;GPU mem&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
