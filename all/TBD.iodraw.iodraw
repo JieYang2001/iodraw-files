@@ -1237,7 +1237,7 @@
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-25" value="indices" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
           <mxGeometry x="303" y="619" width="41" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_k3K9cz0viDZv6V4BYcZ-26" value="category" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
+        <mxCell id="_k3K9cz0viDZv6V4BYcZ-26" value="&lt;font face=&quot;Times New Roman&quot;&gt;category&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
           <mxGeometry x="303" y="493" width="49" height="25" as="geometry" />
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-27" value="PCIe" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
@@ -1251,7 +1251,7 @@
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-30" value="&lt;font face=&quot;Times New Roman&quot;&gt;Request Scheduler&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9DFD1;strokeColor=#000000;fontColor=#000000;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
           <mxGeometry x="65" y="536" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_k3K9cz0viDZv6V4BYcZ-31" value="Queue" style="rounded=0;whiteSpace=wrap;html=1;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
+        <mxCell id="_k3K9cz0viDZv6V4BYcZ-31" value="&lt;font face=&quot;Times New Roman&quot;&gt;Queue&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
           <mxGeometry x="189" y="574" width="50" height="15" as="geometry" />
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-32" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;" parent="_k3K9cz0viDZv6V4BYcZ-1" edge="1">
