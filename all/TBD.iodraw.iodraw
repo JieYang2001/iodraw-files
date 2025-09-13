@@ -1225,7 +1225,7 @@
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-21" value="&lt;font face=&quot;Times New Roman&quot;&gt;GPU mem&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
           <mxGeometry x="391" y="416.5" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_k3K9cz0viDZv6V4BYcZ-22" value="&lt;font face=&quot;Times New Roman&quot;&gt;Model&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBE3D6;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
+        <mxCell id="_k3K9cz0viDZv6V4BYcZ-22" value="&lt;font face=&quot;Times New Roman&quot;&gt;Model&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBE3D6;strokeColor=none;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
           <mxGeometry x="402" y="443.14" width="92" height="77.87" as="geometry" />
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-23" value="&lt;font face=&quot;Times New Roman&quot;&gt;Partial&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;key cache&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fbe3d6;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
