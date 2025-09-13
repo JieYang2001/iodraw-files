@@ -1179,7 +1179,7 @@
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
           <mxGeometry x="402" y="629.51" width="120.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="_k3K9cz0viDZv6V4BYcZ-10" value="Pinned" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
+        <mxCell id="_k3K9cz0viDZv6V4BYcZ-10" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pinned&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
           <mxGeometry x="481.5" y="683.01" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_k3K9cz0viDZv6V4BYcZ-11" value="All kv cache" style="rounded=0;whiteSpace=wrap;html=1;" parent="_k3K9cz0viDZv6V4BYcZ-1" vertex="1">
