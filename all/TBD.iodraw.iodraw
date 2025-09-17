@@ -1893,11 +1893,11 @@
         <mxCell id="W9Dloh8DKxdBeFHe4z4n-44" value="partial key" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="328" y="139" width="73" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="W9Dloh8DKxdBeFHe4z4n-45" value="input" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="139" y="293" width="44" height="26" as="geometry" />
+        <mxCell id="W9Dloh8DKxdBeFHe4z4n-45" value="query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
+          <mxGeometry x="137" y="293" width="48" height="26" as="geometry" />
         </mxCell>
         <mxCell id="W9Dloh8DKxdBeFHe4z4n-46" value="input @ partial_Q" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="126" y="195" width="112" height="26" as="geometry" />
+          <mxGeometry x="165" y="217" width="112" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
