@@ -1884,21 +1884,6 @@
         <mxCell id="-1DLkKOcOytaiFd0dM_K-33" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#504c3f;strokeWidth=0.25;fillColor=#FFF2CC;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="430" y="261" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-1DLkKOcOytaiFd0dM_K-40" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=0.5;strokeColor=#FF3333;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="358" y="258.5" width="45" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="-1DLkKOcOytaiFd0dM_K-41" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=0.5;strokeColor=#FF3333;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="277" y="258.5" width="45" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="-1DLkKOcOytaiFd0dM_K-42" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=0.5;strokeColor=#007FFF;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="278" y="198" width="24" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="-1DLkKOcOytaiFd0dM_K-43" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=0.5;strokeColor=#007FFF;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="308" y="198" width="14" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="-1DLkKOcOytaiFd0dM_K-44" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=0.5;strokeColor=#007FFF;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="348" y="198" width="24" height="44" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
