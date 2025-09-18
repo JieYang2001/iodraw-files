@@ -2048,8 +2048,8 @@
             <mxPoint x="944" y="231" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pZkrIgztvoLb-gBOpUiS-88" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="948" y="241" width="40" height="26" as="geometry" />
+        <mxCell id="pZkrIgztvoLb-gBOpUiS-88" value="select outliers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
+          <mxGeometry x="944" y="250" width="91" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
