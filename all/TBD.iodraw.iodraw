@@ -468,7 +468,7 @@
             <mxPoint x="236" y="575.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EqMocpQ30EPoVBXS3rP9-28" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;i style=&quot;font-size: 14px;&quot;&gt;Request Scheduler&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9DFD1;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="EqMocpQ30EPoVBXS3rP9-1">
+        <mxCell id="EqMocpQ30EPoVBXS3rP9-28" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;i style=&quot;font-size: 14px;&quot;&gt;Request Scheduler&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9DFD1;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="EqMocpQ30EPoVBXS3rP9-1">
           <mxGeometry x="65" y="536" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EqMocpQ30EPoVBXS3rP9-29" value="&lt;font face=&quot;Times New Roman&quot;&gt;Queue&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EqMocpQ30EPoVBXS3rP9-1">
