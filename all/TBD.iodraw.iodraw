@@ -2057,7 +2057,7 @@
           <mxGeometry x="918" y="399" width="19" height="12" as="geometry" />
         </mxCell>
         <mxCell id="8gxyTGFxPjwRbxEHVJar-47" value="Partial Key" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="1018.2800000000001" y="395.5" width="64.05" height="19" as="geometry" />
+          <mxGeometry x="1094" y="540" width="64.05" height="19" as="geometry" />
         </mxCell>
         <mxCell id="8gxyTGFxPjwRbxEHVJar-48" value="Query" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="908.2" y="283" width="38.6" height="17" as="geometry" />
@@ -2104,6 +2104,9 @@
         </mxCell>
         <mxCell id="8gxyTGFxPjwRbxEHVJar-70" value="Key" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="918" y="509" width="19" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="8gxyTGFxPjwRbxEHVJar-71" value="Key" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
+          <mxGeometry x="1033" y="512" width="19" height="12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
