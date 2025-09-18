@@ -1934,7 +1934,7 @@
         <mxCell id="pZkrIgztvoLb-gBOpUiS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="-1DLkKOcOytaiFd0dM_K-1" source="pZkrIgztvoLb-gBOpUiS-2" target="pZkrIgztvoLb-gBOpUiS-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pZkrIgztvoLb-gBOpUiS-2" value="Head Select" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
+        <mxCell id="pZkrIgztvoLb-gBOpUiS-2" value="Head Select" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="611.5" y="206" width="99.5" height="39" as="geometry" />
         </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-4" value="head indices: h1, h2..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
@@ -2021,7 +2021,7 @@
         <mxCell id="pZkrIgztvoLb-gBOpUiS-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-1DLkKOcOytaiFd0dM_K-1" source="pZkrIgztvoLb-gBOpUiS-74" target="pZkrIgztvoLb-gBOpUiS-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pZkrIgztvoLb-gBOpUiS-74" value="speculative attention" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
+        <mxCell id="pZkrIgztvoLb-gBOpUiS-74" value="speculative attention" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="1151" y="204" width="120" height="41.5" as="geometry" />
         </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-1DLkKOcOytaiFd0dM_K-1" source="pZkrIgztvoLb-gBOpUiS-77" target="pZkrIgztvoLb-gBOpUiS-79">
