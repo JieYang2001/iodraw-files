@@ -2108,8 +2108,8 @@
         <mxCell id="8gxyTGFxPjwRbxEHVJar-72" value="Partial W&lt;sub&gt;Q&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="1014.65" y="399" width="64.05" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="8gxyTGFxPjwRbxEHVJar-73" value="Query" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="918.2" y="293" width="38.6" height="17" as="geometry" />
+        <mxCell id="8gxyTGFxPjwRbxEHVJar-73" value="Partial Query" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
+          <mxGeometry x="1093.4" y="288" width="38.6" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
