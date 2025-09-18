@@ -1784,7 +1784,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="prefetcher" id="eGf0gmDig7tSup2NNYYB">
-    <mxGraphModel dx="967" dy="602" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="270" dy="168" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="-1DLkKOcOytaiFd0dM_K-0" />
         <mxCell id="-1DLkKOcOytaiFd0dM_K-1" parent="-1DLkKOcOytaiFd0dM_K-0" />
@@ -2061,7 +2061,7 @@
           <mxGeometry x="737" y="466" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8gxyTGFxPjwRbxEHVJar-119" value="&lt;font face=&quot;Verdana&quot; size=&quot;1&quot;&gt;&lt;b&gt;&lt;i style=&quot;font-size: 15px;&quot;&gt;Decode&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;spacingTop=0;spacing=0;" parent="-1DLkKOcOytaiFd0dM_K-1" vertex="1">
-          <mxGeometry x="1218" y="466" width="63" height="30" as="geometry" />
+          <mxGeometry x="1216" y="466" width="63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BNY8Vad6U75Az6HMq24P-0" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Dim&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="-1DLkKOcOytaiFd0dM_K-1" vertex="1">
           <mxGeometry x="892.6" y="463.4" width="60" height="30" as="geometry" />
