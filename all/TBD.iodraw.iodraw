@@ -436,7 +436,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EqMocpQ30EPoVBXS3rP9-18" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;i style=&quot;font-size: 14px;&quot;&gt;KV Cache Manager&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;(§4.5)&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;i style=&quot;font-size: 14px;&quot;&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9DFD1;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="EqMocpQ30EPoVBXS3rP9-1">
+        <mxCell id="EqMocpQ30EPoVBXS3rP9-18" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;i style=&quot;font-size: 14px;&quot;&gt;KV Cache Manager&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;(§4.3)&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;i style=&quot;font-size: 14px;&quot;&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9DFD1;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="EqMocpQ30EPoVBXS3rP9-1">
           <mxGeometry x="243" y="536" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EqMocpQ30EPoVBXS3rP9-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f2aa84;strokeColor=#56517e;" vertex="1" parent="EqMocpQ30EPoVBXS3rP9-1">
