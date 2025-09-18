@@ -2081,8 +2081,8 @@
         <mxCell id="jIq0Z3iJ8oLF5HOfgXWY-1" value="Transpose" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=50;fillColor=#FFE6CC;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="988.5" y="431.9" width="57" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="jIq0Z3iJ8oLF5HOfgXWY-38" value="Projection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="993" y="512" width="120" height="60" as="geometry" />
+        <mxCell id="jIq0Z3iJ8oLF5HOfgXWY-38" value="Projection" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
+          <mxGeometry x="1052" y="553" width="61" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
