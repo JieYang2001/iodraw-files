@@ -1933,11 +1933,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pZkrIgztvoLb-gBOpUiS-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="-1DLkKOcOytaiFd0dM_K-1" source="pZkrIgztvoLb-gBOpUiS-0" target="pZkrIgztvoLb-gBOpUiS-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pZkrIgztvoLb-gBOpUiS-0" value="attention scores" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="753" y="408.25" width="90" height="92" as="geometry" />
+        <mxCell id="pZkrIgztvoLb-gBOpUiS-0" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
+          <mxGeometry x="757" y="402" width="90" height="92" as="geometry" />
         </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-2" value="Head Select" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="757" y="334.75" width="90" height="39" as="geometry" />
