@@ -2054,7 +2054,7 @@
         <mxCell id="pZkrIgztvoLb-gBOpUiS-74" value="speculative attention" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="1103" y="63" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pZkrIgztvoLb-gBOpUiS-77" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
+        <mxCell id="pZkrIgztvoLb-gBOpUiS-77" value="top_k_p strategy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="1271" y="66" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
