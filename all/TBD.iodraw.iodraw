@@ -1938,7 +1938,7 @@
           <mxGeometry x="633" y="98" width="100" height="46" as="geometry" />
         </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-6" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="1026" y="286.5" width="91.19" height="43" as="geometry" />
+          <mxGeometry x="1012.9" y="288" width="91.19" height="43" as="geometry" />
         </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7E6000;strokeColor=#504c3f;strokeWidth=0.25;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="872.9" y="90" width="10" height="14" as="geometry" />
@@ -2019,16 +2019,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-74" value="speculative attention" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="1140" y="165" width="120" height="45" as="geometry" />
+          <mxGeometry x="1151" y="204" width="120" height="41.5" as="geometry" />
         </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-1DLkKOcOytaiFd0dM_K-1" source="pZkrIgztvoLb-gBOpUiS-77" target="pZkrIgztvoLb-gBOpUiS-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-77" value="top_k_p strategy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="1140" y="230" width="120" height="40" as="geometry" />
+          <mxGeometry x="1151" y="265.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-79" value="critical tokens indices" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="1140" y="288" width="120" height="40" as="geometry" />
+          <mxGeometry x="1151" y="323.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-83" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
