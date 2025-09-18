@@ -1988,9 +1988,6 @@
         <mxCell id="pZkrIgztvoLb-gBOpUiS-59" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.25;strokeColor=#504c3f;fillColor=#FFF2CC;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="1024" y="302" width="10" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="pZkrIgztvoLb-gBOpUiS-60" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=default;fillColor=none;dashed=1;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="874" y="302" width="40" height="14" as="geometry" />
-        </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-61" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=default;fillColor=none;strokeColor=#CC0000;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="954" y="302" width="40" height="14" as="geometry" />
         </mxCell>
@@ -2045,8 +2042,8 @@
         <mxCell id="pZkrIgztvoLb-gBOpUiS-88" value="select outliers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="944" y="250" width="91" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="pZkrIgztvoLb-gBOpUiS-90" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=default;fillColor=none;strokeColor=#CC0000;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="964" y="312" width="40" height="14" as="geometry" />
+        <mxCell id="pZkrIgztvoLb-gBOpUiS-90" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=default;fillColor=none;strokeColor=#CC0000;strokeWidth=3;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
+          <mxGeometry x="874" y="302" width="40" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
