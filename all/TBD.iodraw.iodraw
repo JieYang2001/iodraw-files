@@ -1784,7 +1784,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="prefetcher" id="eGf0gmDig7tSup2NNYYB">
-    <mxGraphModel dx="1168" dy="728" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="668" dy="416" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="-1DLkKOcOytaiFd0dM_K-0" />
         <mxCell id="-1DLkKOcOytaiFd0dM_K-1" parent="-1DLkKOcOytaiFd0dM_K-0" />
@@ -2078,7 +2078,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8gxyTGFxPjwRbxEHVJar-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="1073.35" y="264" width="45.4" height="16" as="geometry" />
+          <mxGeometry x="1073.35" y="262" width="45.4" height="18" as="geometry" />
         </mxCell>
         <mxCell id="8gxyTGFxPjwRbxEHVJar-7" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=default;fillColor=none;strokeColor=#CC0000;strokeWidth=3;rotation=90;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="861.6" y="450.65000000000003" width="60" height="22.5" as="geometry" />
