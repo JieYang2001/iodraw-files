@@ -2039,9 +2039,6 @@
             <mxPoint x="945.76" y="181" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pZkrIgztvoLb-gBOpUiS-88" value="outlier indices" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="952.9" y="139" width="91" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-90" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=default;fillColor=none;strokeColor=#CC0000;strokeWidth=3;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="871.9" y="89" width="43" height="16" as="geometry" />
         </mxCell>
@@ -2056,8 +2053,8 @@
         </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-97" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="925" y="244" as="sourcePoint" />
-            <mxPoint x="910" y="212" as="targetPoint" />
+            <mxPoint x="922.9" y="247" as="sourcePoint" />
+            <mxPoint x="907.9" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-98" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="-1DLkKOcOytaiFd0dM_K-1" source="pZkrIgztvoLb-gBOpUiS-95">
