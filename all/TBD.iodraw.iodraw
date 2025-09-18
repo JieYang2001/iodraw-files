@@ -2077,8 +2077,8 @@
         <mxCell id="BNY8Vad6U75Az6HMq24P-4" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;font color=&quot;#cc6600&quot; style=&quot;font-size: 14px;&quot;&gt;Next Layer&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="-1DLkKOcOytaiFd0dM_K-1" vertex="1">
           <mxGeometry x="1040" y="289.24999999999994" width="86" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="jIq0Z3iJ8oLF5HOfgXWY-1" value="&lt;span style=&quot;font-size: 13px; background-color: rgb(255, 230, 204);&quot;&gt;Transpose&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="981.85" y="465" width="61" height="13" as="geometry" />
+        <mxCell id="jIq0Z3iJ8oLF5HOfgXWY-1" value="&lt;span style=&quot;font-size: 13px; background-color: rgb(255, 230, 204);&quot;&gt;Transpose&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=50;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
+          <mxGeometry x="981.85" y="432.4" width="61" height="13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
