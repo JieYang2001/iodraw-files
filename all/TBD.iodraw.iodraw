@@ -2009,10 +2009,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-77" value="&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 16px;&quot;&gt;Top-k-p Strategy&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="1164.5" y="332.97" width="100" height="42.65" as="geometry" />
+          <mxGeometry x="1164.5" y="247.175" width="100" height="42.65" as="geometry" />
         </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-79" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;critical tokens indices&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="1152.13" y="425.15" width="124.75" height="27.5" as="geometry" />
+          <mxGeometry x="1152.13" y="254.75" width="124.75" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-90" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=default;fillColor=none;strokeColor=#CC0000;strokeWidth=3;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="880.6" y="100" width="24" height="16" as="geometry" />
