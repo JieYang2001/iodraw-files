@@ -2057,10 +2057,13 @@
         <mxCell id="pZkrIgztvoLb-gBOpUiS-74" value="speculative attention" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="1103" y="63" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pZkrIgztvoLb-gBOpUiS-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-1DLkKOcOytaiFd0dM_K-1" source="pZkrIgztvoLb-gBOpUiS-77" target="pZkrIgztvoLb-gBOpUiS-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-77" value="top_k_p strategy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="1276" y="63" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pZkrIgztvoLb-gBOpUiS-79" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
+        <mxCell id="pZkrIgztvoLb-gBOpUiS-79" value="critical tokens indices" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="1433" y="63" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
