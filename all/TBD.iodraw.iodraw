@@ -2060,9 +2060,9 @@
             <mxPoint x="944" y="231" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pZkrIgztvoLb-gBOpUiS-85" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pZkrIgztvoLb-gBOpUiS-83">
+        <mxCell id="pZkrIgztvoLb-gBOpUiS-85" value="extract outliers" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pZkrIgztvoLb-gBOpUiS-83">
           <mxGeometry x="-0.0012" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="4" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
