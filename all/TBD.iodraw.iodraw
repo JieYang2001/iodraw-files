@@ -2004,7 +2004,7 @@
           <mxGeometry x="1169" y="286" width="99" height="31" as="geometry" />
         </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-79" value="critical tokens indices" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="1158.5" y="334" width="120" height="27.5" as="geometry" />
+          <mxGeometry x="1158.5" y="335" width="120" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-90" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=default;fillColor=none;strokeColor=#CC0000;strokeWidth=3;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="882.9" y="242" width="24" height="16" as="geometry" />
@@ -2059,6 +2059,9 @@
         </mxCell>
         <mxCell id="8gxyTGFxPjwRbxEHVJar-47" value="Partial Key" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="1005.2" y="356.25" width="79.5" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="8gxyTGFxPjwRbxEHVJar-48" value="Key" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
+          <mxGeometry x="1050" y="418" width="19" height="12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
