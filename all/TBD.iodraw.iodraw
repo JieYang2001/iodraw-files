@@ -1784,7 +1784,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="prefetcher" id="eGf0gmDig7tSup2NNYYB">
-    <mxGraphModel dx="938" dy="499" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="938" dy="899" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="-1DLkKOcOytaiFd0dM_K-0" />
         <mxCell id="-1DLkKOcOytaiFd0dM_K-1" parent="-1DLkKOcOytaiFd0dM_K-0" />
@@ -1885,7 +1885,7 @@
           <mxGeometry x="281" y="112" width="10" height="14" as="geometry" />
         </mxCell>
         <mxCell id="W9Dloh8DKxdBeFHe4z4n-40" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" parent="-1DLkKOcOytaiFd0dM_K-1" vertex="1">
-          <mxGeometry x="426" y="218" width="160" height="160" as="geometry" />
+          <mxGeometry x="869" y="-91" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="W9Dloh8DKxdBeFHe4z4n-41" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" parent="-1DLkKOcOytaiFd0dM_K-1" vertex="1">
           <mxGeometry x="226" y="259" width="80" height="160" as="geometry" />
@@ -1934,11 +1934,14 @@
         <mxCell id="pZkrIgztvoLb-gBOpUiS-1" value="q" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="662" y="289" width="25" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="pZkrIgztvoLb-gBOpUiS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="-1DLkKOcOytaiFd0dM_K-1" source="pZkrIgztvoLb-gBOpUiS-2" target="pZkrIgztvoLb-gBOpUiS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-2" value="Head Select" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="625" y="153" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-4" value="head indices" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="637" y="49" width="120" height="60" as="geometry" />
+          <mxGeometry x="625" y="63" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
