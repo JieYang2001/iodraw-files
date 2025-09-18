@@ -1938,10 +1938,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-2" value="Head Select" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="625" y="153" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pZkrIgztvoLb-gBOpUiS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-1DLkKOcOytaiFd0dM_K-1" source="pZkrIgztvoLb-gBOpUiS-4" target="pZkrIgztvoLb-gBOpUiS-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="625" y="174" width="118" height="39" as="geometry" />
         </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-4" value="head indices" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="625" y="63" width="120" height="60" as="geometry" />
