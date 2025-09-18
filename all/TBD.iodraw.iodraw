@@ -920,7 +920,7 @@
           <mxGeometry x="850" y="227" width="436" height="269" as="geometry" />
         </mxCell>
         <mxCell id="BNY8Vad6U75Az6HMq24P-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;fillColor=#FFE6CC;opacity=50;strokeColor=#FFB366;strokeWidth=2;" parent="-1DLkKOcOytaiFd0dM_K-1" vertex="1">
-          <mxGeometry x="859.2" y="297" width="271.8" height="189" as="geometry" />
+          <mxGeometry x="859.2" y="297" width="251.8" height="189" as="geometry" />
         </mxCell>
         <mxCell id="8gxyTGFxPjwRbxEHVJar-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endSize=3;" parent="-1DLkKOcOytaiFd0dM_K-1" source="8gxyTGFxPjwRbxEHVJar-63" target="8gxyTGFxPjwRbxEHVJar-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1153,7 +1153,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8gxyTGFxPjwRbxEHVJar-73" value="&lt;font color=&quot;#9673a6&quot; style=&quot;font-size: 12px;&quot;&gt;Partial Q&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="-1DLkKOcOytaiFd0dM_K-1" vertex="1">
-          <mxGeometry x="1085.8" y="260.5" width="52" height="17" as="geometry" />
+          <mxGeometry x="1084.8" y="260.5" width="52" height="17" as="geometry" />
         </mxCell>
         <mxCell id="8gxyTGFxPjwRbxEHVJar-81" value="&lt;font color=&quot;#b85450&quot; style=&quot;font-size: 16px;&quot;&gt;Partial&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#b85450&quot; style=&quot;font-size: 16px;&quot;&gt;K&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillColor=#f8cecc;strokeColor=#b85450;direction=south;" parent="-1DLkKOcOytaiFd0dM_K-1" vertex="1">
           <mxGeometry x="990.7" y="416.4" width="60" height="45" as="geometry" />
