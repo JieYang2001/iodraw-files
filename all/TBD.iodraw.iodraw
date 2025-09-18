@@ -2056,7 +2056,7 @@
         </mxCell>
         <mxCell id="8gxyTGFxPjwRbxEHVJar-88" value="Projection" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8gxyTGFxPjwRbxEHVJar-83">
           <mxGeometry x="0.0641" y="1" relative="1" as="geometry">
-            <mxPoint x="8" y="-5" as="offset" />
+            <mxPoint x="8" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8gxyTGFxPjwRbxEHVJar-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
