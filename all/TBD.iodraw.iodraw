@@ -2102,7 +2102,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8gxyTGFxPjwRbxEHVJar-48" value="Query" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="905.6" y="277" width="38.6" height="17" as="geometry" />
+          <mxGeometry x="904.6" y="265" width="38.6" height="17" as="geometry" />
         </mxCell>
         <mxCell id="8gxyTGFxPjwRbxEHVJar-73" value="Partial Query" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="1059.55" y="280" width="73" height="17" as="geometry" />
