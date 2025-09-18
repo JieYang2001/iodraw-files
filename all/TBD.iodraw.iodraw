@@ -1935,7 +1935,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-2" value="Head Select" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="611.5" y="191" width="102.5" height="39" as="geometry" />
+          <mxGeometry x="611.5" y="206" width="99.5" height="39" as="geometry" />
         </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-4" value="head indices" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="611.5" y="141" width="101.5" height="38.5" as="geometry" />
@@ -2031,7 +2031,7 @@
           <mxGeometry x="1151" y="265.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-79" value="critical tokens indices" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="1151" y="323.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="1151" y="339" width="120" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-83" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
