@@ -2081,8 +2081,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8gxyTGFxPjwRbxEHVJar-64" value="Partial Key" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="1000.2" y="441.5" width="60" height="45" as="geometry" />
+        <mxCell id="8gxyTGFxPjwRbxEHVJar-64" value="Partial Key" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#d5e8d4;strokeColor=#82b366;direction=east;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
+          <mxGeometry x="1007.7" y="434" width="45" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8gxyTGFxPjwRbxEHVJar-7" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=default;fillColor=none;strokeColor=#CC0000;strokeWidth=3;rotation=90;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="862.35" y="452.65000000000003" width="60.5" height="22.7" as="geometry" />
@@ -2116,6 +2116,9 @@
         </mxCell>
         <mxCell id="8gxyTGFxPjwRbxEHVJar-73" value="Partial Query" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="1059.55" y="280" width="73" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="8gxyTGFxPjwRbxEHVJar-81" value="Partial Key" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#d5e8d4;strokeColor=#82b366;direction=east;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
+          <mxGeometry x="1126" y="518" width="45" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
