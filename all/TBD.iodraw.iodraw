@@ -2063,7 +2063,7 @@
           <mxGeometry x="998" y="509" width="64.05" height="19" as="geometry" />
         </mxCell>
         <mxCell id="8gxyTGFxPjwRbxEHVJar-48" value="Query" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="908.2" y="283" width="38.6" height="17" as="geometry" />
+          <mxGeometry x="903" y="230" width="38.6" height="17" as="geometry" />
         </mxCell>
         <mxCell id="8gxyTGFxPjwRbxEHVJar-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="-1DLkKOcOytaiFd0dM_K-1" source="8gxyTGFxPjwRbxEHVJar-50" target="8gxyTGFxPjwRbxEHVJar-57">
           <mxGeometry relative="1" as="geometry" />
@@ -2113,7 +2113,7 @@
             <mxPoint x="838" y="281" as="sourcePoint" />
             <mxPoint x="888" y="231" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="877" y="281" />
+              <mxPoint x="877" y="291" />
             </Array>
           </mxGeometry>
         </mxCell>
