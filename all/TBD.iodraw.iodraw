@@ -1784,12 +1784,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="prefetcher" id="eGf0gmDig7tSup2NNYYB">
-    <mxGraphModel dx="668" dy="416" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="389" dy="243" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="-1DLkKOcOytaiFd0dM_K-0" />
         <mxCell id="-1DLkKOcOytaiFd0dM_K-1" parent="-1DLkKOcOytaiFd0dM_K-0" />
         <mxCell id="8gxyTGFxPjwRbxEHVJar-116" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;fillColor=none;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="731" y="230" width="118.4" height="271" as="geometry" />
+          <mxGeometry x="732" y="237" width="118.4" height="264" as="geometry" />
         </mxCell>
         <mxCell id="8gxyTGFxPjwRbxEHVJar-117" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;fillColor=none;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="850" y="237" width="439" height="263" as="geometry" />
