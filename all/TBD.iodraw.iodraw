@@ -2073,7 +2073,7 @@
         </mxCell>
         <mxCell id="8gxyTGFxPjwRbxEHVJar-105" value="Projection" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8gxyTGFxPjwRbxEHVJar-99">
           <mxGeometry x="0.3846" relative="1" as="geometry">
-            <mxPoint x="-6" as="offset" />
+            <mxPoint x="-6" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8gxyTGFxPjwRbxEHVJar-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
@@ -2083,7 +2083,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8gxyTGFxPjwRbxEHVJar-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="1088.2999999999997" y="259.5" width="45.4" height="18" as="geometry" />
+          <mxGeometry x="1083.2999999999997" y="259.5" width="45.4" height="18" as="geometry" />
         </mxCell>
         <mxCell id="8gxyTGFxPjwRbxEHVJar-7" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=default;fillColor=none;strokeColor=#CC0000;strokeWidth=3;rotation=90;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="861.6" y="450.65000000000003" width="60" height="22.5" as="geometry" />
@@ -2116,7 +2116,7 @@
           <mxGeometry x="903" y="260" width="38.6" height="17" as="geometry" />
         </mxCell>
         <mxCell id="8gxyTGFxPjwRbxEHVJar-73" value="&lt;font color=&quot;#b85450&quot;&gt;Partial Query&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="1060.7" y="242.5" width="73" height="17" as="geometry" />
+          <mxGeometry x="1069.5" y="242.5" width="73" height="17" as="geometry" />
         </mxCell>
         <mxCell id="8gxyTGFxPjwRbxEHVJar-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-1DLkKOcOytaiFd0dM_K-1" source="8gxyTGFxPjwRbxEHVJar-81" target="pZkrIgztvoLb-gBOpUiS-74">
           <mxGeometry relative="1" as="geometry">
