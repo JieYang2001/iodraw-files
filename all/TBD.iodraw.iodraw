@@ -1937,6 +1937,9 @@
         <mxCell id="pZkrIgztvoLb-gBOpUiS-0" value="Attention Score" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="757" y="402" width="90" height="92" as="geometry" />
         </mxCell>
+        <mxCell id="8gxyTGFxPjwRbxEHVJar-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="-1DLkKOcOytaiFd0dM_K-1" source="pZkrIgztvoLb-gBOpUiS-2" target="pZkrIgztvoLb-gBOpUiS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-2" value="Head Select" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="757" y="334.75" width="90" height="39" as="geometry" />
         </mxCell>
@@ -2086,7 +2089,7 @@
         <mxCell id="8gxyTGFxPjwRbxEHVJar-72" value="&lt;font color=&quot;#004c99&quot;&gt;Partial&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#004c99&quot;&gt;W&lt;sub&gt;Q&lt;/sub&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="1015.0500000000001" y="332.65" width="37.3" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="8gxyTGFxPjwRbxEHVJar-77" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-1DLkKOcOytaiFd0dM_K-1" source="pZkrIgztvoLb-gBOpUiS-4" target="8gxyTGFxPjwRbxEHVJar-4">
+        <mxCell id="8gxyTGFxPjwRbxEHVJar-77" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="-1DLkKOcOytaiFd0dM_K-1" source="pZkrIgztvoLb-gBOpUiS-4" target="8gxyTGFxPjwRbxEHVJar-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="838" y="281" as="sourcePoint" />
             <mxPoint x="888" y="231" as="targetPoint" />
