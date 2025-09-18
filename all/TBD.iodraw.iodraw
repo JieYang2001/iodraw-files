@@ -2081,7 +2081,7 @@
           <mxGeometry x="1157.2" y="541" width="55" height="14" as="geometry" />
         </mxCell>
         <mxCell id="jIq0Z3iJ8oLF5HOfgXWY-1" value="Transpose" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=40;fillColor=#FFE6CC;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="1157.2" y="541" width="55" height="14" as="geometry" />
+          <mxGeometry x="1157.2" y="557" width="56.2" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
