@@ -2027,15 +2027,6 @@
         <mxCell id="pZkrIgztvoLb-gBOpUiS-70" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.25;strokeColor=#504c3f;fillColor=#7E6000;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="964" y="169" width="10" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="pZkrIgztvoLb-gBOpUiS-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-1DLkKOcOytaiFd0dM_K-1" source="pZkrIgztvoLb-gBOpUiS-71" target="pZkrIgztvoLb-gBOpUiS-77">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1124" y="89" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1038" y="176" />
-              <mxPoint x="1038" y="89" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-71" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.25;strokeColor=#504c3f;fillColor=#D6B656;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="974" y="169" width="10" height="14" as="geometry" />
         </mxCell>
