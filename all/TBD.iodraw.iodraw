@@ -2061,7 +2061,7 @@
           <mxGeometry x="1005.2" y="356.25" width="79.5" height="12" as="geometry" />
         </mxCell>
         <mxCell id="8gxyTGFxPjwRbxEHVJar-48" value="Query" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="918.4" y="262" width="19" height="12" as="geometry" />
+          <mxGeometry x="918.4" y="262" width="38.6" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
