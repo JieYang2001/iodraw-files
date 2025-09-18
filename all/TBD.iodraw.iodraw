@@ -1928,11 +1928,8 @@
         <mxCell id="pZkrIgztvoLb-gBOpUiS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="-1DLkKOcOytaiFd0dM_K-1" source="pZkrIgztvoLb-gBOpUiS-0" target="pZkrIgztvoLb-gBOpUiS-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pZkrIgztvoLb-gBOpUiS-0" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="608" y="254" width="99" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="pZkrIgztvoLb-gBOpUiS-1" value="attention score" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="640.5" y="302" width="97" height="26" as="geometry" />
+        <mxCell id="pZkrIgztvoLb-gBOpUiS-0" value="attention&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
+          <mxGeometry x="629" y="237" width="99" height="92" as="geometry" />
         </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="-1DLkKOcOytaiFd0dM_K-1" source="pZkrIgztvoLb-gBOpUiS-2" target="pZkrIgztvoLb-gBOpUiS-4">
           <mxGeometry relative="1" as="geometry" />
