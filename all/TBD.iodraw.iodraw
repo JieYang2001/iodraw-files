@@ -381,7 +381,7 @@
             <mxPoint x="551" y="612" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EqMocpQ30EPoVBXS3rP9-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#68a5df;strokeColor=#23445d;" vertex="1" parent="EqMocpQ30EPoVBXS3rP9-1">
+        <mxCell id="EqMocpQ30EPoVBXS3rP9-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EqMocpQ30EPoVBXS3rP9-1">
           <mxGeometry x="391" y="596" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EqMocpQ30EPoVBXS3rP9-4" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;CPU mem&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EqMocpQ30EPoVBXS3rP9-1">
@@ -390,13 +390,13 @@
         <mxCell id="EqMocpQ30EPoVBXS3rP9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="EqMocpQ30EPoVBXS3rP9-1" source="EqMocpQ30EPoVBXS3rP9-6" target="EqMocpQ30EPoVBXS3rP9-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EqMocpQ30EPoVBXS3rP9-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=0.5;" vertex="1" parent="EqMocpQ30EPoVBXS3rP9-1">
+        <mxCell id="EqMocpQ30EPoVBXS3rP9-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;" vertex="1" parent="EqMocpQ30EPoVBXS3rP9-1">
           <mxGeometry x="544" y="629.51" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EqMocpQ30EPoVBXS3rP9-7" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Pageable&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EqMocpQ30EPoVBXS3rP9-1">
           <mxGeometry x="610" y="681.01" width="55" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EqMocpQ30EPoVBXS3rP9-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=0.5;" vertex="1" parent="EqMocpQ30EPoVBXS3rP9-1">
+        <mxCell id="EqMocpQ30EPoVBXS3rP9-8" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;" vertex="1" parent="EqMocpQ30EPoVBXS3rP9-1">
           <mxGeometry x="402" y="629.51" width="120.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EqMocpQ30EPoVBXS3rP9-9" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Pinned&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EqMocpQ30EPoVBXS3rP9-1">
@@ -405,7 +405,7 @@
         <mxCell id="EqMocpQ30EPoVBXS3rP9-10" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;All kv cache&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dceaf7;strokeWidth=0.25;" vertex="1" parent="EqMocpQ30EPoVBXS3rP9-1">
           <mxGeometry x="554" y="644.51" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EqMocpQ30EPoVBXS3rP9-11" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Warm kv cache&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DCEAF7;strokeWidth=0.25;" vertex="1" parent="EqMocpQ30EPoVBXS3rP9-1">
+        <mxCell id="EqMocpQ30EPoVBXS3rP9-11" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Warm kv cache&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeWidth=0.25;strokeColor=#d6b656;" vertex="1" parent="EqMocpQ30EPoVBXS3rP9-1">
           <mxGeometry x="409.5" y="644.51" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EqMocpQ30EPoVBXS3rP9-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="EqMocpQ30EPoVBXS3rP9-1" source="EqMocpQ30EPoVBXS3rP9-13" target="EqMocpQ30EPoVBXS3rP9-18">
@@ -445,10 +445,10 @@
         <mxCell id="EqMocpQ30EPoVBXS3rP9-20" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;GPU mem&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EqMocpQ30EPoVBXS3rP9-1">
           <mxGeometry x="391" y="416.51" width="67" height="18.49" as="geometry" />
         </mxCell>
-        <mxCell id="EqMocpQ30EPoVBXS3rP9-21" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Model&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBE3D6;strokeWidth=0.5;" vertex="1" parent="EqMocpQ30EPoVBXS3rP9-1">
+        <mxCell id="EqMocpQ30EPoVBXS3rP9-21" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Model&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;" vertex="1" parent="EqMocpQ30EPoVBXS3rP9-1">
           <mxGeometry x="402" y="443.14" width="92" height="77.87" as="geometry" />
         </mxCell>
-        <mxCell id="EqMocpQ30EPoVBXS3rP9-22" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Partial&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;key cache&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fbe3d6;strokeWidth=0.5;" vertex="1" parent="EqMocpQ30EPoVBXS3rP9-1">
+        <mxCell id="EqMocpQ30EPoVBXS3rP9-22" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Partial&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;key cache&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;" vertex="1" parent="EqMocpQ30EPoVBXS3rP9-1">
           <mxGeometry x="513" y="442.82" width="65.5" height="78.5" as="geometry" />
         </mxCell>
         <mxCell id="EqMocpQ30EPoVBXS3rP9-23" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Hot&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;kv cache&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fbe3d6;strokeWidth=0.5;" vertex="1" parent="EqMocpQ30EPoVBXS3rP9-1">
