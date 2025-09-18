@@ -1944,7 +1944,7 @@
           <mxGeometry x="625" y="63" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-6" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="863" y="-123" width="89" height="160" as="geometry" />
+          <mxGeometry x="843" y="-123" width="80" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
