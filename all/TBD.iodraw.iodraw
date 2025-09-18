@@ -1935,7 +1935,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-2" value="Head Select" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="611" y="210" width="102.5" height="39" as="geometry" />
+          <mxGeometry x="611.5" y="191" width="102.5" height="39" as="geometry" />
         </mxCell>
         <mxCell id="pZkrIgztvoLb-gBOpUiS-4" value="head indices" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="611.5" y="141" width="101.5" height="38.5" as="geometry" />
