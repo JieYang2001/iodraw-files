@@ -2104,7 +2104,7 @@
         <mxCell id="8gxyTGFxPjwRbxEHVJar-48" value="&lt;font color=&quot;#cc00cc&quot;&gt;Query&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="904.6" y="265" width="38.6" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="8gxyTGFxPjwRbxEHVJar-73" value="&lt;font color=&quot;#ff3399&quot;&gt;Partial Query&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
+        <mxCell id="8gxyTGFxPjwRbxEHVJar-73" value="&lt;font color=&quot;#ffcce6&quot;&gt;Partial Query&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="1059.55" y="280" width="73" height="17" as="geometry" />
         </mxCell>
         <mxCell id="8gxyTGFxPjwRbxEHVJar-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-1DLkKOcOytaiFd0dM_K-1" source="8gxyTGFxPjwRbxEHVJar-81" target="pZkrIgztvoLb-gBOpUiS-74">
