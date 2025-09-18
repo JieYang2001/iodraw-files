@@ -1905,6 +1905,16 @@
         <mxCell id="bC54LwXk4UKc6AH4syJP-1" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=default;fillColor=none;dashed=1;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
           <mxGeometry x="301" y="294" width="44" height="23" as="geometry" />
         </mxCell>
+        <mxCell id="bC54LwXk4UKc6AH4syJP-2" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.432;exitY=0.019;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="-1DLkKOcOytaiFd0dM_K-1" source="bC54LwXk4UKc6AH4syJP-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="274" y="292" as="sourcePoint" />
+            <mxPoint x="324" y="242" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="324" y="292" />
+              <mxPoint x="274" y="242" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
