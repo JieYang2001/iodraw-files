@@ -2082,13 +2082,10 @@
           <mxGeometry x="988.5" y="431.9" width="57" height="14" as="geometry" />
         </mxCell>
         <mxCell id="jIq0Z3iJ8oLF5HOfgXWY-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="1146" y="472.45" width="61" height="17.1" as="geometry" />
+          <mxGeometry x="1017.5" y="259.5" width="61" height="17.1" as="geometry" />
         </mxCell>
         <mxCell id="jIq0Z3iJ8oLF5HOfgXWY-39" value="Projection" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;opacity=40;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="1187" y="508" width="61" height="17.1" as="geometry" />
-        </mxCell>
-        <mxCell id="jIq0Z3iJ8oLF5HOfgXWY-38" value="Projection" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=none;" vertex="1" parent="-1DLkKOcOytaiFd0dM_K-1">
-          <mxGeometry x="1120.7" y="496" width="61" height="17.1" as="geometry" />
+          <mxGeometry x="1017.5" y="259.5" width="61" height="17.1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
