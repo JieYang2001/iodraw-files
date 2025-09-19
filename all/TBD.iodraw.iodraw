@@ -642,14 +642,14 @@
         <mxCell id="sC_dAVPn2Z73llR2bJsh-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="zoC6onfoTgB06lRIJOga-1">
           <mxGeometry x="387" y="311" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sC_dAVPn2Z73llR2bJsh-7" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="zoC6onfoTgB06lRIJOga-1">
+        <mxCell id="sC_dAVPn2Z73llR2bJsh-7" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="zoC6onfoTgB06lRIJOga-1">
           <mxGeometry x="417" y="311" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sC_dAVPn2Z73llR2bJsh-8" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="zoC6onfoTgB06lRIJOga-1">
           <mxGeometry x="447" y="311" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sC_dAVPn2Z73llR2bJsh-9" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="zoC6onfoTgB06lRIJOga-1">
-          <mxGeometry x="457" y="321" width="30" height="60" as="geometry" />
+          <mxGeometry x="477" y="311" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
