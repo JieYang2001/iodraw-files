@@ -639,11 +639,11 @@
         <mxCell id="sC_dAVPn2Z73llR2bJsh-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="zoC6onfoTgB06lRIJOga-1">
           <mxGeometry x="357" y="311" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sC_dAVPn2Z73llR2bJsh-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zoC6onfoTgB06lRIJOga-1" source="sC_dAVPn2Z73llR2bJsh-4" target="zoC6onfoTgB06lRIJOga-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="sC_dAVPn2Z73llR2bJsh-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="zoC6onfoTgB06lRIJOga-1">
           <mxGeometry x="387" y="311" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sC_dAVPn2Z73llR2bJsh-7" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="zoC6onfoTgB06lRIJOga-1">
+          <mxGeometry x="397" y="321" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
