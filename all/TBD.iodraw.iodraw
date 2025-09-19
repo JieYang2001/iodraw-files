@@ -501,7 +501,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="overview_v2.0 的副本" id="5bVkYAFN5nyewUu_nYQW">
-    <mxGraphModel dx="801" dy="99" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="801" dy="499" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="zoC6onfoTgB06lRIJOga-0" />
         <mxCell id="zoC6onfoTgB06lRIJOga-1" parent="zoC6onfoTgB06lRIJOga-0" />
@@ -585,10 +585,10 @@
           <mxGeometry x="596" y="442.82" width="64" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="zoC6onfoTgB06lRIJOga-24" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Indices&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zoC6onfoTgB06lRIJOga-1">
-          <mxGeometry x="305" y="619" width="41" height="20" as="geometry" />
+          <mxGeometry x="307" y="619" width="41" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zoC6onfoTgB06lRIJOga-25" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Category&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zoC6onfoTgB06lRIJOga-1">
-          <mxGeometry x="305" y="493" width="49" height="25" as="geometry" />
+          <mxGeometry x="308" y="493" width="49" height="25" as="geometry" />
         </mxCell>
         <mxCell id="zoC6onfoTgB06lRIJOga-26" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;PCIe&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zoC6onfoTgB06lRIJOga-1">
           <mxGeometry x="533" y="558.75" width="38" height="14.5" as="geometry" />
@@ -635,6 +635,9 @@
         </mxCell>
         <mxCell id="sC_dAVPn2Z73llR2bJsh-2" value="&lt;font size=&quot;1&quot;&gt;Others&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zoC6onfoTgB06lRIJOga-1">
           <mxGeometry x="596" y="503.31999999999994" width="64" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="sC_dAVPn2Z73llR2bJsh-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="zoC6onfoTgB06lRIJOga-1">
+          <mxGeometry x="357" y="311" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
