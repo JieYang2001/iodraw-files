@@ -630,8 +630,11 @@
         <mxCell id="sC_dAVPn2Z73llR2bJsh-0" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Initial Tokens&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zoC6onfoTgB06lRIJOga-1">
           <mxGeometry x="596" y="443" width="64" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="sC_dAVPn2Z73llR2bJsh-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Initial Tokens&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zoC6onfoTgB06lRIJOga-1">
-          <mxGeometry x="606" y="453" width="64" height="17" as="geometry" />
+        <mxCell id="sC_dAVPn2Z73llR2bJsh-1" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Recent Tokens&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zoC6onfoTgB06lRIJOga-1">
+          <mxGeometry x="596" y="504.32" width="64" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="sC_dAVPn2Z73llR2bJsh-2" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Recent Tokens&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zoC6onfoTgB06lRIJOga-1">
+          <mxGeometry x="606" y="514.3199999999999" width="64" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
