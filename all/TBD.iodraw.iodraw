@@ -501,7 +501,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="overview_v2.0 的副本" id="5bVkYAFN5nyewUu_nYQW">
-    <mxGraphModel dx="801" dy="499" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="801" dy="99" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="zoC6onfoTgB06lRIJOga-0" />
         <mxCell id="zoC6onfoTgB06lRIJOga-1" parent="zoC6onfoTgB06lRIJOga-0" />
@@ -636,20 +636,20 @@
         <mxCell id="sC_dAVPn2Z73llR2bJsh-2" value="&lt;font size=&quot;1&quot;&gt;Others&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zoC6onfoTgB06lRIJOga-1">
           <mxGeometry x="596" y="503.31999999999994" width="64" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="sC_dAVPn2Z73llR2bJsh-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="zoC6onfoTgB06lRIJOga-1">
-          <mxGeometry x="357" y="311" width="30" height="60" as="geometry" />
+        <mxCell id="sC_dAVPn2Z73llR2bJsh-3" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="zoC6onfoTgB06lRIJOga-1">
+          <mxGeometry x="35" y="656" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sC_dAVPn2Z73llR2bJsh-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="zoC6onfoTgB06lRIJOga-1">
-          <mxGeometry x="387" y="311" width="30" height="60" as="geometry" />
+        <mxCell id="sC_dAVPn2Z73llR2bJsh-4" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="zoC6onfoTgB06lRIJOga-1">
+          <mxGeometry x="65" y="656" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sC_dAVPn2Z73llR2bJsh-7" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="zoC6onfoTgB06lRIJOga-1">
-          <mxGeometry x="417" y="311" width="30" height="60" as="geometry" />
+          <mxGeometry x="95" y="656" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sC_dAVPn2Z73llR2bJsh-8" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="zoC6onfoTgB06lRIJOga-1">
-          <mxGeometry x="447" y="311" width="30" height="60" as="geometry" />
+        <mxCell id="sC_dAVPn2Z73llR2bJsh-8" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="zoC6onfoTgB06lRIJOga-1">
+          <mxGeometry x="125" y="656" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sC_dAVPn2Z73llR2bJsh-9" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="zoC6onfoTgB06lRIJOga-1">
-          <mxGeometry x="477" y="311" width="30" height="60" as="geometry" />
+        <mxCell id="sC_dAVPn2Z73llR2bJsh-9" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="zoC6onfoTgB06lRIJOga-1">
+          <mxGeometry x="155" y="656" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
