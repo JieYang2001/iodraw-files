@@ -517,7 +517,7 @@
         <mxCell id="5GUqqphRXAoeI9BJWliz-28" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;i style=&quot;font-size: 14px;&quot;&gt;Request Scheduler&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;(§4.5)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="5GUqqphRXAoeI9BJWliz-1" vertex="1">
           <mxGeometry x="42.5" y="556" width="495" height="36.01" as="geometry" />
         </mxCell>
-        <mxCell id="5GUqqphRXAoeI9BJWliz-32" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;strokeWidth=1;" parent="5GUqqphRXAoeI9BJWliz-1" edge="1">
+        <mxCell id="5GUqqphRXAoeI9BJWliz-32" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;strokeWidth=2;strokeColor=#FF3333;" parent="5GUqqphRXAoeI9BJWliz-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="394" y="613" as="sourcePoint" />
             <mxPoint x="397" y="594" as="targetPoint" />
