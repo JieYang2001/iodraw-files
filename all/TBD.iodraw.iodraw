@@ -569,10 +569,10 @@
         <mxCell id="fSndQ3-lEzMjsp1zUzVA-14" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Pinned&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="5GUqqphRXAoeI9BJWliz-1" vertex="1">
           <mxGeometry x="375.13" y="805.9899999999999" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fSndQ3-lEzMjsp1zUzVA-15" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;All KV Cache&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=0.25;strokeColor=#6c8ebf;" parent="5GUqqphRXAoeI9BJWliz-1" vertex="1">
+        <mxCell id="fSndQ3-lEzMjsp1zUzVA-15" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;All&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;KV Cache&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=0.25;strokeColor=#6c8ebf;" parent="5GUqqphRXAoeI9BJWliz-1" vertex="1">
           <mxGeometry x="431.5" y="766.81" width="91.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fSndQ3-lEzMjsp1zUzVA-16" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Warm KV Cache&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeWidth=0.25;strokeColor=#d79b00;" parent="5GUqqphRXAoeI9BJWliz-1" vertex="1">
+        <mxCell id="fSndQ3-lEzMjsp1zUzVA-16" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Warm&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;KV Cache&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeWidth=0.25;strokeColor=#d79b00;" parent="5GUqqphRXAoeI9BJWliz-1" vertex="1">
           <mxGeometry x="317.38" y="766.81" width="97.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fSndQ3-lEzMjsp1zUzVA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=1;endArrow=block;endFill=1;strokeWidth=3;jumpSize=6;endSize=0;startSize=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="5GUqqphRXAoeI9BJWliz-1" source="fSndQ3-lEzMjsp1zUzVA-8" target="fSndQ3-lEzMjsp1zUzVA-3" edge="1">
