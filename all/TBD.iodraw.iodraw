@@ -545,7 +545,7 @@
           <mxGeometry x="88" y="657" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5GUqqphRXAoeI9BJWliz-18" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;i style=&quot;font-size: 14px;&quot;&gt;KV Cache Manager&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;(§4.3)&lt;/font&gt;&lt;/b&gt;&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;i style=&quot;font-size: 14px;&quot;&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="5GUqqphRXAoeI9BJWliz-1">
-          <mxGeometry x="664" y="587.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="147" y="752.51" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5GUqqphRXAoeI9BJWliz-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5GUqqphRXAoeI9BJWliz-1">
           <mxGeometry x="812" y="468.01" width="280" height="120" as="geometry" />
