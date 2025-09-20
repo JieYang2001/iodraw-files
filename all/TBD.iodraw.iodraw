@@ -532,8 +532,8 @@
         </mxCell>
         <mxCell id="5GUqqphRXAoeI9BJWliz-32" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;" edge="1" parent="5GUqqphRXAoeI9BJWliz-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-65" y="619" as="sourcePoint" />
-            <mxPoint x="-64" y="600" as="targetPoint" />
+            <mxPoint x="-67" y="619" as="sourcePoint" />
+            <mxPoint x="-66" y="600" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-52" y="618" />
               <mxPoint x="-81" y="601" />
