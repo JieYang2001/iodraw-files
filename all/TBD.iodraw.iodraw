@@ -515,7 +515,7 @@
           <mxGeometry x="230" y="662" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5GUqqphRXAoeI9BJWliz-28" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;i style=&quot;font-size: 14px;&quot;&gt;Request Scheduler&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;(§4.5)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="5GUqqphRXAoeI9BJWliz-1">
-          <mxGeometry x="43" y="519" width="500" height="44.01" as="geometry" />
+          <mxGeometry x="43" y="519" width="495" height="44.01" as="geometry" />
         </mxCell>
         <mxCell id="5GUqqphRXAoeI9BJWliz-29" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;" edge="1" parent="5GUqqphRXAoeI9BJWliz-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -544,7 +544,7 @@
           <mxGeometry x="65" y="591" width="84" height="30.18" as="geometry" />
         </mxCell>
         <mxCell id="fSndQ3-lEzMjsp1zUzVA-1" value="D" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="5GUqqphRXAoeI9BJWliz-1">
-          <mxGeometry x="456" y="593.75" width="91" height="31" as="geometry" />
+          <mxGeometry x="445" y="593.75" width="91" height="31" as="geometry" />
         </mxCell>
         <mxCell id="fSndQ3-lEzMjsp1zUzVA-2" value="E" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="5GUqqphRXAoeI9BJWliz-1">
           <mxGeometry x="335" y="597.5" width="82" height="27.25" as="geometry" />
