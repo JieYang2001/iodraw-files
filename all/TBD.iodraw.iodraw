@@ -631,10 +631,10 @@
           <mxGeometry x="498" y="842.52" width="55" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fSndQ3-lEzMjsp1zUzVA-13" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;" vertex="1" parent="5GUqqphRXAoeI9BJWliz-1">
-          <mxGeometry x="299" y="794" width="120.5" height="67.02" as="geometry" />
+          <mxGeometry x="303" y="794" width="110" height="67.02" as="geometry" />
         </mxCell>
-        <mxCell id="fSndQ3-lEzMjsp1zUzVA-14" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Pinned&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5GUqqphRXAoeI9BJWliz-1">
-          <mxGeometry x="378.5" y="844.52" width="40" height="20" as="geometry" />
+        <mxCell id="fSndQ3-lEzMjsp1zUzVA-14" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Pinned&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-15;" vertex="1" parent="5GUqqphRXAoeI9BJWliz-1">
+          <mxGeometry x="373" y="843.81" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fSndQ3-lEzMjsp1zUzVA-15" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;All KV Cache&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=0.25;strokeColor=#6c8ebf;" vertex="1" parent="5GUqqphRXAoeI9BJWliz-1">
           <mxGeometry x="442" y="806.02" width="100" height="40" as="geometry" />
