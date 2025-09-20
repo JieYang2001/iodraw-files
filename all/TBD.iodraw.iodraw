@@ -623,10 +623,10 @@
           <mxGeometry x="143" y="588" width="52" height="33" as="geometry" />
         </mxCell>
         <mxCell id="fSndQ3-lEzMjsp1zUzVA-1" value="D" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5GUqqphRXAoeI9BJWliz-1">
-          <mxGeometry x="260" y="597" width="52" height="33" as="geometry" />
+          <mxGeometry x="213" y="587.5" width="52" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="fSndQ3-lEzMjsp1zUzVA-2" value="P" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5GUqqphRXAoeI9BJWliz-1">
-          <mxGeometry x="353" y="601" width="52" height="33" as="geometry" />
+        <mxCell id="fSndQ3-lEzMjsp1zUzVA-2" value="E" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5GUqqphRXAoeI9BJWliz-1">
+          <mxGeometry x="354" y="591.75" width="52" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
