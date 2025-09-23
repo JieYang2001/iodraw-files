@@ -539,8 +539,8 @@
         <mxCell id="fSndQ3-lEzMjsp1zUzVA-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="5GUqqphRXAoeI9BJWliz-1" vertex="1">
           <mxGeometry x="43" y="738" width="230" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="fSndQ3-lEzMjsp1zUzVA-4" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;GPU mem&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="5GUqqphRXAoeI9BJWliz-1" vertex="1">
-          <mxGeometry x="43" y="738" width="67" height="18.49" as="geometry" />
+        <mxCell id="fSndQ3-lEzMjsp1zUzVA-4" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;GPU&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="5GUqqphRXAoeI9BJWliz-1" vertex="1">
+          <mxGeometry x="43" y="738" width="29" height="18.49" as="geometry" />
         </mxCell>
         <mxCell id="fSndQ3-lEzMjsp1zUzVA-5" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Model&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fillColor=#d5e8d4;strokeColor=#82b366;opacity=70;" parent="5GUqqphRXAoeI9BJWliz-1" vertex="1">
           <mxGeometry x="48" y="758.49" width="79.5" height="70" as="geometry" />
