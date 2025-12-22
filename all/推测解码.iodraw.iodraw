@@ -165,8 +165,8 @@
         <mxCell id="_0ND9cPGM_D3uoisPAdz-1" value="Transformer Layer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-15" y="196" width="146" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_0ND9cPGM_D3uoisPAdz-3" value="Transformer Layer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-5" y="206" width="146" height="40" as="geometry" />
+        <mxCell id="_0ND9cPGM_D3uoisPAdz-4" value="Embeding" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="263" width="146" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
