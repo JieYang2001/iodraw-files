@@ -182,11 +182,22 @@
         <mxCell id="_0ND9cPGM_D3uoisPAdz-4" value="Embeding" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-15" y="261" width="146" height="27" as="geometry" />
         </mxCell>
+        <mxCell id="_0ND9cPGM_D3uoisPAdz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_0ND9cPGM_D3uoisPAdz-5" target="_0ND9cPGM_D3uoisPAdz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_0ND9cPGM_D3uoisPAdz-5" value="Transformer Layer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-15" y="90" width="146" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_0ND9cPGM_D3uoisPAdz-6" value="LM Head" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-15" y="27" width="146" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="_0ND9cPGM_D3uoisPAdz-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_0ND9cPGM_D3uoisPAdz-7" target="_0ND9cPGM_D3uoisPAdz-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-78" y="75" />
+              <mxPoint x="58" y="75" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_0ND9cPGM_D3uoisPAdz-7" value="Draft Head" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-111" y="126" width="66" height="40" as="geometry" />
