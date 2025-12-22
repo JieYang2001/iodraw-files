@@ -158,7 +158,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PwAKoU7pox02ZkUScmtQ" name="第 2 页">
-    <mxGraphModel dx="1068" dy="412" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1201" dy="495" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,7 +202,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_0ND9cPGM_D3uoisPAdz-7" value="Draft Head" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-111" y="90" width="66" height="40" as="geometry" />
+          <mxGeometry x="-92" y="90" width="66" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_0ND9cPGM_D3uoisPAdz-14" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-15" y="295" width="146" height="16" as="geometry" />
