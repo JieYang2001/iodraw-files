@@ -149,7 +149,10 @@
           <mxGeometry x="267.25" y="196" width="47" height="26" as="geometry" />
         </mxCell>
         <mxCell id="nceChPhB53HmoEGXNaLv-77" value="a) sequence process" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="71" y="321" width="129" height="26" as="geometry" />
+          <mxGeometry x="147.75" y="325" width="129" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nceChPhB53HmoEGXNaLv-78" value="b) proactively process" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="147.5" y="447" width="135" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
