@@ -137,16 +137,16 @@
           <mxGeometry x="-27" y="419" width="49" height="26" as="geometry" />
         </mxCell>
         <mxCell id="nceChPhB53HmoEGXNaLv-73" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="100" y="205" width="12" height="12" as="geometry" />
+          <mxGeometry x="135.75" y="203" width="12" height="12" as="geometry" />
         </mxCell>
         <mxCell id="nceChPhB53HmoEGXNaLv-74" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="218" y="205" width="12" height="12" as="geometry" />
+          <mxGeometry x="253.75" y="203" width="12" height="12" as="geometry" />
         </mxCell>
         <mxCell id="nceChPhB53HmoEGXNaLv-75" value="draft" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="114" y="198" width="42" height="26" as="geometry" />
+          <mxGeometry x="149.75" y="196" width="42" height="26" as="geometry" />
         </mxCell>
         <mxCell id="nceChPhB53HmoEGXNaLv-76" value="verify" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="231.5" y="198" width="47" height="26" as="geometry" />
+          <mxGeometry x="267.25" y="196" width="47" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
