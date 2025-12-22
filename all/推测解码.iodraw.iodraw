@@ -148,8 +148,8 @@
         <mxCell id="nceChPhB53HmoEGXNaLv-76" value="verify" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="267.25" y="196" width="47" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="nceChPhB53HmoEGXNaLv-77" value="a) sequence speculation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="161" y="325" width="148" height="26" as="geometry" />
+        <mxCell id="nceChPhB53HmoEGXNaLv-77" value="a) sequential speculation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="325" width="151" height="26" as="geometry" />
         </mxCell>
         <mxCell id="nceChPhB53HmoEGXNaLv-78" value="b) asynchronous speculation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="156" y="445" width="171" height="26" as="geometry" />
