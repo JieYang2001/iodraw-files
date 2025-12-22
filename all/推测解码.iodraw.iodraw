@@ -114,7 +114,7 @@
         </mxCell>
         <mxCell id="nceChPhB53HmoEGXNaLv-66" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="545" as="sourcePoint" />
+            <mxPoint x="40" y="449" as="sourcePoint" />
             <mxPoint x="40" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -134,7 +134,7 @@
           <mxGeometry x="-27" y="386" width="49" height="26" as="geometry" />
         </mxCell>
         <mxCell id="nceChPhB53HmoEGXNaLv-72" value="Step3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-27" y="507" width="49" height="26" as="geometry" />
+          <mxGeometry x="-27" y="419" width="49" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
