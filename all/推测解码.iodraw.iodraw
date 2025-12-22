@@ -174,8 +174,8 @@
         <mxCell id="_0ND9cPGM_D3uoisPAdz-6" value="LM Head" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-15" y="27" width="146" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="_0ND9cPGM_D3uoisPAdz-7" value="Light-weight Predictor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-137" y="130" width="85" height="40" as="geometry" />
+        <mxCell id="_0ND9cPGM_D3uoisPAdz-7" value="Draft Head" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-118" y="130" width="66" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
