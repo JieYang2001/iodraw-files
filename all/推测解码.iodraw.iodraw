@@ -412,8 +412,8 @@
         <mxCell id="AFEm3UbQYZvh_JOX1VMr-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="329" y="400" width="16" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="AFEm3UbQYZvh_JOX1VMr-8" value="Draft_0&lt;div&gt;(Fased, lowest cost, coarse filtering)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="147" y="340" width="212" height="50" as="geometry" />
+        <mxCell id="AFEm3UbQYZvh_JOX1VMr-8" value="Draft_1&lt;div&gt;(lightweight, fast inference)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137" y="230" width="212" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
