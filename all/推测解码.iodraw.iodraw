@@ -403,7 +403,7 @@
         <mxCell id="CJuS_AxjL3E3_HkV93n3-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="215" width="76" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CJuS_AxjL3E3_HkV93n3-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CJuS_AxjL3E3_HkV93n3-3" value="Target" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="205" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
