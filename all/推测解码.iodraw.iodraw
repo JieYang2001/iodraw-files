@@ -396,7 +396,11 @@
         </mxCell>
         <mxCell id="CJuS_AxjL3E3_HkV93n3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CJuS_AxjL3E3_HkV93n3-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="149.9999999999999" as="targetPoint" />
+            <mxPoint x="480" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="381" y="235" />
+              <mxPoint x="381" y="150" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CJuS_AxjL3E3_HkV93n3-1" value="Draft_0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
