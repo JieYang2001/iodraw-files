@@ -392,10 +392,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CJuS_AxjL3E3_HkV93n3-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="230" width="40" height="30" as="geometry" />
+          <mxGeometry x="280" y="220" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CJuS_AxjL3E3_HkV93n3-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="230" width="76" height="40" as="geometry" />
+          <mxGeometry x="390" y="215" width="76" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CJuS_AxjL3E3_HkV93n3-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="220" width="120" height="60" as="geometry" />
