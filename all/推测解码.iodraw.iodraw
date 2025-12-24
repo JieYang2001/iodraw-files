@@ -401,7 +401,7 @@
           <mxGeometry x="250" y="290" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CJuS_AxjL3E3_HkV93n3-15" value="draft_0" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="260" width="90" height="65" as="geometry" />
+          <mxGeometry x="310" y="270" width="170" height="72.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
