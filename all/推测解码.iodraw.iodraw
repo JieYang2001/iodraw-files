@@ -410,9 +410,10 @@
         <mxCell id="AFEm3UbQYZvh_JOX1VMr-9" value="Draft_K&lt;div&gt;(strongest draft, high confidence)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="137" y="203" width="220" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="AFEm3UbQYZvh_JOX1VMr-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AFEm3UbQYZvh_JOX1VMr-10">
+        <mxCell id="AFEm3UbQYZvh_JOX1VMr-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="158.47619047619048" as="targetPoint" />
+            <mxPoint x="403" y="129.9961904761905" as="targetPoint" />
+            <mxPoint x="370" y="130.02" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AFEm3UbQYZvh_JOX1VMr-10" value="Target Model&lt;div&gt;(high-quality, final decision maker)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
