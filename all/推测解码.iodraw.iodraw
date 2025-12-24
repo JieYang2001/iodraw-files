@@ -394,8 +394,18 @@
         <mxCell id="CJuS_AxjL3E3_HkV93n3-19" value="Draft_0&lt;div&gt;(Fased, lowest cost, coarse filtering)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="137" y="330" width="220" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="AFEm3UbQYZvh_JOX1VMr-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="AFEm3UbQYZvh_JOX1VMr-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="294.66666666666663" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AFEm3UbQYZvh_JOX1VMr-8" value="Draft_1&lt;div&gt;(lightweight, fast inference)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="137" y="267" width="220" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="AFEm3UbQYZvh_JOX1VMr-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="AFEm3UbQYZvh_JOX1VMr-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="230.85714285714278" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="AFEm3UbQYZvh_JOX1VMr-9" value="Draft_K&lt;div&gt;(strongest draft, high confidence)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="137" y="203" width="220" height="37" as="geometry" />
