@@ -392,16 +392,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CJuS_AxjL3E3_HkV93n3-1" value="Draft_0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="220" width="50" height="30" as="geometry" />
+          <mxGeometry x="200" y="120" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CJuS_AxjL3E3_HkV93n3-2" value="Draft_1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="67" y="282.5" width="76" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CJuS_AxjL3E3_HkV93n3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CJuS_AxjL3E3_HkV93n3-3" target="CJuS_AxjL3E3_HkV93n3-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="CJuS_AxjL3E3_HkV93n3-3" value="Draft_2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="205" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CJuS_AxjL3E3_HkV93n3-7" value="Target" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="187.5" width="166" height="95" as="geometry" />
