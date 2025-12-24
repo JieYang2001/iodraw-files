@@ -403,6 +403,9 @@
         <mxCell id="CJuS_AxjL3E3_HkV93n3-7" value="Target" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="360" width="166" height="95" as="geometry" />
         </mxCell>
+        <mxCell id="CJuS_AxjL3E3_HkV93n3-12" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
