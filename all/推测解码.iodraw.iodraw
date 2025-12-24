@@ -391,8 +391,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CJuS_AxjL3E3_HkV93n3-19" value="Draft_0&lt;div&gt;(Fased, lowest cost, coarse filtering)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="137" y="330" width="212" height="50" as="geometry" />
+        <mxCell id="CJuS_AxjL3E3_HkV93n3-19" value="Draft_0&lt;div&gt;(Fased, lowest cost, coarse filtering)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="137" y="330" width="212" height="45" as="geometry" />
         </mxCell>
         <mxCell id="AFEm3UbQYZvh_JOX1VMr-2" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="400" width="16" height="16" as="geometry" />
@@ -412,14 +412,14 @@
         <mxCell id="AFEm3UbQYZvh_JOX1VMr-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="329" y="400" width="16" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="AFEm3UbQYZvh_JOX1VMr-8" value="Draft_1&lt;div&gt;(lightweight, fast inference)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="137" y="250" width="212" height="50" as="geometry" />
+        <mxCell id="AFEm3UbQYZvh_JOX1VMr-8" value="Draft_1&lt;div&gt;(lightweight, fast inference)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="137" y="250" width="212" height="45" as="geometry" />
         </mxCell>
         <mxCell id="AFEm3UbQYZvh_JOX1VMr-9" value="Draft_K&lt;div&gt;(strongest draft, high confidence)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="137" y="160" width="212" height="50" as="geometry" />
+          <mxGeometry x="137" y="160" width="212" height="45" as="geometry" />
         </mxCell>
         <mxCell id="AFEm3UbQYZvh_JOX1VMr-10" value="Target Model&lt;div&gt;(high-quality, final decision maker)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="137" y="70" width="212" height="50" as="geometry" />
+          <mxGeometry x="137" y="70" width="212" height="45" as="geometry" />
         </mxCell>
         <mxCell id="AFEm3UbQYZvh_JOX1VMr-11" value="Skip-Mechanism" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="265" y="205" width="310" height="40" as="geometry" />
