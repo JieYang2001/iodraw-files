@@ -391,9 +391,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AFEm3UbQYZvh_JOX1VMr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CJuS_AxjL3E3_HkV93n3-19" target="AFEm3UbQYZvh_JOX1VMr-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="CJuS_AxjL3E3_HkV93n3-19" value="Draft_0&lt;div&gt;(Fased, lowest cost, coarse filtering)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="137" y="330" width="212" height="50" as="geometry" />
         </mxCell>
@@ -415,9 +412,6 @@
         <mxCell id="AFEm3UbQYZvh_JOX1VMr-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="329" y="400" width="16" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="AFEm3UbQYZvh_JOX1VMr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AFEm3UbQYZvh_JOX1VMr-8" target="AFEm3UbQYZvh_JOX1VMr-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="AFEm3UbQYZvh_JOX1VMr-8" value="Draft_1&lt;div&gt;(lightweight, fast inference)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="137" y="230" width="212" height="50" as="geometry" />
         </mxCell>
@@ -427,33 +421,17 @@
         <mxCell id="AFEm3UbQYZvh_JOX1VMr-10" value="Target Model&lt;div&gt;(high-quality, final decision maker)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="137" y="20" width="212" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AFEm3UbQYZvh_JOX1VMr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AFEm3UbQYZvh_JOX1VMr-11" target="AFEm3UbQYZvh_JOX1VMr-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="400" y="305" />
-              <mxPoint x="400" y="45" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AFEm3UbQYZvh_JOX1VMr-11" value="Skip-Mechanism" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="188.5" y="290" width="109" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AFEm3UbQYZvh_JOX1VMr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AFEm3UbQYZvh_JOX1VMr-12" target="AFEm3UbQYZvh_JOX1VMr-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="400" y="195" />
-              <mxPoint x="400" y="45" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AFEm3UbQYZvh_JOX1VMr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AFEm3UbQYZvh_JOX1VMr-12" target="AFEm3UbQYZvh_JOX1VMr-9">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AFEm3UbQYZvh_JOX1VMr-12" value="Skip-Mechanism" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="188.5" y="180" width="109" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AFEm3UbQYZvh_JOX1VMr-13" value="Skip-Mechanism" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="188.5" y="80" width="109" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AFEm3UbQYZvh_JOX1VMr-14" value="Skip-Mechanism" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="198.5" y="90" width="109" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
