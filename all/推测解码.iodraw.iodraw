@@ -421,8 +421,8 @@
         <mxCell id="AFEm3UbQYZvh_JOX1VMr-10" value="Target Model&lt;div&gt;(high-quality, final decision maker)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="137" y="70" width="212" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AFEm3UbQYZvh_JOX1VMr-11" value="Skip-Mechanism" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="410" y="220" width="109" height="30" as="geometry" />
+        <mxCell id="AFEm3UbQYZvh_JOX1VMr-11" value="Skip-Mechanism" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="349.5" y="280.5" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
