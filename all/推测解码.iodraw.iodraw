@@ -415,6 +415,9 @@
         <mxCell id="AFEm3UbQYZvh_JOX1VMr-8" value="Draft_1&lt;div&gt;(lightweight, fast inference)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="137" y="230" width="212" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="AFEm3UbQYZvh_JOX1VMr-9" value="Draft_K&lt;div&gt;(strongest draft, high confidence)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137" y="120" width="212" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
