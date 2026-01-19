@@ -1862,8 +1862,8 @@
         </mxCell>
         <mxCell id="fBDid7ixdnx_cSmH_Ptj-49" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="364" y="210" as="sourcePoint" />
-            <mxPoint x="464" y="210" as="targetPoint" />
+            <mxPoint x="360" y="210" as="sourcePoint" />
+            <mxPoint x="460" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fBDid7ixdnx_cSmH_Ptj-54" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="fBDid7ixdnx_cSmH_Ptj-21">
@@ -1897,13 +1897,13 @@
         </mxCell>
         <mxCell id="fBDid7ixdnx_cSmH_Ptj-58" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="463.52" y="280" as="sourcePoint" />
-            <mxPoint x="463.52" y="210" as="targetPoint" />
+            <mxPoint x="460" y="280" as="sourcePoint" />
+            <mxPoint x="460" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fBDid7ixdnx_cSmH_Ptj-59" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="260" as="sourcePoint" />
+            <mxPoint x="370" y="259.52" as="sourcePoint" />
             <mxPoint x="420" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
