@@ -1729,14 +1729,23 @@
             <mxPoint x="480" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fBDid7ixdnx_cSmH_Ptj-4" value="E" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fBDid7ixdnx_cSmH_Ptj-4" value="E" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="160" y="340" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fBDid7ixdnx_cSmH_Ptj-5" value="P" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fBDid7ixdnx_cSmH_Ptj-5" value="P" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="240" y="350" width="30" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fBDid7ixdnx_cSmH_Ptj-6" value="D" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fBDid7ixdnx_cSmH_Ptj-6" value="D" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="270" y="380" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fBDid7ixdnx_cSmH_Ptj-7" value="E" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="170" y="350" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fBDid7ixdnx_cSmH_Ptj-8" value="P" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="250" y="360" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fBDid7ixdnx_cSmH_Ptj-9" value="D" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="390" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
