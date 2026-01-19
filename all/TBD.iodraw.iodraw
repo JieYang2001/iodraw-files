@@ -1707,7 +1707,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fR6kqnFvdcZgDLiOZ75V" name="SM-Utilization">
-    <mxGraphModel dx="467" dy="306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="668" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1720,7 +1720,7 @@
         <mxCell id="fBDid7ixdnx_cSmH_Ptj-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="400" as="sourcePoint" />
-            <mxPoint x="500" y="400" as="targetPoint" />
+            <mxPoint x="620" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fBDid7ixdnx_cSmH_Ptj-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
