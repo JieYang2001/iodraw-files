@@ -307,15 +307,15 @@
         <mxCell id="zM8PKu0ttEJsstJd3csA-30" value="PCIe" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="zM8PKu0ttEJsstJd3csA-1">
           <mxGeometry x="266.5" y="768.49" width="45" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="zM8PKu0ttEJsstJd3csA-31" value="" style="endArrow=classic;html=1;rounded=0;endSize=4;jumpSize=6;fontSize=6;" edge="1" parent="zM8PKu0ttEJsstJd3csA-1">
+        <mxCell id="zM8PKu0ttEJsstJd3csA-31" value="" style="endArrow=classic;html=1;rounded=0;endSize=4;jumpSize=6;fontSize=10;" edge="1" parent="zM8PKu0ttEJsstJd3csA-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="724" as="sourcePoint" />
             <mxPoint x="250" y="744" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zM8PKu0ttEJsstJd3csA-32" value="" style="endArrow=classic;html=1;rounded=0;endSize=4;jumpSize=6;fontSize=6;" edge="1" parent="zM8PKu0ttEJsstJd3csA-1">
+        <mxCell id="zM8PKu0ttEJsstJd3csA-32" value="" style="endArrow=classic;html=1;rounded=0;endSize=4;jumpSize=6;fontSize=10;" edge="1" parent="zM8PKu0ttEJsstJd3csA-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="328" y="724" as="sourcePoint" />
+            <mxPoint x="329" y="727" as="sourcePoint" />
             <mxPoint x="328" y="744.49" as="targetPoint" />
           </mxGeometry>
         </mxCell>
