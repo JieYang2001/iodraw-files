@@ -1073,8 +1073,8 @@
         <mxCell id="4ggnSSGk8Ar_2JaHVYud-78" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;font face=&quot;Tahoma&quot; color=&quot;#cc6600&quot; style=&quot;font-size: 14px;&quot;&gt;Next Layer&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="4ggnSSGk8Ar_2JaHVYud-1">
           <mxGeometry x="1029.8" y="449.4" width="84" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="4ggnSSGk8Ar_2JaHVYud-79" value="&lt;p style=&quot;line-height: 131%;&quot;&gt;&lt;font color=&quot;#006600&quot; size=&quot;1&quot; style=&quot;&quot; face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Current Layer&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;spacing=0;" vertex="1" parent="4ggnSSGk8Ar_2JaHVYud-1">
-          <mxGeometry x="1161" y="459" width="98" height="53" as="geometry" />
+        <mxCell id="4ggnSSGk8Ar_2JaHVYud-79" value="&lt;p style=&quot;line-height: 131%; font-size: 12px;&quot;&gt;&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 12px;&quot; color=&quot;#006600&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Current Layer&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;spacing=0;" vertex="1" parent="4ggnSSGk8Ar_2JaHVYud-1">
+          <mxGeometry x="1167" y="462" width="86" height="48" as="geometry" />
         </mxCell>
         <mxCell id="4ggnSSGk8Ar_2JaHVYud-80" value="&lt;b style=&quot;font-family: Verdana; font-size: x-small;&quot;&gt;&lt;i style=&quot;font-size: 15px;&quot;&gt;Decoding&lt;/i&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="4ggnSSGk8Ar_2JaHVYud-1">
           <mxGeometry x="960" y="231.99999999999997" width="83" height="25" as="geometry" />
