@@ -1092,12 +1092,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="prefetcher v2.1" id="F8f8KBNiKkW-7tgXH_cX">
-    <mxGraphModel dx="1002" dy="918" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="268" dy="437" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="hkman8FR8rOr01ljm998-0" />
         <mxCell id="hkman8FR8rOr01ljm998-1" parent="hkman8FR8rOr01ljm998-0" />
         <mxCell id="hkman8FR8rOr01ljm998-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;fillColor=#d5e8d4;strokeColor=#82b366;opacity=40;" vertex="1" parent="hkman8FR8rOr01ljm998-1">
-          <mxGeometry x="850" y="227" width="407" height="272" as="geometry" />
+          <mxGeometry x="850" y="234" width="407" height="265" as="geometry" />
         </mxCell>
         <mxCell id="hkman8FR8rOr01ljm998-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;fillColor=#FFE6CC;opacity=50;strokeColor=#FFB366;strokeWidth=2;" vertex="1" parent="hkman8FR8rOr01ljm998-1">
           <mxGeometry x="866" y="297" width="245" height="189" as="geometry" />
