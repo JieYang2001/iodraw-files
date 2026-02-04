@@ -1148,10 +1148,10 @@
           <mxGeometry x="1117.13" y="425.15" width="131.87" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="hkman8FR8rOr01ljm998-19" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=default;fillColor=none;strokeColor=#CC0000;strokeWidth=3;" vertex="1" parent="hkman8FR8rOr01ljm998-1">
-          <mxGeometry x="880.5999999999999" y="309" width="22.5" height="90" as="geometry" />
+          <mxGeometry x="880.6" y="309" width="22.5" height="81" as="geometry" />
         </mxCell>
         <mxCell id="hkman8FR8rOr01ljm998-20" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=default;fillColor=none;strokeColor=#CC0000;strokeWidth=3;" vertex="1" parent="hkman8FR8rOr01ljm998-1">
-          <mxGeometry x="928.35" y="309.5" width="22.5" height="79.5" as="geometry" />
+          <mxGeometry x="928.35" y="309.5" width="16.65" height="79.5" as="geometry" />
         </mxCell>
         <mxCell id="hkman8FR8rOr01ljm998-21" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=default;fillColor=none;strokeColor=#CC0000;strokeWidth=3;rotation=90;" vertex="1" parent="hkman8FR8rOr01ljm998-1">
           <mxGeometry x="909.6" y="427.65" width="60" height="22.5" as="geometry" />
