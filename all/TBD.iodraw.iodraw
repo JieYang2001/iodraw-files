@@ -1092,7 +1092,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="prefetcher v2.1" id="F8f8KBNiKkW-7tgXH_cX">
-    <mxGraphModel dx="-130" dy="177" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="268" dy="437" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="hkman8FR8rOr01ljm998-0" />
         <mxCell id="hkman8FR8rOr01ljm998-1" parent="hkman8FR8rOr01ljm998-0" />
@@ -1213,8 +1213,8 @@
         <mxCell id="hkman8FR8rOr01ljm998-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="hkman8FR8rOr01ljm998-1" source="hkman8FR8rOr01ljm998-35" target="hkman8FR8rOr01ljm998-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1093" y="428" />
-              <mxPoint x="1093" y="268" />
+              <mxPoint x="1100" y="428" />
+              <mxPoint x="1100" y="269" />
             </Array>
           </mxGeometry>
         </mxCell>
