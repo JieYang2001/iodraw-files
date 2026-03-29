@@ -881,6 +881,12 @@
         <mxCell id="ofRdlILJzOQ6RqmA06LG-3" value="Improved Graph&lt;br&gt;Partitioning" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ofRdlILJzOQ6RqmA06LG-4" value="Partition&lt;br&gt;Ordering" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ofRdlILJzOQ6RqmA06LG-5" value="Partition&lt;br&gt;Ordering" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
