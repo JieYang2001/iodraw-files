@@ -1051,6 +1051,21 @@
             <mxPoint x="260" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="buxZIog767X8BJDGnDWp-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1.5;endSize=3;fontFamily=Arial;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="330" as="sourcePoint" />
+            <mxPoint x="283" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="buxZIog767X8BJDGnDWp-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1.5;endSize=3;fontFamily=Arial;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="340" as="sourcePoint" />
+            <mxPoint x="293" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
