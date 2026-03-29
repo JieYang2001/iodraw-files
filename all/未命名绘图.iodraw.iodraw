@@ -896,7 +896,7 @@
         <mxCell id="ofRdlILJzOQ6RqmA06LG-12" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="320" width="450" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ofRdlILJzOQ6RqmA06LG-13" value="Improved Graph&lt;br&gt;Partitioning" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ofRdlILJzOQ6RqmA06LG-13" value="Transmission&lt;br&gt;Cost Analysis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ofRdlILJzOQ6RqmA06LG-14" value="Partition&lt;br&gt;Ordering" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
