@@ -1015,7 +1015,7 @@
             <mxPoint x="211.5" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="buxZIog767X8BJDGnDWp-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1.5;endSize=3;fontFamily=Arial;" edge="1" parent="1">
+        <mxCell id="buxZIog767X8BJDGnDWp-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1.5;endSize=3;fontFamily=Arial;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="buxZIog767X8BJDGnDWp-27" target="buxZIog767X8BJDGnDWp-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="237" y="280" as="sourcePoint" />
             <mxPoint x="260" y="300" as="targetPoint" />
