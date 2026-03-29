@@ -355,7 +355,7 @@
           <mxGeometry x="450" y="458.55" width="20" height="30.9" as="geometry" />
         </mxCell>
         <mxCell id="VWvVa_c_2DDT_0CcdQE8-83" value="CPU Filter" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="245" y="534" width="135" height="40" as="geometry" />
+          <mxGeometry x="230" y="534" width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VWvVa_c_2DDT_0CcdQE8-84" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=6;endSize=4.83;endWidth=12;fontSize=18;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
