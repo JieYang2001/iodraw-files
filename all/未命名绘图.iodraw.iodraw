@@ -213,6 +213,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VWvVa_c_2DDT_0CcdQE8-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="VWvVa_c_2DDT_0CcdQE8-60" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="220" y="305.45" width="140" height="60" as="geometry" />
         </mxCell>
