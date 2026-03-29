@@ -911,7 +911,7 @@
         <mxCell id="ofRdlILJzOQ6RqmA06LG-16" value="Cost-Aware Transfer Management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="95" y="325" width="300" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ofRdlILJzOQ6RqmA06LG-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#595959;fontSize=18;width=8;endSize=3;" parent="1" edge="1">
+        <mxCell id="ofRdlILJzOQ6RqmA06LG-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#595959;fontSize=18;width=8;endSize=3.668181818181818;endWidth=12.272727272727272;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="359" y="125" as="sourcePoint" />
             <mxPoint x="359" y="163" as="targetPoint" />
