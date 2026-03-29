@@ -902,7 +902,7 @@
         <mxCell id="ofRdlILJzOQ6RqmA06LG-14" value="Cost&lt;br&gt;Budgeting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ofRdlILJzOQ6RqmA06LG-15" value="Blocking-Based&lt;br&gt;Scheduling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ofRdlILJzOQ6RqmA06LG-15" value="Choose Lowest-Cost Transfer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ofRdlILJzOQ6RqmA06LG-16" value="Cost-Aware Transfer Management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
