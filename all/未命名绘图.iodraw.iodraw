@@ -249,12 +249,6 @@
         <mxCell id="VWvVa_c_2DDT_0CcdQE8-83" value="CPU Filter" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="222.5" y="560" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VWvVa_c_2DDT_0CcdQE8-106" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="255" y="344.58" as="sourcePoint" />
-            <mxPoint x="295" y="344.58" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VWvVa_c_2DDT_0CcdQE8-107" value="Graph&lt;div style=&quot;font-size: 18px;&quot;&gt;Processing&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="300" y="310.22999999999996" width="100" height="69.55" as="geometry" />
         </mxCell>
