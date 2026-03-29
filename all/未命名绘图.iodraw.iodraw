@@ -899,7 +899,7 @@
         <mxCell id="ofRdlILJzOQ6RqmA06LG-13" value="Transmission&lt;br&gt;Cost Analysis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ofRdlILJzOQ6RqmA06LG-14" value="Partition&lt;br&gt;Ordering" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ofRdlILJzOQ6RqmA06LG-14" value="Cost&lt;br&gt;Budgeting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ofRdlILJzOQ6RqmA06LG-15" value="Blocking-Based&lt;br&gt;Scheduling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
