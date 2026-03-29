@@ -1059,11 +1059,14 @@
         </mxCell>
         <mxCell id="buxZIog767X8BJDGnDWp-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1.5;endSize=3;fontFamily=Arial;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="340" as="sourcePoint" />
-            <mxPoint x="293" y="360" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="230" y="410" />
-            </Array>
+            <mxPoint x="170" y="430" as="sourcePoint" />
+            <mxPoint x="193" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="buxZIog767X8BJDGnDWp-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1.5;endSize=3;fontFamily=Arial;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="177.07" y="270" as="sourcePoint" />
+            <mxPoint x="160" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
