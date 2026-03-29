@@ -933,7 +933,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vYkdsnijoCDIeVJPRwIB" name="Partition Scheduling">
-    <mxGraphModel dx="630" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="454" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -981,8 +981,14 @@
         </mxCell>
         <mxCell id="buxZIog767X8BJDGnDWp-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1.5;endSize=3;fontFamily=Arial;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="177.07" y="270" as="sourcePoint" />
-            <mxPoint x="160" y="300" as="targetPoint" />
+            <mxPoint x="128.54" y="315" as="sourcePoint" />
+            <mxPoint x="111.47" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="buxZIog767X8BJDGnDWp-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1.5;endSize=3;fontFamily=Arial;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="88.53" y="370" as="sourcePoint" />
+            <mxPoint x="71.46000000000001" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
