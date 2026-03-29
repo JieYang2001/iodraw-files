@@ -438,8 +438,8 @@
         <mxCell id="VWvVa_c_2DDT_0CcdQE8-109" value="Main Memory" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="450" y="614.45" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VWvVa_c_2DDT_0CcdQE8-110" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="474" width="120" height="60" as="geometry" />
+        <mxCell id="VWvVa_c_2DDT_0CcdQE8-110" value="Active&lt;br&gt;vertices" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="474" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
