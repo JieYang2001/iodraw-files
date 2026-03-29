@@ -446,8 +446,8 @@
         </mxCell>
         <mxCell id="VWvVa_c_2DDT_0CcdQE8-188" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;fillColor=#fff2cc;strokeColor=#000000;width=9.8;endSize=3.134;fontSize=18;endWidth=16.666666666666668;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="630" as="sourcePoint" />
-            <mxPoint x="280" y="600" as="targetPoint" />
+            <mxPoint x="399.8" y="600" as="sourcePoint" />
+            <mxPoint x="400" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
