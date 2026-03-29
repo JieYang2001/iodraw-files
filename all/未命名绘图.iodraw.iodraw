@@ -700,7 +700,7 @@
           <mxGeometry x="1403.5" y="520" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VWvVa_c_2DDT_0CcdQE8-359" value="Graph&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Processing&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="270.23" width="201" height="69.55" as="geometry" />
+          <mxGeometry x="1310.5" y="270.23" width="201" height="49.78" as="geometry" />
         </mxCell>
         <mxCell id="VWvVa_c_2DDT_0CcdQE8-360" value="GPU" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1538.5" y="220" width="60" height="40" as="geometry" />
@@ -782,6 +782,18 @@
             <mxPoint x="1470.81" y="421.18" as="sourcePoint" />
             <mxPoint x="1470.81" y="391.99999999999994" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VWvVa_c_2DDT_0CcdQE8-424" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c9e5b3;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="765" y="442.65000000000003" width="20" height="30.9" as="geometry" />
+        </mxCell>
+        <mxCell id="VWvVa_c_2DDT_0CcdQE8-425" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c9e5b3;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="785" y="442.65000000000003" width="20" height="30.9" as="geometry" />
+        </mxCell>
+        <mxCell id="VWvVa_c_2DDT_0CcdQE8-426" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c9e5b3;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="805" y="442.55" width="505" height="30.9" as="geometry" />
+        </mxCell>
+        <mxCell id="VWvVa_c_2DDT_0CcdQE8-427" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c9e5b3;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="825" y="442.55" width="20" height="30.9" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
