@@ -933,7 +933,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vYkdsnijoCDIeVJPRwIB" name="Partition Scheduling">
-    <mxGraphModel dx="887" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1301" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1085,7 +1085,7 @@
           <mxGeometry x="355" y="283" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="buxZIog767X8BJDGnDWp-51" value="P2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="365" y="335" width="50" height="40" as="geometry" />
+          <mxGeometry x="355" y="340" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="buxZIog767X8BJDGnDWp-52" value="P3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="355" y="400" width="50" height="40" as="geometry" />
