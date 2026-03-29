@@ -881,7 +881,7 @@
         <mxCell id="ofRdlILJzOQ6RqmA06LG-1" value="Temporal Graph" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ofRdlILJzOQ6RqmA06LG-2" value="Graph Algorithms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ofRdlILJzOQ6RqmA06LG-2" value="Graph Algorithms" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cece;" vertex="1" parent="1">
           <mxGeometry x="300" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ofRdlILJzOQ6RqmA06LG-3" value="Improved Graph&lt;br&gt;Partitioning" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#fee695;" vertex="1" parent="1">
