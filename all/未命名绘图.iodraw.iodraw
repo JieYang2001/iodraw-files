@@ -855,8 +855,8 @@
             <mxPoint x="1351.01" y="414.78" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VWvVa_c_2DDT_0CcdQE8-448" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="740" width="60" height="30" as="geometry" />
+        <mxCell id="VWvVa_c_2DDT_0CcdQE8-448" value="(a) Filtering Method" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="740" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
