@@ -1069,6 +1069,12 @@
             <mxPoint x="231.47" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="buxZIog767X8BJDGnDWp-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="buxZIog767X8BJDGnDWp-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="290" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
