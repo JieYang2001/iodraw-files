@@ -890,7 +890,7 @@
         <mxCell id="ofRdlILJzOQ6RqmA06LG-4" value="Partition&lt;br&gt;Ordering" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ofRdlILJzOQ6RqmA06LG-5" value="Blocking-Based&lt;br&gt;Scheduling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ofRdlILJzOQ6RqmA06LG-5" value="Blocking-Based&lt;br&gt;Scheduling" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fee695;" vertex="1" parent="1">
           <mxGeometry x="330" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ofRdlILJzOQ6RqmA06LG-11" value="Blocked-Controlled Partition Scheduling" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
