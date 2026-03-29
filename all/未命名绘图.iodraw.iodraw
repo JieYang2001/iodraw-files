@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="CR_hb2UVcx_TICw3f8sL">
-    <mxGraphModel dx="514" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="930" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,6 +111,9 @@
         </mxCell>
         <mxCell id="JgbKlZLcMTXhhvhZ7-M4-29" value="[4,5)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="590" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JgbKlZLcMTXhhvhZ7-M4-30" value="&lt;p&gt;&lt;font face=&quot;Arial&quot;&gt;A&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;strokeColor=#666666;strokeWidth=1.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=#333333;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="580" y="170" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
