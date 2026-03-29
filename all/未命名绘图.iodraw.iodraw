@@ -425,12 +425,12 @@
         </mxCell>
         <mxCell id="VWvVa_c_2DDT_0CcdQE8-106" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="280" as="sourcePoint" />
-            <mxPoint x="340" y="280" as="targetPoint" />
+            <mxPoint x="290" y="284.5" as="sourcePoint" />
+            <mxPoint x="330" y="284.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VWvVa_c_2DDT_0CcdQE8-107" value="Graph&lt;div style=&quot;font-size: 18px;&quot;&gt;Processing&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="400" y="245" width="120" height="85" as="geometry" />
+          <mxGeometry x="340" y="250.45" width="120" height="85" as="geometry" />
         </mxCell>
         <mxCell id="VWvVa_c_2DDT_0CcdQE8-108" value="GPU" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="480" y="195" width="60" height="40" as="geometry" />
