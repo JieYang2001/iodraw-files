@@ -495,8 +495,8 @@
         <mxCell id="VWvVa_c_2DDT_0CcdQE8-280" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="780" y="614" width="20" height="30.9" as="geometry" />
         </mxCell>
-        <mxCell id="VWvVa_c_2DDT_0CcdQE8-281" value="CPU Filter" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="802.5" y="520" width="135" height="30" as="geometry" />
+        <mxCell id="VWvVa_c_2DDT_0CcdQE8-281" value="CPU Compression" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="802.5" y="520" width="167.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VWvVa_c_2DDT_0CcdQE8-282" value="Graph&lt;div style=&quot;font-size: 18px;&quot;&gt;Processing&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="880" y="270.22999999999996" width="100" height="69.55" as="geometry" />
@@ -607,7 +607,7 @@
           <mxGeometry x="937.5" y="432.55" width="20" height="30.9" as="geometry" />
         </mxCell>
         <mxCell id="VWvVa_c_2DDT_0CcdQE8-322" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c9e5b3;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="963" y="432.55" width="20" height="30.9" as="geometry" />
+          <mxGeometry x="957.5" y="432.55" width="20" height="30.9" as="geometry" />
         </mxCell>
         <mxCell id="VWvVa_c_2DDT_0CcdQE8-325" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="690" y="310" width="140" height="70" as="geometry" />
