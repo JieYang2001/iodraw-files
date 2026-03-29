@@ -432,6 +432,9 @@
         <mxCell id="VWvVa_c_2DDT_0CcdQE8-107" value="Graph&lt;div&gt;Processing&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="245" width="120" height="85" as="geometry" />
         </mxCell>
+        <mxCell id="VWvVa_c_2DDT_0CcdQE8-108" value="GPU" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="695" y="228" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
