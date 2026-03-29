@@ -821,7 +821,7 @@
         </mxCell>
         <mxCell id="VWvVa_c_2DDT_0CcdQE8-441" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=3.131313131313131;endSize=1.424242424242424;endWidth=5.788536845852616;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1290.89" y="396.01" as="sourcePoint" />
+            <mxPoint x="1290.89" y="395" as="sourcePoint" />
             <mxPoint x="1291" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
