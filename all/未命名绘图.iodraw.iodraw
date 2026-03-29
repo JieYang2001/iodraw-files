@@ -1039,9 +1039,9 @@
             <mxPoint x="111.47" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="buxZIog767X8BJDGnDWp-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1.5;endSize=3;fontFamily=Arial;" edge="1" parent="1">
+        <mxCell id="buxZIog767X8BJDGnDWp-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1.5;endSize=3;fontFamily=Arial;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="237.07" y="440" as="sourcePoint" />
+            <mxPoint x="230" y="450" as="sourcePoint" />
             <mxPoint x="220" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1057,7 +1057,7 @@
             <mxPoint x="283" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="buxZIog767X8BJDGnDWp-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1.5;endSize=3;fontFamily=Arial;" edge="1" parent="1">
+        <mxCell id="buxZIog767X8BJDGnDWp-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1.5;endSize=3;fontFamily=Arial;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="buxZIog767X8BJDGnDWp-19" target="buxZIog767X8BJDGnDWp-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="430" as="sourcePoint" />
             <mxPoint x="193" y="450" as="targetPoint" />
