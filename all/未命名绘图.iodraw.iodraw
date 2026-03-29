@@ -875,7 +875,7 @@
         <mxCell id="ofRdlILJzOQ6RqmA06LG-17" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#e7e6e6;" vertex="1" parent="1">
           <mxGeometry x="-50" y="120" width="550" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="ofRdlILJzOQ6RqmA06LG-6" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="ofRdlILJzOQ6RqmA06LG-6" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d4f4f2;" vertex="1" parent="1">
           <mxGeometry x="20" y="170" width="450" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ofRdlILJzOQ6RqmA06LG-1" value="Temporal Graph" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
