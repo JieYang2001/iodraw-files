@@ -1039,13 +1039,13 @@
             <mxPoint x="111.47" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="buxZIog767X8BJDGnDWp-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1.5;endSize=3;fontFamily=Arial;" edge="1" parent="1">
+        <mxCell id="buxZIog767X8BJDGnDWp-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1.5;endSize=3;fontFamily=Arial;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="buxZIog767X8BJDGnDWp-17" target="buxZIog767X8BJDGnDWp-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="450" as="sourcePoint" />
             <mxPoint x="220" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="buxZIog767X8BJDGnDWp-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1.5;endSize=3;fontFamily=Arial;" edge="1" parent="1">
+        <mxCell id="buxZIog767X8BJDGnDWp-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1.5;endSize=3;fontFamily=Arial;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="buxZIog767X8BJDGnDWp-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="277.07" y="380" as="sourcePoint" />
             <mxPoint x="260" y="410" as="targetPoint" />
