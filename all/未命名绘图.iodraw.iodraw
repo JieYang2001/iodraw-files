@@ -1201,8 +1201,8 @@
         <mxCell id="buxZIog767X8BJDGnDWp-94" value="(b) The Partition Result" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="455" y="530" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="buxZIog767X8BJDGnDWp-95" value="(b) The Partition Result" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="465" y="540" width="230" height="40" as="geometry" />
+        <mxCell id="buxZIog767X8BJDGnDWp-95" value="(c) The Scheduling Order of Partition" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="762" y="520" width="350" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
