@@ -730,7 +730,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="prefetcher v2.0" id="iVB45PKDPg6iTyJKDjpd">
-    <mxGraphModel dx="1002" dy="918" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="576" dy="666" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4ggnSSGk8Ar_2JaHVYud-0" />
         <mxCell id="4ggnSSGk8Ar_2JaHVYud-1" parent="4ggnSSGk8Ar_2JaHVYud-0" />
@@ -884,7 +884,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="prefetcher v2.1" id="F8f8KBNiKkW-7tgXH_cX">
-    <mxGraphModel dx="268" dy="437" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="576" dy="666" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="hkman8FR8rOr01ljm998-0" />
         <mxCell id="hkman8FR8rOr01ljm998-1" parent="hkman8FR8rOr01ljm998-0" />
