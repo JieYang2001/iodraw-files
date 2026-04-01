@@ -1070,10 +1070,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HgcyEsXpWphyL7_mwk9f-4" value="Pinned&lt;div&gt;CPU Cache&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="440" width="80" height="30" as="geometry" />
+          <mxGeometry x="147.5" y="450" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HgcyEsXpWphyL7_mwk9f-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HgcyEsXpWphyL7_mwk9f-5" target="HgcyEsXpWphyL7_mwk9f-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HgcyEsXpWphyL7_mwk9f-5" value="Proactive&lt;div&gt;maintenance&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="440" width="85" height="30" as="geometry" />
+          <mxGeometry x="267.5" y="450" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HgcyEsXpWphyL7_mwk9f-7" value="attention" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="230" width="120" height="60" as="geometry" />
