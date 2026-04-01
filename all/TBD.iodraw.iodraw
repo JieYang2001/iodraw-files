@@ -1088,7 +1088,7 @@
           <mxGeometry x="257.5" y="510" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HgcyEsXpWphyL7_mwk9f-20" value="Pinned&lt;div&gt;CPU Cache&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="450" width="80" height="30" as="geometry" />
+          <mxGeometry x="140" y="550" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
