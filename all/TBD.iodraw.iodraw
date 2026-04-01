@@ -1057,7 +1057,7 @@
         <mxCell id="HgcyEsXpWphyL7_mwk9f-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HgcyEsXpWphyL7_mwk9f-2" target="HgcyEsXpWphyL7_mwk9f-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HgcyEsXpWphyL7_mwk9f-2" value="Prefetch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HgcyEsXpWphyL7_mwk9f-2" value="Prefetch" style="rounded=0;whiteSpace=wrap;html=1;glass=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="380" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HgcyEsXpWphyL7_mwk9f-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HgcyEsXpWphyL7_mwk9f-3" target="HgcyEsXpWphyL7_mwk9f-1">
@@ -1080,6 +1080,9 @@
         </mxCell>
         <mxCell id="HgcyEsXpWphyL7_mwk9f-15" value="Incremental&lt;div&gt;update&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="510" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HgcyEsXpWphyL7_mwk9f-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HgcyEsXpWphyL7_mwk9f-16" target="HgcyEsXpWphyL7_mwk9f-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HgcyEsXpWphyL7_mwk9f-16" value="Proactive&lt;div&gt;maintenance&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="257.5" y="510" width="85" height="30" as="geometry" />
