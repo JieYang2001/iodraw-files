@@ -1082,7 +1082,10 @@
           <mxGeometry x="240" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HgcyEsXpWphyL7_mwk9f-15" value="Incremental&lt;div&gt;update&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="510" width="80" height="30" as="geometry" />
+          <mxGeometry x="90" y="520" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HgcyEsXpWphyL7_mwk9f-16" value="Proactive&lt;div&gt;maintenance&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="520" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
