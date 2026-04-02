@@ -885,13 +885,13 @@
           <mxGeometry x="300" y="48" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ofRdlILJzOQ6RqmA06LG-3" value="Improved Graph&lt;br style=&quot;font-size: 18px;&quot;&gt;Partitioning" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#fee695;" parent="1" vertex="1">
-          <mxGeometry x="50" y="220" width="122" height="60" as="geometry" />
+          <mxGeometry x="50" y="220" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="ofRdlILJzOQ6RqmA06LG-4" value="Partition&lt;br style=&quot;font-size: 18px;&quot;&gt;Ordering" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#fee695;" parent="1" vertex="1">
-          <mxGeometry x="190" y="220" width="122" height="60" as="geometry" />
+          <mxGeometry x="190" y="220" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="ofRdlILJzOQ6RqmA06LG-5" value="Blocking-Based&lt;br style=&quot;font-size: 18px;&quot;&gt;Scheduling" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fee695;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="330" y="220" width="122" height="60" as="geometry" />
+          <mxGeometry x="330" y="220" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="ofRdlILJzOQ6RqmA06LG-11" value="Blocked-Controlled Partition Scheduling" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="75" y="175" width="340" height="40" as="geometry" />
@@ -900,13 +900,13 @@
           <mxGeometry x="20" y="330" width="450" height="96" as="geometry" />
         </mxCell>
         <mxCell id="ofRdlILJzOQ6RqmA06LG-13" value="Transmission&lt;br style=&quot;font-size: 18px;&quot;&gt;Cost Analysis" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#fee695;" parent="1" vertex="1">
-          <mxGeometry x="50" y="360" width="122" height="60" as="geometry" />
+          <mxGeometry x="50" y="360" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="ofRdlILJzOQ6RqmA06LG-14" value="Cost&lt;br style=&quot;font-size: 18px;&quot;&gt;Budgeting" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#fee695;" parent="1" vertex="1">
-          <mxGeometry x="190" y="360" width="122" height="60" as="geometry" />
+          <mxGeometry x="190" y="360" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="ofRdlILJzOQ6RqmA06LG-15" value="Choose Lowest-Cost Transfer" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#fee695;" parent="1" vertex="1">
-          <mxGeometry x="330" y="360" width="122" height="60" as="geometry" />
+          <mxGeometry x="330" y="360" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="ofRdlILJzOQ6RqmA06LG-16" value="Cost-Aware Transfer Management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="95" y="325" width="300" height="40" as="geometry" />
