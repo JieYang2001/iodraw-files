@@ -253,7 +253,7 @@
           <mxGeometry x="300" y="270.22999999999996" width="106" height="69.55" as="geometry" />
         </mxCell>
         <mxCell id="VWvVa_c_2DDT_0CcdQE8-108" value="GPU" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="358.5" y="223" width="61" height="36" as="geometry" />
+          <mxGeometry x="358.5" y="240" width="61" height="36" as="geometry" />
         </mxCell>
         <mxCell id="VWvVa_c_2DDT_0CcdQE8-109" value="Main Memory" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="439" y="573.45" width="139" height="36" as="geometry" />
@@ -502,7 +502,7 @@
           <mxGeometry x="880" y="270.22999999999996" width="106" height="69.55" as="geometry" />
         </mxCell>
         <mxCell id="VWvVa_c_2DDT_0CcdQE8-283" value="GPU" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="938.5" y="223" width="61" height="36" as="geometry" />
+          <mxGeometry x="938.5" y="240" width="61" height="36" as="geometry" />
         </mxCell>
         <mxCell id="VWvVa_c_2DDT_0CcdQE8-284" value="Main Memory" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1019" y="573.45" width="139" height="36" as="geometry" />
