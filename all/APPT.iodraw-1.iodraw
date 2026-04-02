@@ -37,7 +37,7 @@
             <mxPoint x="350" y="409.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JgbKlZLcMTXhhvhZ7-M4-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeWidth=1.5;endSize=3;fontFamily=Arial;" parent="1" source="JgbKlZLcMTXhhvhZ7-M4-3" target="JgbKlZLcMTXhhvhZ7-M4-1" edge="1">
+        <mxCell id="JgbKlZLcMTXhhvhZ7-M4-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.029;exitY=0.282;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeWidth=1.5;endSize=3;fontFamily=Arial;exitPerimeter=0;" parent="1" source="JgbKlZLcMTXhhvhZ7-M4-3" target="JgbKlZLcMTXhhvhZ7-M4-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="42" y="390" as="sourcePoint" />
             <mxPoint x="-30" y="442" as="targetPoint" />
@@ -53,7 +53,7 @@
           <mxGeometry x="120" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JgbKlZLcMTXhhvhZ7-M4-14" value="[2,3)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontFamily=Arial;" parent="1" vertex="1">
-          <mxGeometry x="180" y="353" width="60" height="30" as="geometry" />
+          <mxGeometry x="182" y="356" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JgbKlZLcMTXhhvhZ7-M4-15" value="[4,5)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontFamily=Arial;" parent="1" vertex="1">
           <mxGeometry x="44" y="355" width="60" height="30" as="geometry" />
