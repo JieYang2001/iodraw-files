@@ -872,6 +872,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0g0djNr9s8lMqE-UVfxg-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E6E6E6;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry y="112" width="490" height="235" as="geometry" />
+        </mxCell>
         <mxCell id="ofRdlILJzOQ6RqmA06LG-17" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#e7e6e6;fontSize=18;" parent="1" vertex="1">
           <mxGeometry y="198" width="490" height="235" as="geometry" />
         </mxCell>
@@ -928,9 +931,6 @@
         </mxCell>
         <mxCell id="ofRdlILJzOQ6RqmA06LG-2" value="Graph Algorithms" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cece;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="300" y="117" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0g0djNr9s8lMqE-UVfxg-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#e7e6e6;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry y="108" width="490" height="235" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
