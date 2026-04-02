@@ -900,10 +900,10 @@
           <mxGeometry x="20" y="330" width="450" height="96" as="geometry" />
         </mxCell>
         <mxCell id="ofRdlILJzOQ6RqmA06LG-13" value="Transmission&lt;br style=&quot;font-size: 18px;&quot;&gt;Cost Analysis" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#fee695;" parent="1" vertex="1">
-          <mxGeometry x="50" y="360" width="136" height="65" as="geometry" />
+          <mxGeometry x="27" y="357" width="136" height="65" as="geometry" />
         </mxCell>
         <mxCell id="ofRdlILJzOQ6RqmA06LG-14" value="Cost&lt;br style=&quot;font-size: 18px;&quot;&gt;Budgeting" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#fee695;" parent="1" vertex="1">
-          <mxGeometry x="190" y="360" width="136" height="65" as="geometry" />
+          <mxGeometry x="184" y="357" width="136" height="65" as="geometry" />
         </mxCell>
         <mxCell id="ofRdlILJzOQ6RqmA06LG-15" value="Choose Lowest-Cost Transfer" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#fee695;" parent="1" vertex="1">
           <mxGeometry x="330" y="360" width="136" height="65" as="geometry" />
