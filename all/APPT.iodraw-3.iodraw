@@ -885,7 +885,7 @@
           <mxGeometry x="300" y="48" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ofRdlILJzOQ6RqmA06LG-3" value="Improved Graph&lt;br style=&quot;font-size: 18px;&quot;&gt;Partitioning" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#fee695;" parent="1" vertex="1">
-          <mxGeometry x="50" y="220" width="136" height="65" as="geometry" />
+          <mxGeometry x="27" y="220" width="136" height="65" as="geometry" />
         </mxCell>
         <mxCell id="ofRdlILJzOQ6RqmA06LG-4" value="Partition&lt;br style=&quot;font-size: 18px;&quot;&gt;Ordering" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#fee695;" parent="1" vertex="1">
           <mxGeometry x="190" y="220" width="136" height="65" as="geometry" />
